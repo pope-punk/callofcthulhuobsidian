@@ -158,7 +158,7 @@
 * **1994 (Mid)**: [[Jacqui Lopez (Director Javelin)|Lopez]]'s government ally ([[Robert Toomey]]) mysteriously assassinated by [[CIA]].
 * **1994 (Late)**: PCBOT Coup
     * [[Henry Caraway (Agent Hotel)|Caraway]] takes control of [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] in [[CIA]]-assisted coup.
-    * First full synthesis of modern [[F7 (Fluoroxepram)]] achieved. [[Fauxflake]] chamber completed. [[Jacqui Lopez (Director Javelin)|Lopez]] completely sidelined. [[Katherine Hill]] is promoted and takes dual role as Director Caryatid (BSSA) and ASAC Kayak (PCBOT). CIA plans consolidation of [[Mirror-Breaker Organizations]].
+    * First full synthesis of modern [[F7 (Fluoroxepram)]] achieved. [[Fauxflake]] chamber completed. [[Jacqui Lopez (Director Javelin)|Lopez]] completely sidelined. [[Katherine Hill]] is promoted and takes dual role as Director Caryatid (BSSA) and ASAC Kayak (PCBOT). CIA plans consolidation of [[Mirror-Breaker Protocol|Mirror-Breaker network]].
 
 ## 1995-1996: LTX-ErgoMatic Integration (Phase 1-2)
 
@@ -237,15 +237,14 @@
 * **1997 (September 18)**: The F7 Theft
     * [[Calvin Pierce]] steals pure [[F7 (Fluoroxepram)]] from [[White Stag Bar]] basement. **Key Addition**: Theft enabled by [[Rhea]] to eliminate Alice and clear COTU. Calvin plans escape with [[Sean Fielding]].
 * **1997 (September 19-24)**: Calvin distributes F7 to [[COTU (Center of the Universe)|COTU]] homeless. Mass casualties result from paradoxical food worship.
-* **1997 (September 25)**: **Chrysalis Flees to PCBOT**
-    * Alice and [[Agent Chrysalis]] discover mass casualties at [[COTU (Center of the Universe)|COTU]]. **Panicked by the scene and the discovery of [[Spectator Grubs]], fearing a repeat of [[SDEC (San Diego Entomology Club)|SDEC]], Chrysalis immediately flees Sequoia Falls, taking Grub samples directly to [[PCBOT Headquarters|PCBOT HQ]] in DC.** His departure creates uncertainty at [[BNJC (Blue Note Jazz Collective)|BNJC]] about Alice's state and actions.
+* **1997 (September 25)**: **Chrysalis Goes to Ground**
+    * Alice and [[Agent Chrysalis]] discover mass casualties at [[COTU (Center of the Universe)|COTU]]. Panicked by the scene and the [[Spectator Grubs]], fearing a repeat of [[SDEC (San Diego Entomology Club)|SDEC]], Chrysalis cuts contact with BNJC and disappears. He tells the F7-impaired Alice something about his destination; what she actually heard, and what he actually said, are not reliably the same thing. He is **not** at PCBOT. His present location is unknown to everyone.
 * **1997 (September 26)**: Multiple Crises
     * Morning: [[Calvin Pierce]] killed by [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Rhea Writer]] at [[COTU (Center of the Universe)|COTU]].
     * Evening: [[Sean Fielding]]'s party with [[Hammerskull Crew]].
     * Night: Alice kills [[Sean Fielding]], leaves body in car trunk at [[COTU (Center of the Universe)|COTU]].
     * 2am: Alice discovers [[Calvin Pierce]]'s body, realizes [[Rhea]] found her. Relocates deeper into [[Sewers and Maintenance Tunnels|tunnels]].
-* **1997 (Late Sept - Oct 10):** **Chrysalis Held Captive**
-    * [[Agent Chrysalis|Chrysalis]] arrives at [[PCBOT Headquarters|PCBOT HQ]] and is immediately detained by Director [[Henry Caraway (Agent Hotel)|Caraway]]. He remains captive for over two weeks, subjected to interrogation regarding the [[Spectator Grubs]]. Caraway, lacking context and influenced by [[Katherine Hill|Katherine's]] recent death, misinterprets the evidence as related to [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] incompetence or a rival [[RONINs (Randomly Organizing Neural Information Networks)|RONIN]].
+* **1997 (Late Sept - Oct 10):** Chrysalis remains off the grid. BNJC cannot raise him. BSSA does not have him. He is somewhere outside Sequoia Falls — possibly with old SDEC contacts, possibly in a personal safehouse, possibly genuinely vanished.
 
 ### October: Campaign Beginning & Current State
 
@@ -273,7 +272,7 @@
 * **Alice:** Still F7-impaired, hiding in [[Sewers and Maintenance Tunnels|tunnels]]. Needs [[G6 (Non-Gallium Antidote)|G6]]. Key to finding Chrysalis.
 * **Syd:** **In Montreal, Unaware, Targeted.** Out of contact with Blanc; expected to appear at the McCord Museum on the next standing-protocol date, where BSSA will be waiting.
 * **Blanc:** **Captured, alive.** Held at a BSSA black site. Most likely to die during the McCord Museum operation or a related extraction attempt.
-* **Chrysalis:** Captive at [[PCBOT Headquarters|PCBOT HQ]] for >2 weeks. Status unknown to players/BNJC.
+* **Chrysalis:** **Off-grid; location unknown.** Has not contacted BNJC since COTU on September 25. Not at PCBOT. Carried as a fallback option for the SDEC operation.
 * **BNJC:** [[Nigel Christmas (Nine-String)|Nine-String]] aware of player findings, Blanc's death. Coordinating with [[UMSE (Upper Michigan Succulent Enthusiasts)|UMSE]] to support players in Montreal. Unwittingly compromised by [[Steven Rober (Agent Shutter)|Agent Shutter]]. Unaware of Chrysalis's location/status or BSSA's full trap plan.
 * **BSSA:** [[Katherine Hill]] **is alive** and actively directing the Montreal trap operation targeting Syd and players. [[Operation Parthenon]]/[[Project Ozymandias]] continue but stalled.
 * **PCBOT:** [[Henry Caraway (Agent Hotel)|Caraway]] holding Chrysalis, grappling with the Grubs. Fearful after Katherine's recent death (if she dies in Montreal).
@@ -282,10 +281,10 @@
 ## Projected Next Steps (GM Planning)
 
 1. **Ellensburg / Brewster Lockbox → Maria Chen → Blanc's address.** The only viable pathway to Blanc's apartment; BNJC does not have it.
-2. **Montreal Arc:** Players travel to Montreal with UMSE support, investigate the ransacked **[[Éric Blanc's Apartment]]**, recover Blanc's encrypted computer (or its drive), understand the McCord Museum trap, and intervene at the museum on the standing-protocol date. Confront BSSA/[[Katherine Hill]], rescue Syd; Blanc most likely dies in the firefight.
-3. **G6 Synthesis:** Syd reveals need for [[Oliver Foxglove's Advanced Research Notes]] and the sealed reagent. Players solve [[Safe Puzzle]] (Andrea Foxglove's birthday + Ylynthii cipher), retrieve the notes and reagent. Syd synthesizes [[G6 (Non-Gallium Antidote)|G6]].
-4. **Alice's Cure (Required Checkpoint):** Locate Alice, administer G6. Cured Alice provides the passphrase to Blanc's encrypted drive and walks the team through the PCBOT-bypass methodology.
-5. **PCBOT Excursion:** Travel to DC, infiltrate PCBOT HQ, use Alice's bypass methodology to obtain remote terminal access to SDEC (the actual MacGuffin) and to extract [[Winston's Memoirs (SDEC)]] and the SDEC archives. Survive Caraway's "[[PCBOT Headquarters|Departing Flight]]" airstrike via Alice's chemical decryption.
-6. **(Optional) On-Site SDEC Visit:** With the bypass already burned, players may travel to the [[SDEC Facility]] in San Diego for any remaining artifacts.
-7. **Endgame:** Decode Memoirs ([[Dead Horse Quarry]]), confront [[Watchers|Watcher]], final confrontation/choices at the [[Hive]] entrance regarding Rhea/G6.
+2. **Montreal Arc:** Players travel to Montreal with UMSE support, investigate the ransacked **[[Éric Blanc's Apartment]]**, recover Blanc's encrypted computer (or its drive), understand the McCord Museum trap, and intervene at the museum on the standing-protocol date (**October 20th**). Confront BSSA/[[Katherine Hill]]; rescue Syd; Blanc most likely dies in the firefight (left deliberately flexible).
+3. **G6 Synthesis:** Syd reveals need for [[Oliver Foxglove's Advanced Research Notes]] and the sealed reagent ([[THEBES]]). Players solve [[Safe Puzzle]] (Andrea Foxglove's March 1, 1925 birthday + Ylynthii cipher), retrieve the notes and reagent. Syd synthesizes [[G6 (Non-Gallium Antidote)|G6]] (oral, one-and-done).
+4. **Alice's Cure (Required Checkpoint):** Locate Alice, administer G6. **If Katherine survived Montreal she shows up here.** Cured Alice provides the passphrase to Blanc's encrypted drive and walks the team through the PCBOT-bypass methodology.
+5. **PCBOT Excursion:** Travel to DC, infiltrate PCBOT HQ, use Alice's bypass methodology to obtain remote terminal access to the SDEC digital archive. Survive Caraway's "[[PCBOT Headquarters|Departing Flight]]" airstrike via Alice's chemical decryption. **If the mission succeeds, Caraway dies at PCBOT.**
+6. **On-Site SDEC Visit (Required):** Winston's physical memoirs and the Hexagon Pages are not remote-extractable; the team must travel to the [[SDEC Facility]] in San Diego in person. The PCBOT bypass does not break the Ant Trap. If the PCBOT operation has collapsed, the fallback is to find Chrysalis (in hiding) and bring him along for biometric entry.
+7. **Endgame:** Decode Memoirs ([[Dead Horse Quarry]]), confront [[Watchers|Watcher]] (who carries any surrendered G6 back to the Hive for fungal-network mass distribution), final choice at the [[Hive]] entrance.
 

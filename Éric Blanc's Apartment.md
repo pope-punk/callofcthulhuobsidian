@@ -21,7 +21,7 @@ Players will find the apartment **nearly ransacked but not fully sanitized**. BS
 
 ### Evidence Remaining
 
-* **Wall Calendar:** Specific days each month circled in red, annotated with single-letter codes (e.g., "S" for Syd). Cross-references trivially with the museum receipts.
+* **Wall Calendar:** Specific days each month circled in red, annotated with single-letter codes (e.g., "S" for Syd). The next circled date is **October 20**. Cross-references trivially with the museum receipts.
 * **Museum Receipts / Membership:** A small folder of [[McCord Museum]] admission stubs and a Friends-of-the-Museum membership card. Dates on the receipts align with the circled calendar dates.
 * **Personal Photographs:** Pictures of Blanc with Alice from 1993-94 (during the EUROPA fieldwork), confirming Blanc's identity and his relationship with Alice.
 * **Notebooks (Partial):** Notes referencing the [[Operation POUTINE]] relay network, [[Maria Chen]]'s rough story, and the [[Special Committee for Artistic Innovation]] purge by Agent Plaster.

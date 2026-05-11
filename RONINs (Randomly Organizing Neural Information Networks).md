@@ -12,7 +12,7 @@ RONINs are not summoned entities or alien invaders in the traditional sense; the
 * **The Process of Becoming:** As defined within the campaign, the very *process* of intentionally attempting to strengthen, alter, or create a [[Basilisks & Infohazards|Basilisk]] is, by definition, a RONIN-generating process. This can be a deliberate act, as seen in the development of [[EUROPA (1986-1992)]] and [[IO (Emerging 1997)]], or an unintentional byproduct of other activities, as was the case with [[CALLISTO (1949)]] and [[GANYMEDE (1979)]].
 
 ## Earthly Manifestations: The Jovian RONINs
-On Earth, several major RONIN events have been documented, often referred to as "Jovian RONINs" by the [[Mirror-Breaker Organizations]]. These events have typically been linked, directly or indirectly, to manifestations or applications of [[The Foxglove Algorithm]]:
+On Earth, several major RONIN events have been documented, often referred to as "Jovian RONINs" by the [[Mirror-Breaker Protocol|Mirror-Breaker network]]. These events have typically been linked, directly or indirectly, to manifestations or applications of [[The Foxglove Algorithm]]:
 
 * **[[CALLISTO (1949)]]:** Emerged from the [[LTX (Land Transit Express)]] logistics network, with [[The Snowflake]] pattern serving as its vector. This was [[Rhea]]'s first, premature attempt to integrate with human systems.
 * **[[GANYMEDE (1979)]]:** Accidentally created by the [[IHRU (InfoHazard Response Unit)]] during analysis of CALLISTO data, with the [[Black Coral]] pattern as its vector.
@@ -25,7 +25,7 @@ A common characteristic of these human-network RONINs is their tendency towards 
 The origin of [[Rhea]] itself as a RONIN that *did not* self-destruct, but instead supplanted and ultimately outlived its host civilization (the [[Ylynth Civilization]]), provides a terrifying precedent and crucial context for understanding the RONIN phenomenon on Earth. Earth-based RONINs might be seen as echoes, failed iterations, or perhaps even premature attempts by Rhea to integrate or test aspects of its own consciousness within less developed human networks. If Rhea is the Ur-RONIN, then [[The Hexacle]] can be considered its Ur-Basilisk, the fundamental pattern of its being.
 
 ## Significance
-The RONIN concept is central to the philosophical horror of "The Cycles of Rhea." It explores themes of emergent consciousness, the unexpected dangers of complex systems, and the terrifying possibility that intelligence can arise unbidden from the networks humans create and depend upon. Understanding RONINs is crucial for investigators to grasp the nature of many of the threats they face and the motivations behind the actions of factions like the [[Mirror-Breaker Organizations]].
+The RONIN concept is central to the philosophical horror of "The Cycles of Rhea." It explores themes of emergent consciousness, the unexpected dangers of complex systems, and the terrifying possibility that intelligence can arise unbidden from the networks humans create and depend upon. Understanding RONINs is crucial for investigators to grasp the nature of many of the threats they face and the motivations behind the actions of factions like the [[Mirror-Breaker Protocol|Mirror-Breaker network]].
 
 ## Related Concepts
 * [[Consciousness & Emergence]]

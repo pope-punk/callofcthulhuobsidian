@@ -8,7 +8,7 @@ Notes or documents outlining the core principles and philosophy of the [[Mirror-
 ## Content
 * Details the six core principles (Shatter Reflection, Metaphorical Ciphers, Compartmentalization, Process Not Object, Metaphor Over Code, Embrace Unpredictability).
 * Explains the rationale based on the [[GANYMEDE (1979)]] revelation – that systematic observation triggers [[RONINs (Randomly Organizing Neural Information Networks)|RONIN]] emergence.
-* May contain specific operational guidelines or examples of metaphorical ciphers used by different [[Mirror-Breaker Organizations]].
+* May contain specific operational guidelines or examples of metaphorical ciphers used by different [[Mirror-Breaker Protocol|Mirror-Breaker network]].
 
 ## Significance
 * Provides players with direct insight into the operational philosophy and eccentric methods of organizations like [[BNJC (Blue Note Jazz Collective)|BNJC]].

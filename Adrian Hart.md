@@ -16,4 +16,4 @@ Officer Adrian Hart was an intelligence official involved with the [[CONSORT Com
 Lived until 1966. Died on an undisclosed mission in Vietnam. Survived by son, Lucas Hart, who lives in Chicago, and daughter Penelope Hart, who lives in Quebec.**
 
 ---
-Tags: #character #NPC #historical #intelligence #officer #CONSORT #CALLISTO #HannahChristmasRef
+Tags: #character #NPC #historical #intelligence #officer #CONSORT #CALLISTO #HannahChristmasRef #stub

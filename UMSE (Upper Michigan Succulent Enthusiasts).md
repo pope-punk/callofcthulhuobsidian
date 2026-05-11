@@ -1,7 +1,7 @@
 **Tags:** #Faction #MirrorBreaker
 
 ## Overview
-A [[Mirror-Breaker Organizations|Mirror-Breaker Organization]] operating under the cover of a succulent appreciation club, presumably based in Upper Michigan. Appears to function as support and cleanup specialists for other Mirror-Breaker cells, particularly [[BNJC (Blue Note Jazz Collective)]].
+A [[Mirror-Breaker Protocol|Mirror-Breaker Organization]] operating under the cover of a succulent appreciation club, presumably based in Upper Michigan. Appears to function as support and cleanup specialists for other Mirror-Breaker cells, particularly [[BNJC (Blue Note Jazz Collective)]].
 
 ## Methodology & Philosophy
 * Utilizes **Botanical terminology** (specifically related to succulents) as their metaphorical cipher, adhering to the [[Mirror-Breaker Protocol]].

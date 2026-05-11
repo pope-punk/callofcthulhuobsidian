@@ -3,7 +3,7 @@
 **Tags:** #Faction #MirrorBreaker
 
 ## Overview
-A [[Mirror-Breaker Organizations|Mirror-Breaker Organization]] operating under the cover of a track and field team, presumably based in Virginia. Was formerly associated with the [[Jacqui Lopez (Director Javelin)|Lopez]] faction within [[PCBOT (Pacific Coast Board of Tourism)]].
+A [[Mirror-Breaker Protocol|Mirror-Breaker Organization]] operating under the cover of a track and field team, presumably based in Virginia. Was formerly associated with the [[Jacqui Lopez (Director Javelin)|Lopez]] faction within [[PCBOT (Pacific Coast Board of Tourism)]].
 
 ## Methodology & Philosophy
 * Utilizes **Sports and competition metaphors** as their metaphorical cipher.

@@ -1,7 +1,7 @@
 **Tags:** #Faction #MirrorBreaker #Defunct
 
 ## Overview
-A [[Mirror-Breaker Organizations|Mirror-Breaker Organization]], now defunct and sealed. Formerly operated under the cover of an amateur entomology club based near San Diego, CA. Focused on detection and analysis of [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]].
+A [[Mirror-Breaker Protocol|Mirror-Breaker Organization]], now defunct and sealed. Formerly operated under the cover of an amateur entomology club based near San Diego, CA. Focused on detection and analysis of [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]].
 
 ## Methodology & Philosophy
 * Utilized **Insect behavior metaphors** and entomological observation codes for communication and operations, adhering to the [[Mirror-Breaker Protocol]]. ("Can the ant see the colony?")

@@ -14,7 +14,10 @@ A theoretical, non-toxic antidote for [[F7 (Fluoroxepram)]], conceived by [[Syd 
 
 ## Development & Status (Late Oct 1997)
 * **Conceived/Researched:** By [[Syd Foxglove]] in [[Montreal, QC]] (July-Oct 1997).
-* **Status:** Theoretical formula and research principles exist. **Not yet synthesized.** Syd holds the key knowledge but requires both [[Oliver Foxglove's Advanced Research Notes]] *and* the small vacuum-sealed packet of gene-altering reagent his father stored alongside them in the home safe. ErgoMatic's controlled stock of the reagent is inaccessible to Syd; the safe sample is effectively the only one he can use.
+* **Status:** Theoretical formula and research principles exist. **Not yet synthesized.** Syd holds the key knowledge but requires both [[Oliver Foxglove's Advanced Research Notes]] *and* the vacuum-sealed sample of [[THEBES]] his father stored alongside them in the home safe. ErgoMatic's controlled stock is inaccessible to Syd; the safe sample is effectively the only one he can use.
+
+## Administration
+* **Oral. One dose. Effects develop over hours.** No supervised lab process needed at the moment of cure — Syd can synthesize G6 at McGill or back in Sequoia Falls, hand it off, and the team can administer it to Alice in the field. (This matters because the team will not be able to extract Alice from the tunnels back to Syd safely.)
 * **Awareness:** Syd knows formula concept; [[BNJC (Blue Note Jazz Collective)]]/Alice know he worked on *an antidote*; [[Rhea]] knows its potential and seeks it; **[[BSSA (Boise Society for Sculptural Appreciation)]] is unaware** of G6's existence or potential.
 
 ## Relationship to Royal Jelly

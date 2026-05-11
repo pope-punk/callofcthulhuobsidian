@@ -5,7 +5,7 @@ A history museum in [[Montreal, QC]], near [[McGill University]]. Long before BS
 
 ## Significance
 
-* **Standing Protocol Site:** The legitimate fallback rendezvous between Blanc and Syd. The current month's designated date is imminent at the start of the Montreal arc.
+* **Standing Protocol Site:** The legitimate fallback rendezvous between Blanc and Syd. The next protocol date is **October 20th, 1997** — days away when the players reach Montreal.
 * **BSSA Ambush Site:** With Blanc captured and [[Phoebe Jones (Agent Plaster)|Agent Plaster]] now operating Blanc's email account, BSSA can both:
   1. Wait for Syd to follow the protocol naturally, and
   2. Steer any other contacts (e.g., players who write to "Blanc" through the burner voicemail) into arriving on the same date.

@@ -52,7 +52,7 @@
     * Use code (13762) to enter [[BNJC HQ]] (Blue Note Jazz Collective HQ).
     * Undergo cryptic assessment by [[Travis Ward (Agent Tremolo)]] and [[Leah Burns (Agent Legato)]] involving tarot-like cards and improvisation.
     * Share information, learn about [[BNJC (Blue Note Jazz Collective)]]: Mission to investigate [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]] (like [[EUROPA (1986-1992)]]) after [[SDEC (San Diego Entomology Club)|SDEC]] destruction; factional split (Nine-String vs. Caraway); [[Syd Foxglove]]'s potential connection to Alice; Agent Direction's disappearance; distrust of "sculpture people" ([[BSSA (Boise Society for Sculptural Appreciation)]]).
-    * Gain access to BNJC library, read [[IHRU (InfoHazard Response Unit)|IHRU]]/[[Mirror-Breaker Organizations|Mirror-Breaker]] documents (Operational Guidelines, RONIN/Security). Cody Baker gains Uncanny Intuition but loses SAN.
+    * Gain access to BNJC library, read [[IHRU (InfoHazard Response Unit)|IHRU]]/[[Mirror-Breaker Protocol|Mirror-Breaker]] documents (Operational Guidelines, RONIN/Security). Cody Baker gains Uncanny Intuition but loses SAN.
 
 ## Phase 4: Mapping the Conspiracy & COTU (Mid-Late October)
 

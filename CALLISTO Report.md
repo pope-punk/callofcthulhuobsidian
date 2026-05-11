@@ -1,5 +1,5 @@
 
-**Tags:** #Item #Document #Clue #Lore #Infohazard
+**Tags:** #Item #Document #Clue #Lore #Infohazard #authorVoice
 
 ## Overview
 The final report produced by **[[CONSORT Committee]]** (the [[CONSORT Committee]]) presented on March 1st, 1951. It details the investigation into the [[CALLISTO (1949)]] event.
@@ -16,7 +16,7 @@ The final report produced by **[[CONSORT Committee]]** (the [[CONSORT Committee]
 ## Significance
 * Foundational document for understanding [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]] and the dangers of information patterns.
 * Provides crucial theoretical context for the events players investigate.
-* Explains the origin of [[IHRU (InfoHazard Response Unit)|IHRU]] and the subsequent [[Mirror-Breaker Organizations]].
+* Explains the origin of [[IHRU (InfoHazard Response Unit)|IHRU]] and the subsequent [[Mirror-Breaker Protocol|Mirror-Breaker network]].
 
 ## Location & Status (Oct 1997)
 * A copy was found by players in the vault within [[Alice Redmond's House]]. [[BNJC (Blue Note Jazz Collective)|BNJC]] likely possesses copies in their library. Assumed classified by official government channels.

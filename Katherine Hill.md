@@ -1,4 +1,4 @@
-**Tags:** #Character #BSSA #PCBOT #Antagonist #SeerLine #KeyPlayer #Manipulator
+**Tags:** #Character #BSSA #PCBOT #Antagonist #SeerLine #KeyPlayer #Manipulator #authorVoice
 
 ## Overview
 Katherine Hill stands as a primary and formidable antagonist in "The Cycles of Rhea." She is the ruthlessly pragmatic and highly intelligent leader of the [[BSSA (Boise Society for Sculptural Appreciation)|Boise Society for Sculptural Appreciation]] (operating under the codename Director Caryatid) and simultaneously holds a high-ranking influential position within the controlling faction of the [[PCBOT (Pacific Coast Board of Tourism)|Pacific Coast Board of Tourism]] (as ASAC Kayak). Her actions and philosophies are driven by a profound, albeit twisted, understanding of [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]] and [[Basilisks & Infohazards|Basilisks]], beliefs unknowingly shaped by [[Rhea]]'s genetic engineering and a lifetime of navigating the perilous world of infohazards.

@@ -1,32 +1,38 @@
-**Tags:** #Location #MirrorBreaker #Historical #SanDiego #SealedSite #Endgame #RevelationSite
+**Tags:** #Location #MirrorBreaker #Historical #SanDiego #SealedSite #Endgame
 
 ## Overview
-The San Diego Entomology Club, or SDEC, facility is a former [[Mirror-Breaker Organizations|Mirror-Breaker Organization]] headquarters located in [[San Diego, CA]]. Once a vibrant center for the study of [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]] and infohazardous threats, employing a unique insect-based metaphorical cipher, the facility was catastrophically purged in 1992. It now stands as a sealed, automated deathtrap, its systems locked down by the "Ant Trap" protocol. The SDEC facility holds critical historical records, most notably the complete [[Winston's Memoirs (SDEC)|memoirs of Winston Foxglove]] (including the cryptic [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]]), making it a location of immense importance for unraveling the deepest secrets of [[Rhea]] and [[The Foxglove Algorithm]]. It is slated to be a key endgame "dungeon" for the investigators.
+The former SDEC field office in San Diego, sealed since 1992 under the "Ant Trap" containment protocol. Holds [[Winston's Memoirs (SDEC)|Winston Foxglove's original memoirs]] — including the [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]] at their end — and most of SDEC's surviving archives.
 
-## SDEC: A Unique Mirror-Breaker Cell
-SDEC was one of the original Mirror-Breaker cells formed after the [[GANYMEDE (1979)]] disaster. True to the [[Mirror-Breaker Protocol]], they developed their own distinct metaphorical language for operations and communications, centered around entomology—the study of insects. This insect-themed cipher guided their internal culture, their approach to research, and their understanding of RONIN behavior, which they likely viewed through the lens of hive minds, swarms, and complex insect societies.
+The Hexagon Pages are the campaign's late-act revelation document. The team gets there in two stages:
 
-Their research was highly significant. They investigated the [[Dead Horse Quarry]] anomaly in [[Sequoia Falls, WA]], and, crucially, came into possession of [[Winston Foxglove|Winston Foxglove's]] original, unedited memoirs. These memoirs, unlike any publicly available records, contained Winston's direct account of his 1922 [[Royal Jelly]] encounter with [[Rhea]]'s agent and, most importantly, the indecipherable [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]] at their conclusion—visual patterns directly linked to [[The Foxglove Algorithm]] and Rhea's core logic.
+1. **Remote session at [[PCBOT Headquarters]] (Act III, first leg).** Alice's decrypted bypass methodology opens a terminal into SDEC's internal network from the PCBOT secure archives cluster. Most of the digital archive comes out this way: case files, RONIN research, the SDEC randomizer-tool documentation, communications with BNJC and Lopez's PCBOT faction up to 1992.
+2. **In-person retrieval at SDEC itself (Act III, second leg).** Winston's actual physical memoirs — and specifically the original Hexagon Pages — are **not** on the network. They were transferred in from IHRU after 1979 as paper and were never digitized. The team has to walk in and get them.
 
-## The 1992 Purge: Rhea's Intervention
-In 1992, SDEC made a fatal connection. They linked Winston's account of the [[Dead Horse Quarry]] encounter and the Hexagon Pages to the anomalous Hexacle patterns they had detected around the Quarry itself. This realization—that the founder of the Foxglove lineage had a direct, physical encounter with the source of the Quarry's infohazardous defenses—brought them too close to Rhea's deepest secrets, particularly the location of its primary West Coast [[Hive]].
+## SDEC in Brief
 
-[[Rhea]] responded decisively. It dispatched a specialized agent, the [[SDEC Infiltrator (Specialized Agent)|SDEC Infiltrator]] (likely a highly evolved [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Writer]]), to breach the facility's defenses. This agent systematically eliminated the SDEC personnel and, critically, triggered the facility's ultimate containment measure: the "Ant Trap" protocol. This protocol sealed the entire facility, transforming it into an automated, lethal environment designed to prevent any information from escaping.
+One of the seven Mirror-Breaker cells formed out of IHRU after [[GANYMEDE (1979)]]. Insect metaphors throughout — "can the ant see the colony?", agents named for insect lifecycle stages. Researched RONIN-adjacent phenomena up and down the West Coast.
 
-[[Agent Chrysalis]] was the sole field agent to survive the purge, though he bears deep psychological scars from the event. He later integrated with the [[BNJC (Blue Note Jazz Collective)|BNJC]].
+Their unforced error: they connected Winston's Hexagon Pages to the [[Dead Horse Quarry]] anomaly their CICADA sonar had picked up. That connection put a target on the building.
 
-## The "Ant Trap" and Current State
-The SDEC facility remains sealed under the "Ant Trap" protocol. Its internal environment is highly dangerous, protected by automated defenses such as the [[BRACHINUS Class Turrets|BRACHINUS Class Turrets]] (which deploy a neurotoxic gas based on the bombardier beetle's chemical defenses), infohazardous traps, and potentially lingering constructs or remnants of the SDEC Infiltrator. The facility's systems are designed to prevent unauthorized entry and ensure the permanent containment of its contents.
+## The 1992 Purge
 
-### Access Routes (Updated Canon)
+Rhea sent the [[SDEC Infiltrator (Specialized Agent)|SDEC Infiltrator]] — most likely a highly evolved Writer — to clear the site. The Infiltrator killed everyone present, triggered the Ant Trap, and (it's assumed) left.
 
-* **Remote Terminal Access via PCBOT (Primary):** During 1994-96, [[Alice Redmond (Agent Altissimo)]] and [[Éric Blanc]] — working from [[Agent Chrysalis]]'s SDEC CICADA-class sonar maps of [[PCBOT Headquarters]] — pre-mapped a methodology to obtain a **remote terminal session** into the sealed SDEC network via PCBOT's secure archives terminal cluster. The encrypted methodology is stored on Blanc's hard drive in Montreal; only a cured Alice can decrypt and execute it. This is the campaign's actual route to Winston's memoirs and the surviving SDEC archives.
-* **Physical Entry via Surviving SDEC Agent (Secondary / Optional):** Chrysalis, as the sole surviving SDEC field agent, retains unique knowledge and biometrics that may allow physical bypass of the Ant Trap. With the remote terminal route already burned at PCBOT, a physical visit to San Diego becomes an optional "dungeon" rather than a required step — useful for artifacts the remote terminal could not extract, or for verification.
+[[Agent Chrysalis]] was the sole surviving field agent, off-station at the time. He carries the trauma of having been the one in Sequoia Falls when his colleagues died, and reads the Grub-and-COTU evidence in late 1997 as the same pattern repeating.
 
-## Significance and Future Role
-The SDEC facility is a treasure trove of lost knowledge and a testament to the ruthlessness of Rhea. Its primary importance to the campaign lies in:
-* **[[Winston's Memoirs (SDEC)|Winston's Memoirs]]:** These contain the only firsthand account of a [[Royal Jelly]] administration and the crucial [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]]. Understanding these pages is key to deciphering [[The Foxglove Algorithm]]'s deeper nature and potentially finding a way to counteract Rhea.
-* **Historical Context:** The facility likely holds extensive research data from SDEC, including their findings on RONINs, the [[Mirror-Breaker Protocol]], their unique entomological ciphers, and possibly early research that predates the more ideologically divergent paths of [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] and [[BNJC (Blue Note Jazz Collective)|BNJC]].
-* **Endgame Location:** Accessing and navigating the SDEC facility will be a major undertaking for the investigators, representing a dangerous delve into a site of historical tragedy and critical revelation. The information contained within is vital for understanding how to confront [[Rhea]] in the campaign's climax.
+## The Ant Trap
 
-The very existence of the sealed SDEC facility underscores the dire consequences of getting too close to Rhea's core truths and the lengths to which it will go to protect its secrets.
+A facility-wide automated lockdown. Active defenses include the [[BRACHINUS Class Turrets]] (neurotoxic aerosol), infohazardous traps, and possibly lingering Infiltrator constructs. The trap was designed by SDEC as a contingency against external compromise; it's now what's keeping their own records away from anyone alive.
+
+## How the Team Gets Through
+
+* **The PCBOT bypass** doesn't break the Ant Trap — it just opens a read-only terminal session by piggybacking on a maintenance channel SDEC never closed. Useful for the digital archive, useless against the physical contents of the safe room.
+* **Chrysalis's biometrics** can, in principle, bypass the trap on-site. He is the fallback. If Alice never gets a chance to run the remote bypass, or if Caraway burns the secure archives before the team gets there, the campaign reroutes through finding Chrysalis (see [[Agent Chrysalis]]).
+* **Brute force** isn't viable — the building is designed to kill anyone trying it.
+
+## What's Inside (in person)
+
+* Winston's memoirs and the Hexagon Pages (top priority).
+* SDEC's randomizer tool itself (the rules and Brewster's log are recoverable elsewhere, but the actual hardware is here).
+* Whatever the Infiltrator left behind.
+* Personnel effects, files Lopez's faction never got to retrieve.

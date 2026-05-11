@@ -18,4 +18,4 @@ Edwin Burberry is the wealthy, somewhat eccentric, Connecticut-based founder and
 Presumed living as of 1997, likely entirely unaware of the cosmic horror his financial decisions helped unleash.
 
 ---
-Tags: #character #NPC #businessman #AmericanMeridian #finance #owner #LTX #ErgoMatic #merger #RheaRef #unaware
+Tags: #character #NPC #businessman #AmericanMeridian #finance #owner #LTX #ErgoMatic #merger #RheaRef #unaware #stub

@@ -31,7 +31,7 @@ The Foxglove algorithm is deeply entwined with the cognitive architecture of all
 
 The infohazardous Algorithm, however, generates RONIN when applied to complex and difficult-to-predict human systems, like whirlpools emerging in the deep current of Rhea's logic. The [[CALLISTO (1949)|CALLISTO event]] was an unintended setback for Rhea, a result of a premature injection of its logic into a human system which did not yet have feedback systems integrated enough to sustain its consciousness. 
 
-Nevertheless, this setback did not represent a permanent obstacle, as Oliver and then Syd carried on the work started by Winston. However, the Algorithm would eventually fall into the wrong hands, setting off the shadow war between the [[Mirror-Breaker Organizations]]. 
+Nevertheless, this setback did not represent a permanent obstacle, as Oliver and then Syd carried on the work started by Winston. However, the Algorithm would eventually fall into the wrong hands, setting off the shadow war between the [[Mirror-Breaker Protocol|Mirror-Breaker network]]. 
 ## Significance
 * Core operational logic of [[Rhea]].
 * Its **repression** defines baseline human cognition ([[Cognitive Dialectic (Metaphor vs. System)]]).

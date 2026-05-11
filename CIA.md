@@ -1,7 +1,7 @@
 **Tags:** #Faction #Government
 
 ## Overview
-The United States Central Intelligence Agency. Plays a significant background role influencing events related to [[Mirror-Breaker Organizations|Mirror-Breaker Organizations]] and [[BSSA (Boise Society for Sculptural Appreciation)]].
+The United States Central Intelligence Agency. Plays a significant background role influencing events related to [[Mirror-Breaker Protocol|Mirror-Breaker Organizations]] and [[BSSA (Boise Society for Sculptural Appreciation)]].
 
 ## Known Activities & Influence
 * **Historical Operations:**

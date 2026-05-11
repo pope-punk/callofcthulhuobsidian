@@ -37,7 +37,7 @@ tags: #CampaignOutline #NarrativeFlow #Act1 #Act2 #Act3 #CyclesOfRhea #Establish
     * Trace [[Signal Dummies|"Quentin Cinnabon"]] packages to the mall.
     * Confront Alice dragging disabled Dummy.
     * Alice opens fire, killing [[Pastor Mike]]. Players grab Alice's satchel ([[Keys (Alice's Satchel)]], [[Alice's Journal (Satchel)]]) and flee.
-* **[[Mirror-Breaker Organizations]] Contact (Oct 7th/8th):**
+* **[[Mirror-Breaker Protocol|Mirror-Breaker network]] Contact (Oct 7th/8th):**
     * [[UMSE (Upper Michigan Succulent Enthusiasts)]] agents "Thistle & Thorn" arrive. Explain BNJC connection. Deliver cryptic items.
 * **[[Alice Redmond's House]] Investigation & Attack (Oct 8th):**
     * Investigate dusty apartment. Find [[BSSA (Boise Society for Sculptural Appreciation)]] statue, [[Labyrinths by Jorge Luis Borges]] book with note from "Nine-String", [[IHRU (InfoHazard Response Unit)]] syllabus.
@@ -116,35 +116,39 @@ tags: #CampaignOutline #NarrativeFlow #Act1 #Act2 #Act3 #CyclesOfRhea #Establish
 * **Syd's Revelation & The Safe Puzzle:** Rescued Syd confirms G6 needs Oliver's notes and the sealed reagent. Players share Oliver's emails; Syd confirms safe relevance and Andrea Foxglove's birthday. Players combine Ylynthii rules (from Syd's cell) + Oliver's cipher notes (ErgoMatic) + the birthday → safe code.
 * **[[Oliver Foxglove]] House:** Access safe. Retrieve advanced research notes **and** the vacuum-sealed reagent.
 * **Synthesize G6:** Syd uses notes + reagent + McGill-or-equivalent lab access to synthesize [[G6 (Non-Gallium Antidote)|G6]].
-* **Subdue and Cure Alice:** Return to the [[Sewers and Maintenance Tunnels]], locate/subdue Alice, administer G6. Potential interference from BSSA remnants and/or PCBOT scouts.
-* **Decrypt the Blanc Drive:** A cured, lucid Alice provides the passphrase. The drive yields the **PCBOT tunnel schematics** and the **SDEC remote-access bypass methodology**. Alice walks the team through the procedure and confirms it must be executed in person at PCBOT — she is the only one who can read the live PCBOT internal network against the 1996 schematics and time the bypass.
-* **Alice's Debrief:** Cured Alice confirms Reaper/Writer reality, recalls Chrysalis's panicked flight to PCBOT, and explains how the SDEC remote terminal route exists at all. She commits to accompanying the players to DC.
+* **Subdue and Cure Alice:** Return to the [[Sewers and Maintenance Tunnels]], locate/subdue Alice, administer G6 orally. Potential interference from BSSA remnants and/or PCBOT scouts. **If [[Katherine Hill]] survived the McCord operation, she shows up here** — she has personal stakes in recovering Syd, in killing Alice before Alice can talk, and (if she's pieced it together) in stopping the cure from succeeding.
+* **Decrypt the Blanc Drive:** A cured, lucid Alice provides the passphrase. The drive yields the **PCBOT tunnel schematics** and the **SDEC remote-access bypass methodology**. Alice walks the team through the procedure and confirms it must be executed in person at PCBOT — she put the intelligence on the drive herself, she's been inside PCBOT HQ before (the 1993-94 EUROPA period), and she is the only one who can read the live network against the 1996 schematics. She also wants to go.
+* **Alice's Debrief:** Cured Alice confirms Reaper/Writer reality. She notes that Chrysalis has gone off the grid (he is no longer at PCBOT in this canon — see [[Agent Chrysalis]]) and that he is the fallback if the PCBOT plan collapses. She commits to accompanying the players to DC.
 
-### 2. PCBOT Excursion (Bypass & Remote Access)
+### 2. PCBOT Excursion (Bypass & Remote Extract)
 
-**Objective:** Infiltrate [[PCBOT Headquarters|PCBOT HQ]], use Alice's bypass methodology to obtain a live remote terminal into the sealed [[SDEC Facility]], extract Winston's memoirs and any remaining SDEC archive, and survive [[Henry Caraway (Agent Hotel)|Caraway's]] "[[PCBOT Headquarters|Departing Flight]]" airstrike protocol.
+**Objective:** Get Alice to the PCBOT secure terminal cluster so she can run the bypass, pull SDEC's digital archive, jam Caraway's "[[PCBOT Headquarters|Departing Flight]]" strike, and survive.
 
-* **Infiltration:** Travel to DC, plan infiltration (possibly aided by [[VTFT (Virginia Track & Field Team)|VTFT]] diversion). Explore the facility (tourism cover, blacksite, "Guest Suite", "Baggage Claim"). Find [[G5 (Gallium-stabilized Amphetamine Complex)|G5]] samples.
-* **Alice Executes the Bypass:** Following the methodology, Alice (with player support) makes her way to the PCBOT secure terminal room and opens a remote session to SDEC, retrieving Winston's memoirs and SDEC archives.
-* **Chrysalis (optional):** Players may locate Chrysalis in the Guest Suite — alive, broken, dead, or somewhere in between. His fate is narrative, not load-bearing for the SDEC access.
-* **Caraway Reacts:** The infiltration confirms Caraway's worst fear — containment has failed. He initiates the "Departing Flight" airstrike protocol against Sequoia Falls. Countdown begins.
-* **Climax - Decryption & Jamming:** Players deduce that enhanced pattern recognition (G5 or G6) is needed to decrypt the strike frequencies. Alice volunteers for chemical decryption, decrypts the frequencies, relays them to Nine-String, who uses the [[BNJC Radiometry Array]] to jam the strike.
-* **Alice's Fate & Escape:** Alice dies later (G5 / G6+F7 pathway) or becomes automaton (G6 pathway). Players escape with whatever SDEC data was successfully extracted.
+* **Infiltration:** Travel to DC; possibly use [[VTFT (Virginia Track & Field Team)|VTFT]] for an outside diversion. Explore the building (tourism cover, blacksite, "Guest Suite", "Baggage Claim", Katherine's office, secure archives). Find [[G5 (Gallium-stabilized Amphetamine Complex)|G5]] samples in cold storage.
+* **Alice Executes the Bypass:** Alice opens a remote session into SDEC and pulls the digital archive. Winston's physical memoirs are not on the network and remain in San Diego.
+* **No Chrysalis here.** The Guest Suite is empty of him; he never made it to PCBOT. (See [[Agent Chrysalis]].)
+* **Caraway Reacts:** The infiltration confirms his worst fear; he triggers "Departing Flight" against Sequoia Falls. Countdown begins.
+* **Decryption and Jamming:** Players figure out that enhanced pattern recognition (G5 or G6) is needed to decrypt the strike frequencies. Alice volunteers, decrypts, relays the frequencies to Nine-String, [[BNJC Radiometry Array]] jams the strike.
+* **Caraway's fate:** If the team succeeds in jamming the strike and extracting the archive, Caraway dies at PCBOT HQ. The specific mechanics — execution, suicide, killed by his own staff once the cover is blown, gunned down in a final confrontation — are GM-flexible at the table.
+* **Alice's fate:** dies later (G5 or G6+F7 pathways) or becomes automaton (G6 pathway). The team escapes with the digital extract.
 
-### 3. Decoding Winston's Memoirs
+### 3. SDEC, In Person
 
-* Show the [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]] to [[Syd Foxglove]] (or surviving G6 user) to decode.
-* Decoded text reveals the 1922 [[Royal Jelly]] encounter, [[The Foxglove Algorithm]]'s origin, and the [[Dead Horse Quarry]] [[Hive]] location.
+* Travel to [[San Diego, CA]] to retrieve **Winston's actual paper memoirs**, including the [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]], which were never digitized and cannot be remoted out.
+* Dungeon-crawl the sealed facility: [[BRACHINUS Class Turrets]], the Ant Trap proper, possible lingering [[SDEC Infiltrator (Specialized Agent)]] hazard.
+* **Fallback pathway:** if the PCBOT operation collapsed earlier, [[Agent Chrysalis]] is now the doorway — the team must first find him in hiding, get him to walk them through the Ant Trap, and only then attempt physical entry.
 
-### 4. (Optional) On-Site SDEC Visit
+### 4. Decoding the Memoirs
 
-* If the team still wants physical access — e.g., to recover artifacts the remote terminal could not extract, or to verify the data — they can travel to [[San Diego, CA]] and physically enter the [[SDEC Facility]]. With the bypass methodology already burned in DC, on-site entry is now possible (or at least less impossible). This becomes a "dungeon crawl" rather than a required-path operation.
+* Surviving G6 user (Syd, by default) reads the [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]].
+* The decode yields the 1922 [[Royal Jelly]] encounter, the Algorithm's origin, and the [[Dead Horse Quarry]] [[Hive]] location.
 
 ### 5. The Endgame Confrontation
 
-* **Journey to [[Dead Horse Quarry]]**.
-* **[[Watchers|Watcher]] Encounter:** Intercepted en route. Watcher communicates Rhea's nature/goals, demands [[G6 (Non-Gallium Antidote)]] for "transcendence".
-* **Final Choices:** Give G6? Deceive (F7?)? Attack Watcher? Proceed to Hive? Go public?
-* **The Hive Finale:** Final scene at quarry/Hive entrance. Confront Rhea's defenses, attempt destruction, negotiate, or face consequences of decision regarding G6.
+* **Journey to [[Dead Horse Quarry]].**
+* **[[Watchers|Watcher]] Encounter** en route. Rhea's ultimatum is delivered.
+* **Final Choices:** Give G6? Deceive (F7?)? Attack? Push past to the Hive? Go public?
+* **If the team gives the Watcher G6:** the Watcher carries it back into the Hive for mass synthesis and distribution via Rhea's fungal-network reach. Humanity is doomed on a slow clock.
+* **The Hive Finale:** Final scene at the quarry / Hive entrance. Resolution depends on the team's choice.
 
 ---

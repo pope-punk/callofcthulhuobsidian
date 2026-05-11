@@ -12,35 +12,30 @@ tags:
 
 ## Overview
 
-**Agent Chrysalis** (Christopher Gruber) is a Mirror-Breaker agent currently affiliated with the [[BNJC (Blue Note Jazz Collective)|BNJC]]. He is notably the **last surviving field agent of the [[SDEC (San Diego Entomology Club)|SDEC]]** following its destruction in 1992. He served as Alice Redmond's covert support contact and as the secure communication relay between Alice and Syd Foxglove in Montreal.
+Christopher Gruber — Agent Chrysalis — is a Mirror-Breaker agent affiliated with [[BNJC (Blue Note Jazz Collective)|BNJC]] and the last surviving field operative of the [[SDEC (San Diego Entomology Club)|SDEC]] (destroyed 1992). Before going to ground in September 1997, he served as Alice's covert support contact and as the secure relay between Alice and Syd in Montreal.
 
-> **Note on his role in the PCBOT/SDEC arc:** Chrysalis is no longer the *key* that opens SDEC; that role has been replaced by the encrypted PCBOT-bypass methodology on Blanc's hard drive, which Alice (and Alice alone) can decrypt and execute to obtain remote terminal access to the sealed [[SDEC Facility]]. His exact fate in the PCBOT operation is open — he may still be useful as a survivor, a witness, or a casualty, but the campaign does not depend on his rescue.
+## Background
 
-## Background & History
+* **SDEC.** Field observer trained in SDEC's entomology-themed protocols. Survived the 1992 purge by luck — he was in Sequoia Falls watching the [[EUROPA (1986-1992)|EUROPA]] aftermath while his colleague Agent Diaphanous carried the CICADA sonar readings back to San Diego.
+* **Witness at Ellensburg.** During EUROPA's shutdown in mid-1992 he caught BSSA Agent Rococo ([[Raymond Vaughn (Agent Rococo)]]) removing modulator gear from the [[Ellensburg Numbers Station]] and reported it to [[Jacqui Lopez (Director Javelin)|Lopez]] at [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]]. SDEC was destroyed within months; Chrysalis read this as cause-and-effect, and it has shaped every operational decision he's made since.
+* **PCBOT sonar work (1994-96).** He operated the SDEC CICADA-class sonar array that produced the 3D tunnel schematics of [[PCBOT Headquarters]] later passed to Alice and stored on Blanc's drive. Chrysalis understood the schematics' purpose in the abstract; he did not retain operational copies and does not know the passphrase to Alice's encryption.
+* **BNJC integration.** Joined BNJC after SDEC's destruction. Carries strong feelings for Alice that Nine-String knowingly leveraged when assigning him as her covert handler after July 1997.
+* **COTU.** Accompanied Alice to [[COTU (Center of the Universe)|COTU]] on September 25, 1997. Saw the F7 casualties and the [[Spectator Grubs]]. His SDEC trauma resurfaced. He fled.
 
-* **SDEC Affiliation & Expertise:** Originally an SDEC agent, Chrysalis specialized in field observation and operated under SDEC's entomology-based metaphorical protocols. He survived the 1992 facility purge partly by luck; he remained in Sequoia Falls monitoring the aftermath of [[EUROPA (1986-1992)|EUROPA]] while his colleague [[Agent Diaphanous (Diane Collins)|Agent Diaphanous]] returned to San Diego with the CICADA sonar readings that, in Chrysalis's view, doomed the facility.
-* **Witness to BSSA Activity:** During the EUROPA shutdown in mid-1992, Chrysalis recognized BSSA Agent [[Raymond Vaughn (Agent Rococo)|Rococo]] surreptitiously removing modulator equipment from the [[Ellensburg Numbers Station]]. He reported this directly to [[Jacqui Lopez (Director Javelin)|Lopez]] at [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]], establishing BSSA's link to the event just before SDEC was destroyed.
-* **PCBOT Tunnel Schematics (1994-96):** As part of his SDEC-era access to the CICADA-class sonar array, Chrysalis was the operator who produced the 3D tunnel schematics of [[PCBOT Headquarters]] that Alice later passed to [[Éric Blanc]] for safekeeping. He understood the schematics' purpose only in abstract terms; he did not retain operational copies.
-* **SDEC Trauma & Core Belief:** The destruction of SDEC and the loss of his colleagues deeply traumatized Chrysalis. He clings to the belief that possessing dangerous, pattern-based information attracts catastrophic destruction from the entity involved. This paranoia dictates his later actions.
-* **BNJC Affiliation:** Following SDEC's destruction, Chrysalis integrated with BNJC.
-* **Relationship with Alice:** He developed strong feelings for [[Alice Redmond (Agent Altissimo)|Alice]], which [[Nigel Christmas (Nine-String)|Nine-String]] likely leveraged when assigning him as her covert support contact after she went rogue. He maintained the vital secure communication link between Alice and [[Syd Foxglove]] in Montreal while Syd worked on the [[G6 (Non-Gallium Antidote)|G6]] formula.
-* **COTU Incident Involvement:** Accompanied Alice to [[COTU (Center of the Universe)|COTU]] on September 25th, 1997, witnessing the mass casualties from [[Calvin Pierce]]'s [[F7 (Fluoroxepram)]] distribution. He fled the scene in horror.
+## Disappearance (late September - October 1997)
 
-## Flight to PCBOT & Captivity (Late Sept – Mid Oct 1997)
+After COTU, Chrysalis stopped responding to BNJC channels. He did not return to BNJC HQ and he did not check in with Alice. As of the campaign's start, his location is unknown to everyone — BNJC, BSSA, PCBOT.
 
-Immediately after the disturbing discoveries at COTU — the [[Spectator Grubs]] and Alice's worsening condition — Chrysalis's SDEC trauma resurfaced intensely. Seeing the alien Grubs as potentially another dangerous data-vector like the sonar readings, he panicked, fearing history would repeat and BNJC would be destroyed. Knowing [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] was antagonistic (and linked to Alice's poisoning via [[Dylan Hill (Agent Destination)|Dylan Hill]]), but desperate, he enacted a complex gamble: he took Grub samples directly to [[PCBOT Headquarters|PCBOT HQ]] in DC. His logic was twofold: either force PCBOT to acknowledge the threat and reconcile with BNJC, *or* draw the destructive entity's attention onto PCBOT itself, sparing BNJC. Before fleeing Sequoia Falls, he told the F7-impaired Alice where he was going.
+He is **not** at PCBOT HQ. Whatever destination he hinted at to the F7-impaired Alice in their last meeting was misheard, misremembered, or deliberate misdirection on his part. The most consistent reading of his behavior is that he interpreted the Grubs as another SDEC-pattern catastrophe and ran somewhere off the Mirror-Breaker radar entirely — possibly back toward old SDEC contacts, possibly to a personal safehouse not on any organization's books.
 
-Upon arrival, he was immediately detained by Director [[Henry Caraway (Agent Hotel)|Caraway]] and has been held captive (and interrogated) within the 'Guest Suite' for over two weeks.
+## Role in the Campaign
 
-## Potential Role in the PCBOT Operation
+Chrysalis is a **contingency**, not a goal. The primary path to SDEC runs through Alice → Blanc's drive → PCBOT bypass → in-person retrieval at San Diego.
 
-Because the operational route into the SDEC remote-access terminal now comes from Alice's decryption of Blanc's drive, Chrysalis's presence at PCBOT is no longer load-bearing for the campaign. He still matters narratively — and may end up playing one or more of the following roles depending on play at the table:
+If that path is foreclosed at the table — Alice dies before decrypting; the PCBOT operation collapses; Caraway burns the secure archives — Chrysalis becomes the alternative entry: as the only surviving SDEC field agent, his biometrics and procedural knowledge can plausibly bypass the Ant Trap on-site. Players who go looking for him will need to follow old BNJC / SDEC threads (Lopez, his pre-1992 contacts, anywhere he might run that isn't Sequoia Falls or DC).
 
-* **Confirmation Source:** If players reach him alive, he can corroborate the Spectator Grub manufacturing chain and the SDEC backstory, deepening their understanding without unlocking anything mechanical.
-* **Casualty of Caraway:** His broken or dead body is one of the strongest emotional levers Caraway has — proof of how far PCBOT has drifted, and a personal cost for Alice if she has been cured.
-* **Tortured Informant:** Caraway may have used him to learn that Alice exists and is rogue, but Chrysalis himself does not know the contents of the Blanc drive and cannot have given PCBOT the SDEC-bypass methodology.
-* **Late-arc support:** If rescued, Chrysalis can accompany the team to San Diego and contribute SDEC-internal context once they reach the facility, even though Alice's remote-access work is what gets them through the Ant Trap.
+If he is never needed, he can resurface in the endgame as a damaged but living survivor — or he can stay in the wind, his fate left unresolved.
 
-## Status (Pre-Excursion)
+## Status
 
-Held captive by [[Henry Caraway (Agent Hotel)|Caraway]] at [[PCBOT Headquarters|PCBOT HQ]] in Washington D.C. Subjected to interrogation regarding the Spectator Grubs and his recent contacts. His knowledge of the Blanc drive is incidental at best; he does not have the passphrase.
+In hiding. Location unknown. Carrying enough SDEC institutional memory to be useful if the primary plan breaks.

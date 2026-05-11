@@ -14,7 +14,7 @@ Once unleashed, [[Black Coral]] spread with devastating speed through the IHRU f
 During the GANYMEDE crisis, a young [[Katherine Hill]], already possessing latent [[Seer Configuration]] potential due to a forgotten childhood exposure to [[Royal Jelly]], encountered a hand-drawn reproduction of [[Black Coral]]. This exposure served as the **traumatic activator** for her unique genetic inheritance. The [[Black Coral]] basilisk interacted with her altered cognitive architecture in an unexpected way: instead of succumbing to its standard violent effects, she developed an immunity. However, this "immunity" came at a terrible cost – the event amplified her underlying psychosis, crystallizing her nihilistic worldview and profoundly influencing her later, ruthless methodologies as Director of [[BSSA (Boise Society for Sculptural Appreciation)]]. This experience convinced her that the systematic, analytical approach of IHRU was a failure.
 
 ## A Paradigm Shattered - The Legacy of GANYMEDE
-The GANYMEDE disaster was a brutal lesson. It demonstrated the profound dangers of direct, systematic engagement with infohazards and the potential for research itself to spawn new threats. The catastrophic failure of IHRU led to its immediate dissolution and spurred the development of the [[Mirror-Breaker Protocol]]. This new doctrine emphasized decentralization, metaphorical communication, and the deliberate disruption of patterns to prevent RONIN emergence, giving rise to the various [[Mirror-Breaker Organizations]] like [[BNJC (Blue Note Jazz Collective)]] and [[BSSA (Boise Society for Sculptural Appreciation)]].
+The GANYMEDE disaster was a brutal lesson. It demonstrated the profound dangers of direct, systematic engagement with infohazards and the potential for research itself to spawn new threats. The catastrophic failure of IHRU led to its immediate dissolution and spurred the development of the [[Mirror-Breaker Protocol]]. This new doctrine emphasized decentralization, metaphorical communication, and the deliberate disruption of patterns to prevent RONIN emergence, giving rise to the various [[Mirror-Breaker Protocol|Mirror-Breaker network]] like [[BNJC (Blue Note Jazz Collective)]] and [[BSSA (Boise Society for Sculptural Appreciation)]].
 
 ## Significance
 GANYMEDE was a pivotal event. It directly led to the formation of the current landscape of secret organizations fighting infohazards. It was the crucible that forged [[Katherine Hill]]'s extremist ideology and provided a stark warning about the unpredictable nature of [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]] and the [[Basilisks & Infohazards|basilisks]] that herald them. The [[Black Coral]] pattern remains a potent symbol of this disaster and a dangerous tool in BSSA's arsenal.
@@ -29,5 +29,5 @@ GANYMEDE was a pivotal event. It directly led to the formation of the current la
 * [[Royal Jelly]]
 * [[Traumatic Activation]]
 * [[Mirror-Breaker Protocol]]
-* [[Mirror-Breaker Organizations]]
+* [[Mirror-Breaker Protocol|Mirror-Breaker network]]
 * [[Hannah Christmas]]

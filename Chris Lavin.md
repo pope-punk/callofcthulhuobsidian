@@ -1,3 +1,5 @@
+**Tags:** #character #NPC #SequoiaFalls #stub
+
 ## Original Notes
 Chris Lavin - Sean Fielding’s “best friend” 
 Voice: Sped-up Keanu Reeves

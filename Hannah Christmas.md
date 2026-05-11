@@ -13,7 +13,7 @@
 ## Legacy
 * Pioneering figure in recognizing and attempting to combat infohazard threats.
 * Her leadership period defined [[IHRU (InfoHazard Response Unit)|IHRU]]'s initial approach.
-* Her death and the failure of IHRU under her watch led directly to the creation of the [[Mirror-Breaker Protocol]] and the splintering into the [[Mirror-Breaker Organizations]].
+* Her death and the failure of IHRU under her watch led directly to the creation of the [[Mirror-Breaker Protocol]] and the splintering into the [[Mirror-Breaker Protocol|Mirror-Breaker network]].
 * Her son, [[Nigel Christmas (Nine-String)]], carries on her work as leader of [[BNJC (Blue Note Jazz Collective)|BNJC]].
 
 ## Status

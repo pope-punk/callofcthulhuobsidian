@@ -4,7 +4,7 @@
 The most sensitive personal research [[Oliver Foxglove]] pulled off ErgoMatic's servers and secured in his home safe before his murder. The safe contains two distinct deliverables, both required for [[G6 (Non-Gallium Antidote)|G6]]:
 
 1. **The Notes** — Oliver's late-career bio-integration research, including the theoretical work needed by [[Syd Foxglove]] to overcome the practical hurdles to a non-gallium F7 antidote.
-2. **The Reagent** — a small, vacuum-sealed packet of a gene-altering precursor compound, the essential reagent for any non-gallium G6 synthesis. ErgoMatic's controlled stock is inaccessible to Syd; this is effectively the only sample he can use.
+2. **The Reagent ([[THEBES]])** — a small, vacuum-sealed packet of an ErgoMatic-internal gene-altering precursor compound, the essential reagent for any non-gallium G6 synthesis. ErgoMatic's controlled stock is inaccessible to Syd; this is effectively the only sample he can use.
 
 ## Content (Notes)
 * Oliver's advanced work on **bio-integration**, **DNA-Machine Code Conversion**, and the **neurological/biological effects of [[The Foxglove Algorithm]]**.

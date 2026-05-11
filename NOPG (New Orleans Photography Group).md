@@ -3,7 +3,7 @@
 **Tags:** #Faction #MirrorBreaker
 
 ## Overview
-A [[Mirror-Breaker Organizations|Mirror-Breaker Organization]] operating under the cover of a photography club, presumably based in New Orleans. Appears to be aligned with or infiltrated by the [[BSSA (Boise Society for Sculptural Appreciation)]] / [[PCBOT (Pacific Coast Board of Tourism)]] faction.
+A [[Mirror-Breaker Protocol|Mirror-Breaker Organization]] operating under the cover of a photography club, presumably based in New Orleans. Appears to be aligned with or infiltrated by the [[BSSA (Boise Society for Sculptural Appreciation)]] / [[PCBOT (Pacific Coast Board of Tourism)]] faction.
 
 ## Methodology & Philosophy
 * Utilizes **Photography-themed communications** as their metaphorical cipher.
