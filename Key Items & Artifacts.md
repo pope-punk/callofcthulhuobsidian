@@ -23,7 +23,7 @@ Significant objects, substances, documents, and pieces of information crucial to
 * [[Brewster's Final Segment Sequence Log]] (**New**) - Found at [[Ellensburg Numbers Station]].
 * [[SDEC Randomizer Mapping Rules]] (**New**) - Found at [[Ellensburg Numbers Station]].
 * [[Chapel of the Blessed Lamb Paperwork]]
-* [[SDEC Ant Trap Protocol Documents]] (Potentially found at [[PCBOT Headquarters]])
+* **Blanc's Encrypted Drive** — Found at [[Éric Blanc's Apartment]]; contains the PCBOT tunnel schematics and the SDEC remote-access bypass methodology. Decryptable only by a cured [[Alice Redmond (Agent Altissimo)|Alice]].
 
 ## Clues & Personal Effects
 * [[Alice's Map]]

@@ -14,13 +14,13 @@ A theoretical, non-toxic antidote for [[F7 (Fluoroxepram)]], conceived by [[Syd 
 
 ## Development & Status (Late Oct 1997)
 * **Conceived/Researched:** By [[Syd Foxglove]] in [[Montreal, QC]] (July-Oct 1997).
-* **Status:** Theoretical formula and research principles exist. **Not yet synthesized.** [[Syd Foxglove]] holds the key knowledge, but requires [[Oliver Foxglove's Advanced Research Notes]] (in the safe) for synthesis.
+* **Status:** Theoretical formula and research principles exist. **Not yet synthesized.** Syd holds the key knowledge but requires both [[Oliver Foxglove's Advanced Research Notes]] *and* the small vacuum-sealed packet of gene-altering reagent his father stored alongside them in the home safe. ErgoMatic's controlled stock of the reagent is inaccessible to Syd; the safe sample is effectively the only one he can use.
 * **Awareness:** Syd knows formula concept; [[BNJC (Blue Note Jazz Collective)]]/Alice know he worked on *an antidote*; [[Rhea]] knows its potential and seeks it; **[[BSSA (Boise Society for Sculptural Appreciation)]] is unaware** of G6's existence or potential.
 
 ## Relationship to Royal Jelly
 * Serves a complementary function to [[Royal Jelly]]. Royal Jelly *unlocks* Algorithm potential in specific lineages; G6 *alters the baseline cognitive balance* in everyone, suppressing resistance to systematic processing. G6 is a human-derived tool inadvertently fitting Rhea's ultimate goal.
 
 ## Campaign Significance
-* Central MacGuffin. Requires rescuing Syd *and* solving the [[Safe Puzzle]] to obtain notes for synthesis.
-* Only safe cure for [[Alice Redmond (Agent Altissimo)]].
+* Central MacGuffin. Requires rescuing Syd *and* solving the [[Safe Puzzle]] to obtain both the notes *and* the reagent.
+* Only safe cure for [[Alice Redmond (Agent Altissimo)]] — and since Alice is the only person who can decrypt Blanc's PCBOT-bypass methodology, **curing her is the structural gate to the PCBOT and SDEC arcs**, not merely a humanitarian outcome.
 * Possession presents the ultimate endgame choice: cure Alice vs. enabling Rhea's final victory.

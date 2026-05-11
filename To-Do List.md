@@ -38,7 +38,7 @@
 **Montreal Through Alice Recovery**
 
 - Steven Rober intelligence leak consequences
-- Blanc safehouse trap sequence
+- Blanc apartment investigation sequence
 - Museum ambush tactical scenario
 - G6 synthesis puzzle chain
 - Tunnel system navigation
@@ -166,18 +166,19 @@
 
 **Session Materials Needed:**
 
-- **Surveillance Timeline**: What Rober overhears, when BSSA receives intel
-- **BSSA Response Protocol**: Katherine Hill's reaction, Montreal operation planning
-- **Blanc Elimination Evidence**: Torture scene reconstruction, PGP key compromise
-- **Communication Intercept**: How BSSA stages Blanc's final message to Syd
+- **Surveillance Timeline**: What Rober overhears, when BSSA receives confirmatory intel (Katherine's independent trail had already reached Blanc earlier)
+- **BSSA Response Protocol**: Katherine Hill's parallel investigative path, Montreal operation planning
+- **Blanc Capture Evidence**: Apartment ransack details, signs of struggle without murder, evidence of forced exit
+- **Communication Intercept**: How Plaster operates Blanc's email account to lure correspondents to the museum date
 
-### Blanc Safehouse Trap Investigation
+### Blanc's Apartment Investigation
 
 **Session Materials Needed:**
 
-- **Safehouse Layout**: Apartment configuration, staged evidence placement
-- **Staged Computer Evidence**: Email interface showing Syd lure message
-- **McCord Museum Materials**: Visitor maps, tactical blueprints, security information
+- **Apartment Layout**: Ransacked configuration, calendar/receipt placement, computer position
+- **Calendar & Museum Receipts**: Handout artifacts pointing to the standing-protocol date at the McCord Museum
+- **Encrypted Computer**: Display showing locked encrypted volume; passphrase prompt; description of contents (PCBOT tunnel schematics + SDEC remote-access bypass methodology) that the players cannot access until Alice is cured
+- **McCord Museum Materials**: Visitor maps, tactical blueprints, security information (Blanc retained municipal copies from his CSIS days)
 - **UMSE Contact Protocols**: Upper Michigan Succulent Enthusiasts communication methods
 - **Surveillance Detection**: How players recognize they're being watched
 
@@ -200,7 +201,7 @@
 - **Safe Puzzle Components**:
     - Ylynthii numeral reference system
     - Oliver's cipher methodology notes
-    - Birthday conversion mathematics
+    - Andrea Foxglove's birthday → Ylynthii base-6 → Oliver's cipher → keypad
     - Step-by-step solution guide
 - **Advanced Research Notes Contents**: G6 synthesis instructions, chemical requirements
 - **Lab Access Requirements**: Equipment needs, security considerations, time constraints
@@ -236,15 +237,16 @@
 - **Alice's Final Sacrifice**: Chemical choice consequences, decryption capabilities
 - **BNJC Array Communication**: Frequency relay, jamming success conditions
 
-### SDEC Facility Dungeon Crawl
+### SDEC Access (Remote Terminal at PCBOT, Optional Physical Visit)
 
 **Session Materials Needed:**
 
-- **Ant Trap Bypass Methods**: Chrysalis credentials vs PCBOT document protocols
-- **Facility Layout Maps**: Room progression, automated defense positions
-- **BRACHINUS Turret Encounters**: Combat stats, stealth alternatives, environmental hazards
-- **1992 Conflict Remnants**: Evidence of EUROPA destruction, facility damage
-- **SDEC Infiltrator Agent**: Potential surviving security, psychological profile
+- **PCBOT Bypass Methodology Handout**: The decrypted operational walk-through of Alice's 1996 procedure for opening a remote terminal session into SDEC from the PCBOT secure archives cluster
+- **SDEC Remote Terminal Interface**: What players see on screen when Alice executes the bypass — directory listings, Winston's Memoirs file, surviving SDEC archives, any artifacts that are remote-extractable vs. physical-only
+- **(Optional) Facility Layout Maps**: For a follow-up on-site visit in San Diego
+- **(Optional) BRACHINUS Turret Encounters**: For on-site visit
+- **(Optional) 1992 Conflict Remnants**: For on-site visit
+- **(Optional) SDEC Infiltrator Agent**: Lingering hazard for an on-site visit
 
 ### Winston's Memoirs & Endgame Setup
 
@@ -285,7 +287,7 @@
 
 ### Phase 3: Montreal Arc (Weeks 6-7)
 
-- **Week 6**: Steven Rober leak sequence, Blanc safehouse trap
+- **Week 6**: Steven Rober leak sequence, Blanc apartment investigation
 - **Week 7**: McCord Museum ambush, Katherine Hill confrontation
 
 ### Phase 4: Recovery & Synthesis (Weeks 8-9)

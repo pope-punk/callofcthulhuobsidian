@@ -14,7 +14,7 @@ The numerical system used by the extinct [[Ylynth Civilization]], based on [[Hex
 	* At Seventh Tabernacle, Syd has carved "5 6 7 [[Monkey Gone to Heaven (Song)|this monkey's gone to heaven]]" into the desk. 
 ## Significance
 * Direct link to the alien origin of [[The Foxglove Algorithm]] and [[Rhea]].
-* Required component for converting Syd's Base-10 birthday into the correct format for [[Oliver Foxglove]]'s cipher as part of the [[Safe Puzzle]].
+* Required component for converting [[Andrea Foxglove]]'s Base-10 birthday into the correct format for [[Oliver Foxglove]]'s cipher as part of the [[Safe Puzzle]].
 * Appeared in the works of Giuseppe Tedesco, a nearly unknown medieval monk, whose scriptures were blamed for the outbreak of dancing plagues towards the end of the black death, and his brother, Giovanni Tedesco, an architect. Information on their father, Dominic Tedesco, is limited - he died with his wife of the plague when the boys were three years old. 
 	* Giuseppe was burned at the stake for heresy. No copies of his original works remain, but Ylynthii numerals remain in the palimpsests of the bible pages he transcribed. 
 	* Giovanni was never punished, but authorities eventually closed and demolished the concert hall he built after repeated incidents of guests breaking into dance.

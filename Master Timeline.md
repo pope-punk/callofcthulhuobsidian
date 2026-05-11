@@ -179,7 +179,7 @@
 * **1996 (June)**: Limited neural pattern formation detected in [[Seventh Tabernacle Church of Life|church's underground chamber]] ([[IO (Emerging 1997)|IO]]). Biometric responses measured.
 * **1996 (October)**: [[Fauxflake]] development stalls. [[Katherine Hill]] and [[Anselm Chambers (Deacon)|Chambers]] discuss need for [[The Foxglove Family|Foxglove]] knowledge integration. [[Sean Fielding]] imprisoned (Oct 6). [[Oliver Foxglove]] investigates [[Richard Harmon|Harmon]]/[[American Meridian]].
 * **1996 (December)**: Oliver's Critical Discovery
-    * Oliver discovers [[Winston's 1953 Research List]]; realizes it matches his own research paths. Discovers his [[DNA-Machine Code Conversion System]] spontaneously generates [[The Foxglove Algorithm]] code. Realizes merger enables [[Rhea]]'s plan. Decides to cancel merger. Opposition becomes immediate and absolute.
+    * Visiting Syd's workstation at ErgoMatic, Oliver notices Syd's marginalia includes spontaneous use of symbols ([[Ylynthii Numerals]]) Oliver had only ever seen in Winston's private notebooks and his own occasional Algorithm reverie. Realizing the family's mathematical proclivity is heritable rather than learned, he re-examines his own recent work and discovers his [[DNA-Machine Code Conversion System]] and [[GenAssist Universal Tissue Printer]] are spontaneously replicating [[The Foxglove Algorithm]]. Realizes the merger is engineered to enable [[Rhea]]'s plan. Decides to cancel merger. Attempts to contact SDEC about Winston's archived materials; receives no answer (the facility was destroyed in 1992). Opposition becomes immediate and absolute.
 
 ## 1997: Crisis Year
 
@@ -256,19 +256,23 @@
 * **1997 (October 8)**: Detective [[Colin Reeves]] killed by [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Reaper]] at [[Alice Redmond's House|Alice's apartment]].
 * **1997 (October 10)**: Players discover [[COTU (Center of the Universe)|COTU]], find bodies, clues including the **[[Montreal Phone Number]] (514-874-2313)**. Return to [[BNJC HQ|BNJC]].
     * **Critical Intelligence Breach:** [[Steven Rober (Agent Shutter)|Agent Shutter]] ([[NOPG (New Orleans Photography Group)|NOPG]] mole) is introduced at [[BNJC (Blue Note Jazz Collective)|BNJC]]. Overhears Montreal info during debrief, relays to NOPG/[[BSSA (Boise Society for Sculptural Appreciation)]].
-* **1997 (Immediately Post-October 10)**: **BSSA Acts on Intel (Montreal Trap Set):**
-    * BSSA operatives, directed by [[Katherine Hill]], locate and eliminate [[Éric Blanc]] near [[McGill University]].
-    * Blanc tortured for PGP keys; email compromised.
-    * BSSA sends lure message from Blanc's account to [[Syd Foxglove]], directing him to [[McCord Museum]] rendezvous.
-    * BSSA intentionally leaves [[Éric Blanc's Safehouse]] untouched but stages computer/email as clue for anticipated investigators.
-    * BSSA prepares ambush at [[McCord Museum]] to intercept Syd *and* players.
-    * **[[Syd Foxglove]] remains unaware** of Blanc's death or the compromise.
+* **1997 (Early October — Before Campaign Start)**: **BSSA Captures Blanc (Montreal Trap Set):**
+    * BSSA operatives, directed by [[Katherine Hill]] from her independent investigative trail (NOT the Shutter leak, which is later), locate Blanc's apartment in Montreal.
+    * They break in while Blanc is at McGill, ransack the apartment, tap the phone, and clone the hard drive. The encrypted volume (Alice's PCBOT-bypass methodology and tunnel schematics) is recovered but cannot be opened without the passphrase.
+    * BSSA captures **Blanc himself** as he returns home. He is taken alive to a BSSA black site and tortured for his email credentials and Syd's daily movements. [[Phoebe Jones (Agent Plaster)|Agent Plaster]] assumes control of Blanc's email account.
+    * From the apartment evidence — particularly the wall calendar and museum receipts — BSSA learns of the standing emergency meeting protocol at the [[McCord Museum]] on a designated day each month.
+    * BSSA prepares a two-pronged trap: (a) Plaster operates Blanc's email to steer any correspondents toward the museum on the next designated date; (b) a field team stakes out the museum for that date to capture Syd alive.
+    * **[[Syd Foxglove]] remains unaware** of Blanc's capture.
+
+* **1997 (Immediately Post-October 10)**: **Shutter Leak Compounds the Trap:**
+    * [[Steven Rober (Agent Shutter)]] relays the COTU-recovered [[Montreal Phone Number]] to NOPG/BSSA, confirming what Katherine had already deduced and tightening her timeline for the museum operation. The leak does NOT itself reveal Blanc's address — Katherine already had it.
 
 ## Current Faction/Character Status Summary (As of Late Oct 1997 - *Projected start of Montreal Arc*)
 
 * **Players:** Possess COTU clues ([[Montreal Phone Number]]), witnessed horrors, faced [[Reapers|Reapers]]. Based at [[BNJC HQ|BNJC]]. Tasked by Nine-String regarding Montreal/Alice/Chrysalis. Learn Blanc is dead/unreachable.
 * **Alice:** Still F7-impaired, hiding in [[Sewers and Maintenance Tunnels|tunnels]]. Needs [[G6 (Non-Gallium Antidote)|G6]]. Key to finding Chrysalis.
-* **Syd:** **In Montreal, Unaware, Targeted.** Has received lure message from "Blanc," expected by BSSA at McCord Museum rendezvous.
+* **Syd:** **In Montreal, Unaware, Targeted.** Out of contact with Blanc; expected to appear at the McCord Museum on the next standing-protocol date, where BSSA will be waiting.
+* **Blanc:** **Captured, alive.** Held at a BSSA black site. Most likely to die during the McCord Museum operation or a related extraction attempt.
 * **Chrysalis:** Captive at [[PCBOT Headquarters|PCBOT HQ]] for >2 weeks. Status unknown to players/BNJC.
 * **BNJC:** [[Nigel Christmas (Nine-String)|Nine-String]] aware of player findings, Blanc's death. Coordinating with [[UMSE (Upper Michigan Succulent Enthusiasts)|UMSE]] to support players in Montreal. Unwittingly compromised by [[Steven Rober (Agent Shutter)|Agent Shutter]]. Unaware of Chrysalis's location/status or BSSA's full trap plan.
 * **BSSA:** [[Katherine Hill]] **is alive** and actively directing the Montreal trap operation targeting Syd and players. [[Operation Parthenon]]/[[Project Ozymandias]] continue but stalled.
@@ -277,10 +281,11 @@
 
 ## Projected Next Steps (GM Planning)
 
-1.  **Montreal Arc:** Players travel to Montreal, coordinate with [[UMSE (Upper Michigan Succulent Enthusiasts)]], investigate [[Éric Blanc's Safehouse]], discover staged clue/trap. Plan and execute intervention at [[McCord Museum]] ambush. Confront BSSA/[[Katherine Hill]], rescue Syd.
-2.  **G6 Synthesis:** Syd reveals need for [[Oliver Foxglove's Advanced Research Notes]]. Players solve [[Safe Puzzle]], retrieve notes. Syd synthesizes [[G6 (Non-Gallium Antidote)|G6]].
-3.  **Alice's Cure:** Return, locate Alice, administer G6.
-4.  **PCBOT Excursion:** Cured Alice directs players to DC to rescue Chrysalis from [[Henry Caraway (Agent Hotel)|Caraway]]. Leads to "[[PCBOT Headquarters|Departing Flight]]" scenario.
-5.  **SDEC Facility:** Infiltrate sealed facility using Chrysalis or [[SDEC Ant Trap Protocol Documents|PCBOT docs]] to get [[Winston's Memoirs (SDEC)]].
-6.  **Endgame:** Decode Memoirs ([[Dead Horse Quarry]]), confront [[Watchers|Watcher]], final confrontation/choices at [[Hive]] entrance regarding [[Rhea]]/[[G6 (Non-Gallium Antidote)|G6]].
+1. **Ellensburg / Brewster Lockbox → Maria Chen → Blanc's address.** The only viable pathway to Blanc's apartment; BNJC does not have it.
+2. **Montreal Arc:** Players travel to Montreal with UMSE support, investigate the ransacked **[[Éric Blanc's Apartment]]**, recover Blanc's encrypted computer (or its drive), understand the McCord Museum trap, and intervene at the museum on the standing-protocol date. Confront BSSA/[[Katherine Hill]], rescue Syd; Blanc most likely dies in the firefight.
+3. **G6 Synthesis:** Syd reveals need for [[Oliver Foxglove's Advanced Research Notes]] and the sealed reagent. Players solve [[Safe Puzzle]] (Andrea Foxglove's birthday + Ylynthii cipher), retrieve the notes and reagent. Syd synthesizes [[G6 (Non-Gallium Antidote)|G6]].
+4. **Alice's Cure (Required Checkpoint):** Locate Alice, administer G6. Cured Alice provides the passphrase to Blanc's encrypted drive and walks the team through the PCBOT-bypass methodology.
+5. **PCBOT Excursion:** Travel to DC, infiltrate PCBOT HQ, use Alice's bypass methodology to obtain remote terminal access to SDEC (the actual MacGuffin) and to extract [[Winston's Memoirs (SDEC)]] and the SDEC archives. Survive Caraway's "[[PCBOT Headquarters|Departing Flight]]" airstrike via Alice's chemical decryption.
+6. **(Optional) On-Site SDEC Visit:** With the bypass already burned, players may travel to the [[SDEC Facility]] in San Diego for any remaining artifacts.
+7. **Endgame:** Decode Memoirs ([[Dead Horse Quarry]]), confront [[Watchers|Watcher]], final confrontation/choices at the [[Hive]] entrance regarding Rhea/G6.
 

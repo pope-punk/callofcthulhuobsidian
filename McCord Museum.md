@@ -1,15 +1,20 @@
 **Tags:** #Location #Montreal #Museum #AmbushSite #BSSA
 
 ## Overview
-A history museum located in [[Montreal, QC]], near [[McGill University]]. Chosen by [[BSSA (Boise Society for Sculptural Appreciation)]] as the site for a planned ambush.
+A history museum in [[Montreal, QC]], near [[McGill University]]. Long before BSSA arrived, the museum was repurposed by [[Éric Blanc]] as the location of a **standing emergency meeting protocol** with [[Syd Foxglove]]: if they ever lost contact, Syd was to appear at the McCord on a designated day each month. After Blanc's capture, BSSA discovered this protocol from calendar evidence in Blanc's apartment and turned it into an ambush.
 
 ## Significance
-* **BSSA Rendezvous/Ambush Site:** Following the elimination of [[Éric Blanc]] and the compromise of his email, BSSA sent a lure message directing [[Syd Foxglove]] to meet "Blanc" here at a specific time and location (e.g., "Modern Forms" or "Greek History" wing).
-* **The Trap:** BSSA's plan is to allow Syd to arrive, assuming investigators tracking Blanc/Syd will also converge on the location based on the staged clue at [[Éric Blanc's Safehouse]]. Once targets are present, BSSA intends to spring an ambush:
+
+* **Standing Protocol Site:** The legitimate fallback rendezvous between Blanc and Syd. The current month's designated date is imminent at the start of the Montreal arc.
+* **BSSA Ambush Site:** With Blanc captured and [[Phoebe Jones (Agent Plaster)|Agent Plaster]] now operating Blanc's email account, BSSA can both:
+  1. Wait for Syd to follow the protocol naturally, and
+  2. Steer any other contacts (e.g., players who write to "Blanc" through the burner voicemail) into arriving on the same date.
+* **The Trap:** BSSA's plan is to allow Syd to arrive, assuming any players tracking Blanc or Syd will also converge on the location. Once targets are present, BSSA intends to:
     * Cut power to the area/wing.
     * Deploy NVG-equipped agents to neutralize investigators.
-    * Secure [[Syd Foxglove]] alive (for his [[Fauxflake]] expertise).
-* **Player Objective:** Players, likely coordinating with [[UMSE (Upper Michigan Succulent Enthusiasts)]], need to approach the museum aware of the impending trap, attempt to intervene, protect Syd, survive the ambush (potentially restoring power), and execute an extraction. Blueprints obtained from [[Éric Blanc's Safehouse]] could be crucial.
+    * Secure Syd alive (for his [[Fauxflake]] expertise).
+    * Either kill Blanc on-site (using his death as cover) or eliminate him during the post-ambush extraction.
+* **Player Objective:** Players, likely coordinating with [[UMSE (Upper Michigan Succulent Enthusiasts)]], must approach aware of the trap, attempt to intervene, protect Syd, survive the ambush (potentially restoring power), and execute an extraction. Blueprints obtained from [[Éric Blanc's Apartment]] (Blanc had retained municipal access to museum blueprints from his old CSIS days) are crucial.
 
 ## Status (Late Oct 1997)
-A public museum, currently targeted by [[BSSA (Boise Society for Sculptural Appreciation)]] as the location for their planned capture/elimination operation against Syd Foxglove and the investigators in the near future. The site of the probable mid-campaign climax.
+A functioning public museum currently targeted by BSSA as the location for their planned capture of Syd and elimination of the investigators. The probable site of the mid-campaign climax.

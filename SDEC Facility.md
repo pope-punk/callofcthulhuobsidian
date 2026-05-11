@@ -16,9 +16,12 @@ In 1992, SDEC made a fatal connection. They linked Winston's account of the [[De
 [[Agent Chrysalis]] was the sole field agent to survive the purge, though he bears deep psychological scars from the event. He later integrated with the [[BNJC (Blue Note Jazz Collective)|BNJC]].
 
 ## The "Ant Trap" and Current State
-The SDEC facility remains sealed under the "Ant Trap" protocol. Its internal environment is likely highly dangerous, protected by automated defenses such as the [[BRACHINUS Class Turrets|BRACHINUS Class Turrets]] (which deploy a neurotoxic gas based on the bombardier beetle's chemical defenses), infohazardous traps, and potentially, lingering constructs or remnants of the SDEC Infiltrator. The facility's systems are designed to prevent unauthorized entry and ensure the permanent containment of its contents.
+The SDEC facility remains sealed under the "Ant Trap" protocol. Its internal environment is highly dangerous, protected by automated defenses such as the [[BRACHINUS Class Turrets|BRACHINUS Class Turrets]] (which deploy a neurotoxic gas based on the bombardier beetle's chemical defenses), infohazardous traps, and potentially lingering constructs or remnants of the SDEC Infiltrator. The facility's systems are designed to prevent unauthorized entry and ensure the permanent containment of its contents.
 
-The only known way to potentially bypass the Ant Trap protocol is believed to be through the unique knowledge and biometrics of a surviving SDEC agent, specifically [[Agent Chrysalis]]. This is why his rescue from [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] custody is paramount.
+### Access Routes (Updated Canon)
+
+* **Remote Terminal Access via PCBOT (Primary):** During 1994-96, [[Alice Redmond (Agent Altissimo)]] and [[Éric Blanc]] — working from [[Agent Chrysalis]]'s SDEC CICADA-class sonar maps of [[PCBOT Headquarters]] — pre-mapped a methodology to obtain a **remote terminal session** into the sealed SDEC network via PCBOT's secure archives terminal cluster. The encrypted methodology is stored on Blanc's hard drive in Montreal; only a cured Alice can decrypt and execute it. This is the campaign's actual route to Winston's memoirs and the surviving SDEC archives.
+* **Physical Entry via Surviving SDEC Agent (Secondary / Optional):** Chrysalis, as the sole surviving SDEC field agent, retains unique knowledge and biometrics that may allow physical bypass of the Ant Trap. With the remote terminal route already burned at PCBOT, a physical visit to San Diego becomes an optional "dungeon" rather than a required step — useful for artifacts the remote terminal could not extract, or for verification.
 
 ## Significance and Future Role
 The SDEC facility is a treasure trove of lost knowledge and a testament to the ruthlessness of Rhea. Its primary importance to the campaign lies in:

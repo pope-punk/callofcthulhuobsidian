@@ -9,14 +9,14 @@ Major industrial complex in [[Ellensburg Area, WA|Ellensburg]], founded by [[Win
 * Secure Sublevels for [[Signal Dummies|Dummy]]/[[Spectator Grubs|Grub]] production.
 
 ## Key Features & Discoveries (Past & Present)
-* **Oliver's Office:** Site of Oliver's discovery of Algorithm recursion/[[Winston's 1953 Research List]].
-* **Syd's Computer:** Contains [[Oliver Foxglove Emails]] (accessible via login obtained from [[Amanda Green]]). Hard drive confiscated after Oliver's death.
+* **Oliver's Office:** Site of Oliver's December 1996 realization that his work on GenAssist and the DNA-Machine Code Conversion System was spontaneously replicating Winston's algorithm — a realization sparked by noticing Syd's spontaneous use of [[Ylynthii Numerals]] in Syd's marginalia.
+* **Syd's Computer:** Contains [[Oliver Foxglove Emails]] (accessible via login obtained from [[Amanda Green]]) and "suspicious login attempt" warnings from a Montreal IP, which Sean Fielding had reported to Katherine — giving BSSA their first independent thread into Montreal.
 * **Automated Manufacturing:** Produces [[Signal Dummies|Dummy]] parts, [[Spectator Grubs|Synthetic Grubs]]. Data feeds show [[LTX (Land Transit Express)|LTX]] network patterns driving production via [[GenAssist Universal Tissue Printer]].
 * **Sean Fielding Connection:** [[Sean Fielding]] applied here, was rejected.
 
 ## Planned Investigation Discoveries (Act II)
 * Access [[Syd Foxglove]]'s account using credentials from [[Amanda Green]].
-* Find **[[Oliver Foxglove Emails]]**: Detailing Algorithm/Rhea horror, [[Winston's Memoirs (SDEC)]] importance, research secured in **home safe** coded to Syd's birthday.
+* Find **[[Oliver Foxglove Emails]]**: Detailing Algorithm/Rhea horror, [[Winston's Memoirs (SDEC)]] importance, research **plus a vacuum-sealed gene-altering reagent** secured in the **home safe** coded to **Andrea Foxglove's birthday** via Oliver's personal cipher.
 * Find **[[Oliver Foxglove's Cipher Notes]]**: Detailing his Ylynthii/Date/Keypad cipher process needed for the safe.
 * Confirm **McGill University Remote Access Logs** from Syd's terminal.
 * Explore production areas, confirming link between [[LTX (Land Transit Express)|LTX]] data, [[Spectator Grubs|Grub]] synthesis, and [[Signal Dummies|Dummy]] assembly.
