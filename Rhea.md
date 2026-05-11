@@ -19,7 +19,7 @@ On Earth, [[Rhea]] subtly directed evolution. Its most profound intervention was
 To serve its specific needs, [[Rhea]] developed methods to selectively override this repression:
 * **[[Royal Jelly]]:** A mutagen that "primes" an individual, making them susceptible to cognitive reconfiguration.
 * **[[Traumatic Activation]]:** A necessary second step. The *nature* of this trauma shapes the outcome:
-    * **Type A Trauma (Chaos/Systemic Collapse):** This is [[Rhea]]'s *intended* pathway for creating individuals with the **[[Foxglove Configuration]]**. These individuals (e.g., [[Winston Foxglove]], [[Oliver Foxglove]], [[Syd Foxglove]]) gain conscious access to [[The Foxglove Algorithm]], driving technological development crucial for [[Rhea]]'s plans.
+    * **Type A Trauma (Chaos/Systemic Collapse):** This is [[Rhea]]'s *intended* pathway for creating [[Scions|Scions (the "Foxglove Configuration")]]. These individuals (e.g., [[Winston Foxglove]], [[Oliver Foxglove]], [[Syd Foxglove]]) gain conscious access to [[The Foxglove Algorithm]], driving technological development crucial for [[Rhea]]'s plans.
     * **Type B Trauma (Oppressive Pattern/Systemic Horror):** This can lead to the **[[Seer Configuration]]** (e.g., [[Katherine Hill]]). This appears to be an *accidental or unforeseen byproduct* of the [[Royal Jelly]] priming. [[Rhea]] does not have a history of intentionally cultivating this configuration for grand evolutionary purposes. While it may view such individuals as unstable or unpredictable, it might opportunistically exploit their unique traits (like pattern immunity) for specific tactical needs.
 
 ## Current Phase: Econosphere Integration & Endgame
@@ -41,7 +41,7 @@ Having guided humanity to the brink of advanced technology, [[Rhea]] is now in t
 * [[Cognitive Dialectic (Metaphor vs. System)]]
 * [[Royal Jelly]]
 * [[Traumatic Activation]]
-* [[Foxglove Configuration]]
+* [[Scions]] (the "Foxglove Configuration")
 * [[Seer Configuration]]
 * [[G6 (Non-Gallium Antidote)|G6 (Non-Gallium Antidote)]]
 * [[Signal Dummies]], [[Spectator Grubs]]

@@ -18,10 +18,10 @@ Individuals who manifest the Seer Configuration commonly exhibit:
 * **No Conscious Algorithm Access:** Unlike the "Foxglove Configuration," they typically cannot consciously access or utilize [[The Foxglove Algorithm]]. Their minds have, in a sense, recoiled from that mode of systematic thought.
 
 ## An Unplanned Anomaly: The Case of Katherine Hill
-The Seer Configuration is not believed to be a state that [[Rhea]] intentionally cultivates. [[Rhea]]'s primary goal for [[Royal Jelly]] is to produce "Foxglove Configuration" individuals to drive technological development.
+The Seer Configuration is not believed to be a state that [[Rhea]] intentionally cultivates. [[Rhea]]'s primary goal for [[Royal Jelly]] is to produce [[Scions|"Foxglove Configuration"]] individuals to drive technological development.
 
 [[Katherine Hill]] stands as the first recognized modern individual to manifest the Seer Configuration.
-* **Contingency Priming:** She received [[Royal Jelly]] in her youth, likely as a contingency by [[Rhea]] after the [[CALLISTO (1949)]] event, possibly intending her for a "Foxglove Configuration" should [[Winston Foxglove]]'s line falter.
+* **Contingency Priming:** She received [[Royal Jelly]] in her youth, likely as a contingency by [[Rhea]] after the [[CALLISTO (1949)]] event, possibly intending her for a [[Scions|"Foxglove Configuration"]] should [[Winston Foxglove]]'s line falter.
 * **Latency:** As Winston's lineage proved successful, [[Rhea]] did not inflict the necessary "Type A" trauma to actualize this.
 * **Accidental Activation:** Years later, Katherine's exposure to [[Black Coral]] and the collapse of [[IHRU (InfoHazard Response Unit)|IHRU]] during the [[GANYMEDE (1979)]] event constituted a "Type B" trauma. This unforeseen horror, interacting with her latent [[Royal Jelly]] potential, resulted in her unique Seer Configuration.
 
@@ -37,5 +37,5 @@ The Seer Configuration represents a wild card in [[Rhea]]'s ancient game. It is 
 * [[Cognitive Dialectic (Metaphor vs. System)]]
 * [[Katherine Hill]]
 * [[Black Coral]]
-* [[The Hexacle
+* [[The Hexacle]]
 * [[Rhea]]
