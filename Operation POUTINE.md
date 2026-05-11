@@ -1,35 +1,29 @@
-
 **Tags:** #Operation #CIA #HistoricalEvent #NumbersStation
 
 ## Overview
-Codename for a [[CIA|CIA (Central Intelligence Agency)]] operation involving a network of **numbers stations** across North America, active from the 1970s until its decommissioning in early 1986.
 
-## Controlling Faction
-* [[CIA]]
+A [[CIA]] numbers-station network operated across North America from the 1970s until early 1986. Used for broadcasting coded signals to assets in the field; the official cover story when station hardware turned up later was always "weather research" or "amateur radio interference." The network was decommissioned and the stations turned over to local-property disposition or quiet abandonment.
 
-## Timeframe
-* Active: 1970s - Early 1986
-* Decommissioned: Early 1986
+POUTINE itself was unremarkable as CIA programs go. Its significance to the campaign is entirely downstream of what happened to its infrastructure afterward.
 
-## Purpose & Methods
-* Established and operated a network of radio **transmission relay stations** (numbers stations) throughout North America.
-* Used for broadcasting **coded signals** for intelligence operations.
+## Known relays (campaign-relevant)
 
-## Known Infrastructure
-* **[[Ellensburg Numbers Station]]**: A relay station located near [[Ellensburg Area, WA|Ellensburg]].
-* **Montreal Relay:** A relay station located in [[Montreal, QC]].
-* Likely numerous other unspecified relay points across North America.
+* **[[Ellensburg Numbers Station]]** — Washington State. Repurposed by BSSA in 1986 as the broadcast point for [[The Echo]] and the Axon-and-Dendrite show.
+* **Montreal relay** — used during [[Operation Colossus|Colossus]] for The Echo retransmission. Identified by [[Alice Redmond (Agent Altissimo)|Alice]] during her [[EUROPA (1986-1992)|EUROPA]] investigation and the basis for her first contact with [[Éric Blanc]] in 1993.
+* **Juneau relay** — broadcast Axon and Dendrite from 1991 onward, which neither Alice nor Blanc had a clean technical explanation for. Whatever set up the Juneau transmission was either operating outside BSSA's known cell network or using a propagation method neither of them recognized.
+* Additional unspecified relays at Ogunquit, Burlington, Trois-Rivières, Duluth, and others — none of them activated during Colossus, all of them investigated by Alice and Blanc.
 
-## Legacy & Campaign Relevance
-* **Infrastructure Repurposed:** After decommissioning by the [[CIA]], key infrastructure was repurposed by [[BSSA (Boise Society for Sculptural Appreciation)]] for [[Operation Colossus]] (1986-1992).
-    * The [[Ellensburg Numbers Station]] was used to broadcast the [[The Echo|Echo]] basilisk.
-    * The Montreal relay was used for [[The Echo]] transmission, identified by [[Alice Redmond (Agent Altissimo)|Alice Redmond]] during her [[EUROPA (1986-1992)]] investigation.
-* **Investigation Lead:** Understanding the former POUTINE network was crucial for [[Alice Redmond (Agent Altissimo)|Alice Redmond]] in tracing [[EUROPA (1986-1992)]]'s transmission vectors.
-	* Basis for her connection with [[Éric Blanc]].
-* **Syd's Escape Route:** Alice's knowledge of the network and her contact [[Éric Blanc]] (likely gained during the POUTINE/EUROPA investigation) associated with the Montreal relay proved vital for arranging [[Syd Foxglove]]'s escape destination.
+## Why POUTINE matters now
+
+* It is the infrastructure layer underneath Operation Colossus.
+* The Ellensburg station and the Montreal relay are physical sites the players will visit.
+* Tracing the POUTINE network is what brought Alice and Blanc together in 1993, and Blanc's working CSIS-era knowledge of POUTINE technical specifications is part of why he was useful to BNJC.
+* Blanc was the CSIS/SCRS technical contact for POUTINE before he resigned in 1986. His institutional memory of the network is the connective tissue between the operation's decommissioning, its repurposing, and Alice's later investigation.
 
 ## Status
-* Operation itself concluded in 1986. Its primary relevance is historical, explaining the origin of key infrastructure used later by [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] and providing connections for player investigation (particularly regarding Montreal).
+
+Concluded 1986. The network exists now only as architecture and paperwork.
 
 ## Clues
-[[Operation POUTINE Memo]]
+
+* [[Operation POUTINE Memo]]

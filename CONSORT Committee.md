@@ -11,7 +11,7 @@ Codename: **Operation CONSORT**. A special committee convened under NATO (initia
 
 ## Key Discoveries
 * Identified periodic "pulses" in shipping data, resembling hypothetical computations.
-* Developed the theory of **[[RONINs (Randomly Organizing Neural Information Networks)]]]** based on emergent properties of complex systems.
+* Developed the theory of **[[RONINs (Randomly Organizing Neural Information Networks)|RONINs]]** based on emergent properties of complex systems.
 * Identified the specific CALLISTO RONIN, mapping thousands of "neuron-like nodes" in the LTX transit network.
 * Hypothesized that CALLISTO influenced individual actions ("downward causality") through a physical vector.
 * Identified the **[[The Snowflake]]** pattern (derived from [[The Foxglove Algorithm]]) in LTX warehouse layouts as the likely "immanent vector" causing behavioral compulsion in workers.

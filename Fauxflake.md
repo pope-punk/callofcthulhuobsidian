@@ -2,26 +2,27 @@
 
 ## Overview
 
-A visual/spatial [[Basilisks & Infohazards|basilisk]] developed by [[BSSA (Boise Society for Sculptural Appreciation)]] as the central component of [[Operation Parthenon]]. It is derived from [[The Snowflake]] pattern, designed to cultivate the stable, controlled [[IO (Emerging 1997)]] RONIN.
+A visual/spatial [[Basilisks & Infohazards|basilisk]] designed by BSSA — primarily [[Anselm Chambers (Deacon)|Anselm Chambers]] in collaboration with [[Katherine Hill]] — as the central instrument of [[Operation Parthenon]]. Derived from [[The Snowflake]] (and so from [[The Foxglove Algorithm]]) and modified, then refined, then re-refined during 1996-97 with [[Syd Foxglove]]'s coerced input. The immanent vector around which [[IO (Emerging 1997)|IO]] is being cultivated.
 
-## Appearance
+The first basilisk in the catalogue intended for *controlled* RONIN cultivation. Whether that's possible is the question Parthenon exists to answer.
 
-- **Visual/Spatial Pattern:** Based on [[The Snowflake]] (and therefore [[The Foxglove Algorithm]]), but modified by [[BSSA (Boise Society for Sculptural Appreciation)]] (with unwilling refinement input from [[Syd Foxglove]]). Specific visual details unknown, but likely a complex geometric or fractal pattern.
-- **3D Implementation:** Implemented physically through the **modular pew arrangement** and **mirrored ceiling** in the chamber beneath the [[Seventh Tabernacle Church of Life]]. The specific 3D configuration _is_ the pattern in its primary form within the chamber.
-- **2D Representation (Weaponization):** A key BSSA goal is to create easily reproducible **2D drawings** of the Fauxflake pattern. A specialized **viewing apparatus** within the chamber allows observation of the 3D pew layout from above, enabling translation into these 2D diagrams. These drawings are the intended portable, weaponized form of the basilisk for field deployment and testing.
+## Form
 
-## Mechanism & Effect
+Two implementations:
 
-- **Targets Algorithm Vulnerability:** Exploits cognitive pathways related to [[The Foxglove Algorithm]].
-- **Controlled Influence / RONIN Cultivation:** Designed not for immediate harm, but to create specific, stable feedback loops within the minds of the congregation viewing the **3D Fauxflake arrangement** in the specialized chamber. Aims to induce and shape the emergence of the [[IO (Emerging 1997)]] RONIN in a controlled manner. Effects on individuals likely involve subtle cognitive alignment or suggestibility rather than overt madness.
-- **2D Basilisk Effect:** The **2D Fauxflake drawings**, produced via the viewing apparatus, are tested at [[Saint Anselm's Center for Hope]] to assess their efficacy as portable infohazards.
+* **3D Fauxflake** — a precise arrangement of modular pews in the chamber beneath the [[Seventh Tabernacle Church of Life]], underneath a mirrored ceiling. The arrangement *is* the basilisk in its primary, active form; the pattern lives in physical space as a sculptural object, not as a printed image.
+* **2D Fauxflake** — diagrams produced by BSSA technicians looking down at the 3D arrangement through a viewing apparatus and translating the configuration to paper. Portable. Tested at [[Saint Anselm's Center for Hope]] under [[Project Ozymandias]] for efficacy as a standalone field-deployable infohazard.
 
-## History & Significance
+## Effect
 
-- **Development (Post-1992):** Created by [[BSSA (Boise Society for Sculptural Appreciation)]] after the failure of [[Operation Colossus]] / [[The Echo]], representing their shift to visual/spatial patterns deemed more stable. Likely spearheaded by [[Anselm Chambers (Deacon)]] based on his [[Polybius]] work and [[Katherine Hill|Katherine Hill]]'s directive.
-- **Refinement (Jan-July 1997):** [[BSSA (Boise Society for Sculptural Appreciation)]] forced [[Syd Foxglove]] to use his innate Algorithm aptitude to significantly refine the Fauxflake pattern (likely the underlying principles affecting the 3D layout), improving its efficacy.
-- **Operation Parthenon:** The central tool used in the ongoing attempt to cultivate [[IO (Emerging 1997)]] at the [[Seventh Tabernacle Church of Life]]. Involves both the 3D chamber arrangement and the production of 2D weaponized drawings.
+Targets the same Algorithm-linked cognitive pathways every Foxglove-derivative basilisk targets, but unlike Hexacle (amnesia), Snowflake (passive compulsion), or Black Coral (psychosis), the Fauxflake is *engineered for steering*. The intended effect on the congregation viewing the 3D arrangement is subtle cognitive alignment — not madness, not erasure, but a gradual coherence that creates the kind of stable feedback substrate a nascent RONIN (IO) can take root in.
+
+The 2D Fauxflake, in testing, is producing weaker but more straightforwardly basilisk-like effects on Ozymandias subjects: pattern absorption, behavioral compliance, slow cognitive drift. BSSA considers this evidence of working-as-designed.
+
+## How Syd's refinement worked
+
+Between January and July 1997, BSSA coerced Syd — who has innate fluency with the [[The Foxglove Algorithm|Algorithm]] underlying the pattern — into refining the Fauxflake's geometry. He did the work without understanding what it was actually for; Katherine's framing was that he was helping with "art installations." The pattern's measured efficacy improved across that window. After his July escape, Fauxflake refinement has stalled, which is why BSSA wants him back.
 
 ## Status (Oct 1997)
 
-- Actively deployed (in 3D form) within the contained environment beneath the [[Seventh Tabernacle Church of Life]]. Refinement stalled after [[Syd Foxglove]]'s escape but [[BSSA (Boise Society for Sculptural Appreciation)]] aims to resume now that he's recaptured. Represents [[BSSA (Boise Society for Sculptural Appreciation)]]'s current primary basilisk weaponization project, focusing on translating the chamber's effect into portable 2D diagrams. Players may find 2D Fauxflake samples at [[Saint Anselm's Center for Hope]] or observe the 3D chamber and viewing apparatus at the Tabernacle.
+Active in the 3D form beneath Seventh Tabernacle. 2D diagrams in testing rotation at Saint Anselm's. Players will encounter both during the BSSA fronts arc. The 3D chamber is the most directly dangerous infohazard environment in the campaign short of standing inside the Quarry Hive.

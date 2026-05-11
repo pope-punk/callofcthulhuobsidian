@@ -1,33 +1,36 @@
-
 **Tags:** #RONIN #HistoricalEvent #Infohazard #IHRU #ActivationEvent #BlackCoral
 
 ## Overview
-The [[GANYMEDE (1979)]] event, which erupted on July 5, 1979, was a catastrophic [[RONINs (Randomly Organizing Neural Information Networks)|RONIN]] emergence originating from within the very organization created to study such phenomena: the [[IHRU (InfoHazard Response Unit)|InfoHazard Response Unit (IHRU)]]. This disaster not only led to the IHRU's destruction and a fundamental rethinking of how to combat infohazards but also served as the traumatic activation event for [[Katherine Hill]], shaping her into a key antagonist.
 
-## The Accidental Birth of Black Coral
-In their efforts to understand the [[CALLISTO (1949)]] event and [[The Snowflake]] basilisk, IHRU researchers utilized advanced mathematical tools and ARPANET, the precursor to the internet, for data analysis. During this intensive computational work, they inadvertently synthesized a new, terrifyingly potent visual [[Basilisks & Infohazards|basilisk]] which became known as [[Black Coral]]. This intricate fractal pattern, when viewed, induced acute violent insanity in those exposed. Critically, it also compelled its victims to meticulously reproduce the pattern, creating a highly effective mechanism for its rapid and uncontrolled propagation.
+**GANYMEDE** was the RONIN that emerged inside [[IHRU (InfoHazard Response Unit)|IHRU]]'s own analytical pipeline on July 5, 1979, while the agency was studying the previous RONIN. It killed Director [[Hannah Christmas]], destroyed the IHRU facility, took ARPANET offline, and ended the systematic-analysis approach to infohazards forever. It also activated [[Katherine Hill]].
 
-## The Network's Fury
-Once unleashed, [[Black Coral]] spread with devastating speed through the IHRU facility. Personnel exposed to the visual pattern succumbed to madness, attacking colleagues and further disseminating the infohazard by drawing it. The GANYMEDE RONIN, with [[Black Coral]] as its immanent vector, effectively turned the IHRU's own network and personnel against itself. The chaos culminated in mass casualties, including the death of IHRU Director [[Hannah Christmas]]. The situation became so dire that the facility was ultimately destroyed in an airstrike to contain the outbreak, and ARPANET itself was temporarily taken offline. The Three Mile Island nuclear incident, occurring around the same time, was later linked to facility workers who had been inadvertently exposed to [[Black Coral]] patterns.
+The lesson, written in a great deal of blood: a sufficiently complex system studying a basilisk *becomes* a basilisk-substrate. There is no neutral analytical position.
 
-## The Activation of Agent Caryatid
-During the GANYMEDE crisis, a young [[Katherine Hill]], already possessing latent [[Seer Configuration]] potential due to a forgotten childhood exposure to [[Royal Jelly]], encountered a hand-drawn reproduction of [[Black Coral]]. This exposure served as the **traumatic activator** for her unique genetic inheritance. The [[Black Coral]] basilisk interacted with her altered cognitive architecture in an unexpected way: instead of succumbing to its standard violent effects, she developed an immunity. However, this "immunity" came at a terrible cost – the event amplified her underlying psychosis, crystallizing her nihilistic worldview and profoundly influencing her later, ruthless methodologies as Director of [[BSSA (Boise Society for Sculptural Appreciation)]]. This experience convinced her that the systematic, analytical approach of IHRU was a failure.
+## How it happened
 
-## A Paradigm Shattered - The Legacy of GANYMEDE
-The GANYMEDE disaster was a brutal lesson. It demonstrated the profound dangers of direct, systematic engagement with infohazards and the potential for research itself to spawn new threats. The catastrophic failure of IHRU led to its immediate dissolution and spurred the development of the [[Mirror-Breaker Protocol]]. This new doctrine emphasized decentralization, metaphorical communication, and the deliberate disruption of patterns to prevent RONIN emergence, giving rise to the various [[Mirror-Breaker Protocol|Mirror-Breaker network]] like [[BNJC (Blue Note Jazz Collective)]] and [[BSSA (Boise Society for Sculptural Appreciation)]].
+IHRU was using ARPANET to do large-scale computational analysis of the CALLISTO data, particularly visualizations of [[The Snowflake]]. The visualization pipeline, run against the ARPANET-distributed analytical workflow, generated — as an emergent property of *that specific stack* — a new visual fractal pattern: [[Black Coral]]. The pattern was not deliberately constructed. It was what fell out of the math when the math was rendered.
 
-## Significance
-GANYMEDE was a pivotal event. It directly led to the formation of the current landscape of secret organizations fighting infohazards. It was the crucible that forged [[Katherine Hill]]'s extremist ideology and provided a stark warning about the unpredictable nature of [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]] and the [[Basilisks & Infohazards|basilisks]] that herald them. The [[Black Coral]] pattern remains a potent symbol of this disaster and a dangerous tool in BSSA's arsenal.
+Direct viewing of Black Coral produced violent psychosis plus an irresistible compulsion to reproduce the pattern by hand. The pattern propagated through the facility on monitors first and on drawings afterward. IHRU personnel succumbed in waves, attacking each other, drawing Black Coral on walls, on equipment, on each other's bodies.
 
-## Related Concepts
-* [[RONINs (Randomly Organizing Neural Information Networks)]]
+The GANYMEDE RONIN coalesced around Black Coral as the basilisk-vector and around the IHRU staff plus their networked workstations as the substrate. It was active for hours. The facility was destroyed in an airstrike to contain the outbreak. ARPANET was taken offline. The Three Mile Island incident, occurring concurrently, was eventually traced to workers exposed to a hand-drawn reproduction.
+
+## Katherine
+
+[[Katherine Hill]] was junior IHRU staff at the time, primed by a Rhea Editor in childhood (around 1959) for an eventual [[Scions|Foxglove Configuration]] activation that never came. The Black Coral exposure was the wrong trauma type for that intended outcome. Her cognition recoiled from the basilisk rather than mastering it. The result was the [[Seer Configuration]] — pattern immunity, Metaphor Pole dominance, amplified psychosis. She did not understand any of this at the time and still does not. She read the experience as a kind of clarity about how the world really worked, which it was, just not in the direction she thinks.
+
+## Aftermath
+
+IHRU was dissolved. Surviving personnel and records were redistributed into seven new decentralized cells operating under the new [[Mirror-Breaker Protocol]], which exists specifically to refuse the kind of analytical posture that produced GANYMEDE.
+
+Among the surviving records: [[Winston Foxglove]]'s personal memoirs, which IHRU had been holding, went to [[SDEC (San Diego Entomology Club)|SDEC]]. That transfer is what made SDEC the right target thirteen years later when Rhea decided to silence the Hexagon Page material.
+
+## Related
+
 * [[Black Coral]]
-* [[Basilisks & Infohazards]]
 * [[IHRU (InfoHazard Response Unit)]]
 * [[Katherine Hill]]
 * [[Seer Configuration]]
 * [[Royal Jelly]]
 * [[Traumatic Activation]]
 * [[Mirror-Breaker Protocol]]
-* [[Mirror-Breaker Protocol|Mirror-Breaker network]]
 * [[Hannah Christmas]]

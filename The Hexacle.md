@@ -1,27 +1,34 @@
 **Tags:** #Basilisk #Infohazard #Concept #Rhea #RepressionMechanism
 
 ## Overview
-The primary visual [[Basilisks & Infohazards|basilisk]] utilized by [[Rhea]] for concealment and manipulation. It is considered the **Ur-basilisk**, representing the specific vulnerability or access point tied to the genetically repressed potential for [[The Foxglove Algorithm]] access engineered into humans by [[Rhea]]. The **repression of this Hexacle backdoor *is* what instantiates** the [[Cognitive Dialectic (Metaphor vs. System)]] in baseline humans.
+
+The Hexacle is the campaign's Ur-basilisk: the specific visual pattern that triggers the repression mechanism Rhea engineered into the human mind to keep conscious access to [[The Foxglove Algorithm]] locked down. Direct perception of a Hexacle causes a complete, untraceable amnesia of the moment of perception and everything in its immediate context. Subjects do not feel like they have forgotten anything. They feel like they got turned around and decided to leave.
+
+The repression of the Algorithm is what *instantiates* the [[Cognitive Dialectic (Metaphor vs. System)|cognitive dialectic]] in baseline humans. The Hexacle is the lock on that repression made visible.
 
 ## Appearance
-* A complex pattern based on repeating **hexagons**. Specific configuration may vary but involves interlocking hexagonal geometry.
-* Can be painted onto surfaces using a **black, viscous substance** by [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Writers]].
-* [[Alice Redmond (Agent Altissimo)]] reproduces simplified versions using red spray paint (likely without understanding its fundamental significance).
 
-## Mechanism & Effect
-* **Targets Engineered Repression Point:** Exploits the hardwired vulnerability linked directly to the repressed core [[The Foxglove Algorithm]] potential within human [[Pattern Recognition (Vulnerability & Defense)]]. Interacting with this pattern directly engages the repression mechanism itself.
-* **Induces Amnesia (Effect of Repression):** In baseline humans (where the repression is active), direct visual perception triggers the repression mechanism forcefully, causing acute, likely permanent **amnesia** regarding the location and intent. This manifests as "getting turned around" or losing time/direction. This amnesia is the phenomenal effect of the repression safeguarding the Algorithm potential.
-* **Concealment:** Used by [[Rhea]] to protect sensitive locations by leveraging this engineered amnesia response (e.g., [[Hive]] entrances like [[Dead Horse Quarry]], [[COTU (Center of the Universe)]] area).
+* A complex pattern of interlocking hexagons. Configurations vary.
+* Black, viscous substance applied by [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Writers]] to surfaces Rhea wants kept invisible — Hive entrances, the I-90 overpass at [[COTU (Center of the Universe)|COTU]], the door at 3704 S. Preston.
+* A simplified, half-mangled red-spray-paint reproduction by [[Alice Redmond (Agent Altissimo)|Alice]]. Her F7-impaired mind perceives the Hexacles as guideposts and is trying to re-trace them. The reproductions do not actually function as basilisks; they are her attempt at orientation in a world she can no longer parse.
 
-## Countermeasures & Interactions
-* **[[F7 (Fluoroxepram)]]:** Suppresses pattern recognition (the [[Cognitive Dialectic (Metaphor vs. System)|System Pole]]), preventing the Hexacle pattern from effectively engaging the repression mechanism. F7 users perceive the Hexacle as meaningless shapes, allowing access to protected areas. They bypass the repression effect chemically.
-* **[[Seer Configuration]] Immunity:** Individuals from the [[Seer Configuration]] are immune because the lifting of their repression (via [[Royal Jelly]] + trauma) resolved in a way that specifically disrupted the cognitive pathways linked to this vulnerability. Their immunity is a *consequence* of their unique post-repression state.
-* **[[The Foxglove Family|Foxglove Line]] Interaction?:** How individuals with lifted repression resolving towards Algorithm access (Foxglove Line) perceive the Hexacle is unclear – they might see through it, perceive its underlying structure, or still be affected differently.
-* **Aversion:** Simply looking away prevents engaging the pattern and triggering the repression effect.
+## Mechanism
+
+The Hexacle engages the engineered repression of the Algorithm directly. Perceiving it activates the repression mechanism *in the moment of perception*, scrubbing the perceptual event from accessible memory. The brain has done what it was built to do; the subject has no sense anything is missing.
+
+Most "unvisitable" places in the setting are Hexacle-protected. COTU's invisibility to the broader Sequoia Falls population for years before 1995 is the canonical example.
+
+## Who is not affected
+
+* **[[F7 (Fluoroxepram)]] users.** F7 suppresses the [[Cognitive Dialectic (Metaphor vs. System)|System Pole]] — exactly the part of cognition the Hexacle exploits. F7 users see the pattern as meaningless ink. This is why COTU has been a refuge for the F7-exposed: the population that ended up there could see the encampment and could go to it.
+* **The [[Seer Configuration]].** Katherine Hill is immune. Her trauma-resolved Metaphor Pole dominance bypasses the vulnerability entirely.
+* **Anyone simply not looking at it.** Aversion is sufficient.
+
+The Foxgloves are an open question — they have access to the Algorithm, but how their cognition handles a direct Hexacle perception is undocumented. They may see through it, perceive the underlying lattice, or be affected in some configuration-specific way.
 
 ## Significance
-* [[Rhea]]'s fundamental tool for operating unseen within human society by leveraging the very repression mechanism it engineered.
-* Direct signifier of the repressed [[The Foxglove Algorithm]] potential and the origin point of the [[Cognitive Dialectic (Metaphor vs. System)]].
-* Explains why certain locations are "unvisitable" to baseline humans.
-* Its interaction with [[F7 (Fluoroxepram)]] and the immunity of the [[Seer Configuration]] are key plot mechanics tied to overcoming this fundamental repression.
-* Appears in [[Winston's Memoirs (SDEC)]] as complex fractal diagrams ([[Hexagon Pages (Winston's Memoirs)]]), representing the core Algorithm structure whose potential is normally locked behind this backdoor.
+
+* The mechanism by which Rhea stays hidden from every faction on Earth. No one knows Rhea exists.
+* The visual signature that pulls together every "unvisitable" zone in the setting.
+* The signal that an F7-exposed population (COTU) and a Seer (Katherine) are both, in their very different ways, perceiving what nobody else can.
+* The Hexagon Pages at the end of Winston's memoirs are fractal Hexacle structures — the closest thing to a direct readout of the underlying Algorithm geometry that exists on paper.

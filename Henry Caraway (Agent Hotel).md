@@ -1,24 +1,33 @@
-
 **Tags:** #Character #NPC #Antagonist #AgentHotel #PCBOT #CIA #BSSA
 
 ## Overview
-The current leader of the [[PCBOT (Pacific Coast Board of Tourism)]]. Took control in a CIA-assisted coup in 1994.
 
-## Known Actions & Connections
-* **[[PCBOT (Pacific Coast Board of Tourism)]]**: Leads this Mirror-Breaker oversight organization.
-* **[[CIA]]**: Has connections to the CIA, which oversees PCBOT. His takeover was CIA-assisted.
-* **Collaboration with [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]]**: Works closely with [[Katherine Hill|Katherine Hill]]/BSSA towards shared goals of consolidation and control.
-* **Past Actions**: Assisted Katherine Hill in helping [[Anselm Chambers (Deacon)]] (then Andrew Chamberlain) fake his death following the 1984 raid on the Polybius Cult. Allied with Hill to promote the official narrative of [[SDEC (San Diego Entomology Club)]]'s destruction (blaming EUROPA) and argued against investigating the facility.
-* **Goals**: Aims to absorb/consolidate all Mirror-Breaker organizations under PCBOT/CIA direction. Specifically supports deploying [[F7 (Fluoroxepram)]] as a protective measure for intelligence operatives handling basilisk weapons. Actively works against [[Mirror-Breaker Protocol]] principles like compartmentalization.
+Director of [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]]; CIA's man inside the Mirror-Breaker oversight structure. Took control of PCBOT in 1994 in a CIA-assisted coup that displaced [[Jacqui Lopez (Director Javelin)|Jacqui Lopez]]. Together with [[Katherine Hill]], he has spent the three years since trying to consolidate the seven Mirror-Breaker cells under centralized PCBOT/CIA direction — a project the original [[Mirror-Breaker Protocol]] was explicitly designed to refuse.
 
-#### Motivations & Mindset (Mid-Oct 1997)
+His operational alliance with Katherine goes back further than the coup. In 1984, the two of them arranged Andrew Chamberlain's "death" during BSSA's raid on the [[Polybius]] cult, delivering [[Anselm Chambers (Deacon)|Chambers]] into BSSA's hands as a long-term asset. After the SDEC purge in 1992, both promoted the (incorrect) narrative that EUROPA was responsible, and both successfully argued against any investigation of the sealed facility.
 
-As of mid-October 1997, Director Caraway is operating under **significant bureaucratic pressure and a growing fear of exposure**. For over two weeks, he has held [[Agent Chrysalis|Agent Chrysalis]] captive after the agent arrived unexpectedly at [[PCBOT Headquarters|PCBOT HQ]] bearing strange, alien [[Spectator Grubs|biological samples]] from [[Sequoia Falls, WA]]. Lacking any knowledge of [[Rhea]] and with his primary ally, [[Katherine Hill|Katherine Hill]], currently occupied orchestrating the capture of [[Syd Foxglove]] in Montreal, Caraway is isolated and struggling to interpret the evidence. He views the Grubs through his established RONIN framework, suspecting they relate either to a catastrophic failure in BSSA's [[IO (Emerging 1997)|Io]] project or, more alarmingly, indicate an entirely new, uncontrolled emergent entity linked to the LTX/ErgoMatic network.
+## Goals
 
-The entire Sequoia Falls situation – [[BNJC (Blue Note Jazz Collective)|BNJC's]] persistent meddling, the clear entanglement of the LTX/[[ErgoMatic Manufacturing|ErgoMatic]] infrastructure, the volatile Foxglove legacy, and BSSA's increasingly messy local operations (like the [[COTU (Center of the Universe)|COTU]] incident) – represents an enormous liability. Caraway fears this escalating chaos threatens to expose years of PCBOT/BSSA questionable methods, potentially illegal activities (including his own CIA-backed consolidation efforts), and the fundamental instability of BSSA's approach under Hill. His primary motivation is **containment and bureaucratic self-preservation**. He feels the situation slipping from his control and desperately needs to manage the Chrysalis problem and prevent the Sequoia Falls powder keg from igniting before it destroys his standing within the intelligence community.
-#### Planned Role in PCBOT Excursion (Mid-Oct 1997)
+* Absorb the surviving Mirror-Breaker cells under unified PCBOT/CIA command.
+* Deploy [[F7 (Fluoroxepram)]] (Katherine's chemical) as standard issue for intelligence operatives handling basilisk material.
+* End the Protocol's compartmentalization regime and replace it with a more conventional, centralized intelligence apparatus.
 
-When the player characters infiltrate [[PCBOT Headquarters|PCBOT HQ]] — ostensibly in pursuit of Chrysalis, but actually to use Alice's bypass methodology to open a remote terminal session into the sealed [[SDEC Facility]] — their very presence confirms Caraway's deepest fears: **containment has failed**. The Sequoia Falls infection has reached his doorstep, and [[BNJC (Blue Note Jazz Collective)|BNJC]] (or actors associated with them) are now operating within his secure facility. Feeling cornered, with the potential exposure of PCBOT/BSSA failures and illegalities imminent, Caraway sees only one path remaining to protect himself and erase the mounting evidence. He activates the **"[[PCBOT Headquarters|Departing Flight]]"** protocol – a pre-planned, drastic contingency involving a **thermobaric airstrike**. His objective is the complete **purge** of [[Sequoia Falls, WA]] – obliterating [[BNJC (Blue Note Jazz Collective)|BNJC]], the compromised LTX/ErgoMatic network, BSSA's problematic fronts, and any inconvenient witnesses or evidence. He intends to manage the fallout using a **pre-fabricated cover story** blaming the destruction on unstable, long-forgotten LTX freight cars filled with **ammonium nitrate/mining explosives** from the [[CALLISTO (1949)|CALLISTO]] era, supposedly detonating spontaneously in old rail tunnels near [[COTU (Center of the Universe)|COTU]]. Caraway's activation of this protocol initiates the scenario's high-stakes climax. His personal fate hinges on the players' response to this desperate, destructive gamble.
+He is, in a meaningful sense, the institutional opposite of [[Nigel Christmas (Nine-String)|Nine-String]] — both inherited GANYMEDE and read the lesson backwards from each other.
 
-## Status (Oct 1997)
-* Active leader of PCBOT, allied with BSSA. Represents the faction prioritizing centralized control and chemical/technological solutions over the original Mirror-Breaker Protocol. Potential late-game antagonist or obstacle. Currently holding Agent Chrysalis captive. Operating under extreme stress, paranoia, and fear of exposure following recent events in Montreal and Chrysalis's arrival.
+## Where he is, mid-October 1997
+
+Caraway is alone at the top of his organization and increasingly aware of it. Katherine is in Montreal running the McCord operation personally and out of his reach. The [[Spectator Grubs|Spectator Grub]] samples in the PCBOT labs are unaccompanied — Chrysalis, who would have brought the context, never arrived (he disappeared after COTU; see [[Agent Chrysalis]]). What Caraway has is a freezer full of unidentified Rhea-engineered organic material that nobody on his staff has the framework to read, plus the weekly reports out of Sequoia Falls getting steadily worse, plus the certainty that whatever is escalating there is going to escalate through him eventually.
+
+He does not know Rhea exists. He has no working concept for the Grubs except "BSSA failure" or "rival RONIN," and the second possibility frightens him operationally. He suspects — correctly — that the entire Sequoia Falls situation, from the LTX-ErgoMatic merger through the COTU casualties through whatever Katherine is doing in Montreal, is structurally beyond his ability to manage. His response to that suspicion is moving in the direction of containment by erasure.
+
+## The Departing Flight
+
+PCBOT maintains a pre-planned thermobaric strike contingency on Sequoia Falls: **"The Departing Flight."** It is a single airframe, a single approved frequency channel, and a pre-drafted cover story attributing the destruction to spontaneous detonation of long-forgotten [[CALLISTO (1949)|CALLISTO]]-era LTX freight cars in old rail tunnels near [[COTU (Center of the Universe)|COTU]] — the kind of cover story that survives a press cycle because nobody alive remembers enough about CALLISTO to dispute it.
+
+When the players' PCBOT infiltration breaches the secure floors, Caraway will read it as the final confirmation that containment has failed and reach for the Flight. The strike, if not stopped, would obliterate BNJC, the LTX/ErgoMatic merger substrate, the BSSA fronts, the Foxgloves, the witnesses, and the evidence simultaneously. Caraway considers this an acceptable price.
+
+## Caraway's fate
+
+If the team succeeds — jams the strike, extracts the SDEC archive, walks out — Caraway dies at PCBOT HQ. The specific mechanics are GM-flexible: shot in the confrontation, killed by his own staff once the cover is blown, suicide, retribution by a survivor. The narrative requirement is that the man does not walk out of his own building.
+
+If the mission fails, he survives, and the campaign collapses around him.

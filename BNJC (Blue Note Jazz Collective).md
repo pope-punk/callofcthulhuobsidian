@@ -1,28 +1,40 @@
 **Tags:** #Faction #MirrorBreaker #Ally #Investigative #JazzMetaphor
 
 ## Overview
-The Blue Note Jazz Collective, or BNJC, is a key [[Mirror-Breaker Protocol|Mirror-Breaker Organization]] operating from a clandestine headquarters concealed beneath an upscale jazz club in downtown [[Sequoia Falls, WA]]. Led by the enigmatic [[Nigel Christmas (Nine-String)|Nigel "Nine-String" Christmas]], the BNJC stands as one of the staunchest adherents to the original principles of the [[Mirror-Breaker Protocol]]. They prioritize improvisational thinking, metaphorical communication rooted in jazz concepts, and pattern disruption to combat the emergence of [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]] and the influence of [[Basilisks & Infohazards|Basilisks]]. They often serve as a primary source of information, support, and uneasy alliance for investigators delving into the strange occurrences in the Pacific Northwest.
 
-## Philosophy and Methodology: The Rhythm of Resistance
-Born from the ashes of the [[IHRU (InfoHazard Response Unit)|IHRU]] after the [[GANYMEDE (1979)]] disaster, the BNJC fully embraced the [[Mirror-Breaker Protocol]]'s radical departure from systematic analysis. Their core philosophy posits that RONINs emerge from stable, reflective information systems; therefore, defense lies in constant improvisation, ambiguity, and the disruption of predictable patterns.
-* **Jazz as Metaphor:** All BNJC operations, communications, and even agent codenames (e.g., Altissimo, Tremolo, Legato) are steeped in the language and concepts of jazz music. This serves as their unique metaphorical cipher, designed to be opaque to systematic analysis by emergent intelligences while fostering flexible, intuitive thinking among their agents.
-* **Cognitive Defense:** Unlike [[BSSA (Boise Society for Sculptural Appreciation)|BSSA's]] reliance on chemical interventions like [[F7 (Fluoroxepram)]], the BNJC favors cognitive techniques. They aim to strengthen the [[Cognitive Dialectic (Metaphor vs. System)|Metaphor Pole]] of human thought—emphasizing creativity, non-linear connections, and intuitive leaps—as a natural defense against pattern-based threats that primarily target the System Pole.
-* **Information Management:** Adherence to compartmentalization and the disruption of easily analyzable data flows are key. Knowledge is shared on a "need-to-know" basis, often cloaked in their characteristic jazz metaphors.
+The **Blue Note Jazz Collective** is a [[Mirror-Breaker Protocol|Mirror-Breaker cell]] operating out of a clandestine headquarters beneath an upscale jazz club in downtown [[Sequoia Falls, WA]]. Run by [[Nigel Christmas (Nine-String)|Nigel "Nine-String" Christmas]]. The BNJC is one of the few remaining cells still operating according to the original tenets of the [[Mirror-Breaker Protocol]] — improvisation, metaphor, compartmentalization, refusal of systematic analysis. For the investigators, BNJC is the closest thing to an institutional ally they have, with all the complications that implies.
 
-## Leadership and Key Personnel
-The BNJC in Sequoia Falls is a relatively small, tight-knit cell:
-* **[[Nigel Christmas (Nine-String)]]:** The seasoned and cautious leader. Son of [[Andrew Christmas]] (killed in [[CALLISTO (1949)]]) and [[Hannah Christmas]] (killed in [[GANYMEDE (1979)]]), his entire life has been shaped by the fight against RONINs. He is the primary decision-maker and liaison for the investigators.
-* **[[Alice Redmond (Agent Altissimo)]]:** Formerly one of their most capable field agents. Her current rogue status and severe [[F7 (Fluoroxepram)|F7]] impairment present a complex challenge and a priority for BNJC.
-* **[[Travis Ward (Agent Tremolo)]]:** A senior field agent, often serving as an initial point of contact and assessment for outsiders. Known for his deep voice and commitment to the improvisational interview techniques of the BNJC.
-* **[[Leah Burns (Agent Legato)]]:** Another key agent, known for her chipper yet intense demeanor and strict adherence to the metaphorical cipher, often correcting Agent Tremolo.
-* **[[Agent Chrysalis]]:** The last surviving field agent of the [[SDEC (San Diego Entomology Club)|SDEC]], who integrated with BNJC after his organization's destruction. He served as Alice's covert support contact and is currently missing, believed to be held by [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]].
-* **[[Steven Rober (Agent Shutter)]]:** A recent addition to the Sequoia Falls BNJC, ostensibly a transfer. He is, in fact, a mole for the [[NOPG (New Orleans Photography Group)|NOPG]] and [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]], and his presence has already led to critical intelligence breaches.
+## How they work
 
-## Operations, Resources, and History
-The BNJC's headquarters beneath the jazz club is accessed via a coded elevator (code: 13762) and houses their operational hub, a library of sensitive documents (likely including [[IHRU (InfoHazard Response Unit)|IHRU]] records, the [[CALLISTO Report]], and files on various RONIN events and Mirror-Breaker activities), and advanced technology.
-* **Technology:** Their most significant known technological asset is the "Impulse-Class Radiometry Array" ([[BNJC Radiometry Array]]), a sophisticated sensor system likely used for detecting anomalous energy signatures, infohazardous transmissions, or [[Rhea]]'s network activity in the region. Crucially, this array also possesses an active signal jamming capability.
-* **Historical Mission & Relocation:** The BNJC relocated its primary West Coast operations to Sequoia Falls after 1992. This move was driven by the destruction of SDEC and the emergence of the [[EUROPA (1986-1992)]] RONIN (which was linked to BSSA activities in nearby Ellensburg). Under the influence of [[Jacqui Lopez (Director Javelin)|Jacqui Lopez]] at [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] (before Caraway's coup), BNJC was tasked with investigating EUROPA's remnants, attempting to locate figures like [[Maria Chen]], researching the infrastructure used by [[Operation Colossus]] (like the [[Ellensburg Numbers Station]]), and acting as a counterweight to BSSA's growing influence in the region. [[Alice Redmond (Agent Altissimo)|Alice Redmond's]] investigation into EUROPA during this period led to her establishing contact with [[Éric Blanc]]. BNJC also maintained a watchful eye on [[LTX (Land Transit Express)]] for any signs of resurgence related to the [[CALLISTO (1949)]] event.
-* **Current Mission (Late October 1997):** Following the investigators' discoveries at [[COTU (Center of the Universe)|COTU]], BNJC's immediate priorities include understanding the nature of [[Rhea]]'s [[Signal Dummies|Signal Dummy]] network, locating and attempting to help [[Alice Redmond (Agent Altissimo)|Alice Redmond]], and countering the increasingly aggressive and dangerous activities of [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]]. The compromise of the [[Montreal Phone Number]] via [[Steven Rober (Agent Shutter)|Agent Shutter]] has dealt a significant blow to their efforts to secure [[Syd Foxglove]].
+* **Jazz cipher.** All operational communication uses jazz idioms; agent codenames use musical terms (Altissimo, Tremolo, Legato). The cipher is opaque to systematic analysis but transparent to anyone trained in it.
+* **Cognitive defense, not chemical.** Where [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] reaches for [[F7 (Fluoroxepram)|F7]], BNJC strengthens the [[Cognitive Dialectic (Metaphor vs. System)|Metaphor Pole]] — improvise, leap, decline to be predictable.
+* **Compartmentalization, hard.** Need-to-know is the rule. Nine-String compartmentalizes from his own agents routinely. Alice ran an entire off-books partnership with Blanc that Nine-String knew existed but did not know the operational details of.
 
-## Status and Challenges (Late October 1997)
-The BNJC is active but operating under considerable pressure. They are a small organization facing powerful, well-funded adversaries like BSSA and the cosmic-scale threat of Rhea. The recent intelligence leak regarding Syd Foxglove's Montreal contact has put them on the back foot. Their primary strength lies in their adherence to the [[Mirror-Breaker Protocol]], their deep historical knowledge, and the unique skills of their agents. However, their resources are limited, and their improvisational nature can sometimes lead to operational inertia or an inability to act decisively without clear "riffs" or leads. The investigators represent a potentially powerful, if unpredictable, new instrument in their ongoing symphony of resistance. The BNJC's containment protocol, should they face an unmanageable internal threat, is known as "The Silent Coda," activated by a saxophone key.
+## Personnel
+
+* **[[Nigel Christmas (Nine-String)]]** — Director. Son of [[Andrew Christmas]] (killed in CALLISTO, 1949) and [[Hannah Christmas]] (killed in GANYMEDE, 1979). The shadow war is his family business.
+* **[[Alice Redmond (Agent Altissimo)]]** — formerly the cell's most capable field agent. Currently F7-impaired and rogue.
+* **[[Travis Ward (Agent Tremolo)]]** — senior field agent. First contact for outsiders.
+* **[[Leah Burns (Agent Legato)]]** — field agent. Keeps the cipher tight; corrects Tremolo when he gets sloppy.
+* **[[Agent Chrysalis]]** — last surviving SDEC field agent; integrated with BNJC after 1992. Alice's covert handler until September 1997. Currently off-grid.
+* **[[Steven Rober (Agent Shutter)]]** — recent arrival, ostensibly a transfer. Actually an [[NOPG (New Orleans Photography Group)|NOPG]] mole working for BSSA.
+
+## Headquarters and resources
+
+Underground facility accessed via coded elevator (**13762**) from the jazz club. The HQ holds the cell's library (IHRU records, [[CALLISTO Report]], operational files), interview spaces, and the **[[BNJC Radiometry Array]]** — an Impulse-Class sensor system used for detecting anomalous signal activity in the region, and capable of active jamming. The jamming capability is what Nine-String will use in Act III to defeat the Departing Flight strike.
+
+Internal containment protocol — for use if the cell itself becomes compromised beyond recovery — is "The Silent Coda," triggered by a saxophone key.
+
+## History and mission
+
+BNJC relocated from Sacramento to Sequoia Falls in 1993 to investigate [[EUROPA (1986-1992)|EUROPA]]'s remnants after [[SDEC (San Diego Entomology Club)|SDEC]]'s destruction, with [[Jacqui Lopez (Director Javelin)|Lopez]] sponsoring the move from PCBOT. Caraway's 1994 coup cut Lopez out and forced the EUROPA investigation through NOPG, but Alice and Blanc continued unofficially. BNJC has since been the principal counterweight to BSSA's local operations.
+
+As of late October 1997, BNJC is on the back foot. The cell is small. The opposition is well-funded and increasingly direct. The investigators have just walked back from COTU with the Montreal Phone Number, Shutter has just overheard it, and Nine-String does not yet know how badly compromised he is.
+
+## Related
+
+* [[Mirror-Breaker Protocol]]
+* [[BNJC HQ]]
+* [[BNJC Radiometry Array]]
+* [[Nigel Christmas (Nine-String)]]
+* [[Alice Redmond (Agent Altissimo)]]

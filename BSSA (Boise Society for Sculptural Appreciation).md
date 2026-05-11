@@ -1,31 +1,52 @@
 **Tags:** #Faction #MirrorBreaker #Antagonist #Cultivators #ControlFaction
 
 ## Overview
-The Boise Society for Sculptural Appreciation, or BSSA, stands as a primary antagonistic faction within "The Cycles of Rhea." Operating under the public guise of an art appreciation society with roots in Boise, Idaho, the BSSA is, in reality, a [[Mirror-Breaker Protocol|Mirror-Breaker Organization]] that has significantly deviated from the foundational tenets of the [[Mirror-Breaker Protocol]]. Driven by a philosophy of control and direct intervention, they actively research, cultivate, and attempt to weaponize [[Basilisks & Infohazards|Basilisks]] and [[RONINs (Randomly Organizing Neural Information Networks)|RONINs]], employing controversial chemical countermeasures and unethical methodologies in their pursuit of understanding and mastering these existential threats.
 
-## Ideological Divergence and Methodology
-The BSSA's origins lie in the post-[[GANYMEDE (1979)]] restructuring of the [[IHRU (InfoHazard Response Unit)|IHRU]]. However, under the influential leadership of figures like [[Katherine Hill]], the BSSA quickly developed a distinct and often oppositional ideology compared to more traditional Mirror-Breaker cells like the [[BNJC (Blue Note Jazz Collective)|BNJC]]. Katherine Hill, shaped by her unique [[Seer Configuration]] traits and her traumatic activation during GANYMEDE, came to view the original Mirror-Breaker Protocol as a failure, citing the destruction of [[SDEC (San Diego Entomology Club)|SDEC]] (which she attributed to [[EUROPA (1986-1992)]], a RONIN born from BSSA's own earlier experiments) as definitive proof.
+The **Boise Society for Sculptural Appreciation** — BSSA — is one of the seven cells spun out of [[IHRU (InfoHazard Response Unit)|IHRU]] after GANYMEDE. It nominally adheres to the [[Mirror-Breaker Protocol]] and uses sculptural metaphors as its operational cipher. In practice, under [[Katherine Hill]]'s direction, BSSA has drifted further from the Protocol than any other cell. Where the Protocol says "shatter reflection, refuse to systematize, work against pattern emergence," BSSA has decided the right response to RONIN threats is to cultivate one of their own — under control, weaponized, on their terms.
 
-This conviction led the BSSA down a path prioritizing:
-* **Controlled Cultivation:** Rather than merely disrupting RONIN emergence, BSSA actively seeks to *cultivate* stable, controllable RONINs, believing that such entities can be understood, weaponized, or even integrated with. This is most evident in their current flagship project, [[Operation Parthenon]].
-* **Direct Basilisk Research:** They engage in intensive research into the creation and application of [[Basilisks & Infohazards|Basilisks]], aiming to develop them as tools of influence or warfare. Their methods involve systematic analysis and refinement, often using human test subjects.
-* **Chemical Countermeasures:** Recognizing the cognitive impact of infohazards, BSSA has heavily invested in developing chemical agents like [[F7 (Fluoroxepram)]] to suppress pattern recognition ([[Cognitive Dialectic (Metaphor vs. System)|System Pole]] suppression) and [[G5 (Gallium-stabilized Amphetamine Complex)|G5]] as a (flawed) antidote. This chemical approach contrasts sharply with the BNJC's reliance on metaphorical and cognitive defenses.
-* **Systematic Approach:** While their public cover involves art and sculpture (a metaphorical language), their internal operations, particularly concerning research and development, trend towards a more systematic and control-oriented methodology, which ironically can create the very conditions conducive to RONIN emergence they claim to manage.
+The campaign's principal hostile faction.
 
-## Leadership and Key Personnel
-The BSSA's operations are directed by a cadre of influential and often ruthless individuals:
-* **[[Katherine Hill]]:** The primary architect of BSSA's current philosophy and Director Caryatid. Her dual role within [[PCBOT (Pacific Coast Board of Tourism)]] (as ASAC Kayak) grants BSSA significant operational latitude and influence.
-* **[[Anselm Chambers (Deacon)]]:** Formerly Andrew Chamberlain, the creator of the [[Polybius]] infohazardous game. He manages BSSA's public fronts in [[Sequoia Falls, WA]]—the [[Seventh Tabernacle Church of Life]] and [[Saint Anselm's Center for Hope]]—and is a key figure in the operational execution of [[Operation Parthenon]] and [[Project Ozymandias]].
-* **[[Clancy Martell (Agent Chisel)]]:** BSSA's lead chemical researcher, responsible for the development of [[F7 (Fluoroxepram)]] and [[G5 (Gallium-stabilized Amphetamine Complex)|G5]] under [[Project Ozymandias]].
-* **Past/Associated Personnel:** Agents like [[Raymond Vaughn (Agent Rococo)]] (technical specialist for [[Operation Colossus]]) and [[Phoebe Jones (Agent Plaster)|Phoebe Jones (Agent Plaster)]] (who infiltrated the [[Special Committee for Artistic Innovation]]) illustrate BSSA's historical operational depth. [[Dylan Hill (Agent Destination)|Dylan Hill]], though a [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] agent, was also entangled with BSSA's activities through his liaison role and his marriage to Katherine before his death.
+## How they read the Protocol
 
-## Major Operations and Fronts
-BSSA's activities are ambitious and often conducted with a high disregard for ethical boundaries:
-* **[[Operation Parthenon]] (Ongoing):** The current primary initiative, focused on the controlled development of the [[IO (Emerging 1997)]] RONIN using the [[Fauxflake]] visual/spatial basilisk. This takes place in a specialized underground chamber beneath the [[Seventh Tabernacle Church of Life]]. The operation was significantly reliant on [[Syd Foxglove]]'s unwilling expertise for refining the [[Fauxflake]] and has stalled somewhat since his escape in July 1997. His recent recapture is aimed at resuming this critical work.
-* **[[Project Ozymandias]] (Ongoing):** The chemical research and human experimentation program based at [[Saint Anselm's Center for Hope]]. This project involves the synthesis and testing of [[F7 (Fluoroxepram)]] and its antidotes, primarily using homeless individuals (often sourced via the shelter front) as test subjects for various Basilisks, including 2D [[Fauxflake]] diagrams. Its goals likely include developing chemical tools for military or intelligence applications, facilitated through [[PCBOT (Pacific Coast Board of Tourism)]] and [[CIA]] connections.
-* **[[Operation Colossus]] (Historical, 1986-1992):** BSSA's earlier attempt to weaponize an auditory basilisk ([[The Echo]]) using the [[Ellensburg Numbers Station]] and the [[Chapel of the Blessed Lamb]] front. This operation inadvertently created the [[EUROPA (1986-1992)]] RONIN and ended in a cover-up, including the execution of key witness [[David Brewster]]. The lessons learned (or misinterpretations made) from Colossus heavily influenced BSSA's shift to visual/spatial basilisks for Parthenon.
-* **Front Organizations:** The [[Seventh Tabernacle Church of Life]] (current primary public face and Parthenon site) and [[Saint Anselm's Center for Hope]] (Ozymandias site and recruitment front). Historically, the [[Chapel of the Blessed Lamb]] in Ellensburg and the [[Special Committee for Artistic Innovation]] served similar purposes.
-* **Alliances and Assets:** BSSA maintains a pragmatic alliance with the [[Hammerskull Crew]] for muscle, local enforcement, and drug network access (useful for subject recruitment or funding). They are also closely aligned with the controlling Caraway faction of [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] and, through them, have connections to the [[CIA]]. The [[NOPG (New Orleans Photography Group)|NOPG]] also appears to share intelligence with BSSA, as evidenced by [[Steven Rober (Agent Shutter)|Agent Shutter's]] activities.
+Katherine reads the destruction of [[SDEC (San Diego Entomology Club)|SDEC]] in 1992 (which BSSA blames on EUROPA — wrongly, but consistently) as proof the Protocol fails when it matters most. From that reading she has built the BSSA program around four convictions:
 
-## Current Status and Objectives (Late October 1997)
-As of late October 1997, the BSSA is a highly active and dangerous organization. Their primary focus is the Montreal operation, orchestrated by Katherine Hill herself, to recapture [[Syd Foxglove]] and eliminate the investigators. Syd's expertise is deemed essential for the stalled [[Operation Parthenon]]. [[Project Ozymandias]] continues its unethical research in Sequoia Falls. The BSSA remains unaware of the existence or potential of [[G6 (Non-Gallium Antidote)|G6]]. They represent a faction that believes true security lies in understanding and mastering the very forces the [[Mirror-Breaker Protocol]] sought to evade, a dangerous conviction that drives them to ever greater risks and darker methods. Their containment protocol, should their own creations turn against them, is ominously titled "The Stone Garden," activated by a porcelain cylinder key.
+* **Cultivation, not avoidance.** A stable, controlled RONIN can be understood, weaponized, and used. The Protocol's posture of denying RONINs their feedback loops is, in this view, willful blindness. [[Operation Parthenon]] is the operational expression.
+* **Direct basilisk research.** Build, refine, test on people. The [[Fauxflake]] and the early development of [[The Echo]] both came out of this approach.
+* **Chemical defense.** [[F7 (Fluoroxepram)]] for suppression, [[G5 (Gallium-stabilized Amphetamine Complex)|G5]] for reversal. Engineered immunity at the price of cognitive impairment.
+* **Systematic operational discipline.** The sculptural cipher is for cover. Internally BSSA runs more like an intelligence service than an improvisational cell — which is what creates the very conditions for the RONIN events the Protocol was built to prevent.
+
+## Personnel
+
+* **[[Katherine Hill]]** — Director Caryatid (BSSA) and ASAC Kayak (PCBOT). The architect. Possibly the only [[Seer Configuration|Seer]] in the modern world; entirely unaware of what she is. The dual PCBOT role is what gives BSSA its operational latitude.
+* **[[Anselm Chambers (Deacon)]]** — formerly Andrew Chamberlain, creator of [[Polybius]]. Manages BSSA's Sequoia Falls fronts ([[Seventh Tabernacle Church of Life]], [[Saint Anselm's Center for Hope]]).
+* **[[Clancy Martell (Agent Chisel)]]** — lead chemist. Developed F7 and G5 under [[Project Ozymandias]].
+* **[[Raymond Vaughn (Agent Rococo)]]** — technical specialist, Operation Colossus.
+* **[[Phoebe Jones (Agent Plaster)]]** — infiltrated SCAI 1987-92; currently operating Blanc's compromised email account from Montreal.
+
+[[Dylan Hill (Agent Destination)]] was PCBOT, not BSSA, but his marriage to Katherine made him entangled with BSSA's operations until his death in July 1997.
+
+## Active programs
+
+* **[[Operation Parthenon]]** — cultivate the [[IO (Emerging 1997)|IO]] RONIN around the [[Fauxflake]] in the underground chamber at Seventh Tabernacle. The flagship. Stalled since Syd's July 1997 escape; recovering him is BSSA's top current priority.
+* **[[Project Ozymandias]]** — chemical research and human experimentation at Saint Anselm's. F7, G5, basilisk exposure trials on homeless subjects sourced through the shelter front.
+* **The Montreal operation (October 1997)** — Katherine personally directing. Object: capture Syd at McCord Museum on October 20 via the inherited Blanc protocol. Secondary object: kill anyone connected to Alice or Blanc.
+
+## Historical operations
+
+* **[[Operation Colossus]] (1986-1992)** — weaponize The Echo via Axon and Dendrite. Produced EUROPA as an unintended byproduct, then went silent in 1992 after SDEC's randomizer intervention. The official BSSA narrative is that EUROPA destroyed SDEC; the real reason was Rhea.
+
+## Fronts and assets
+
+* **[[Seventh Tabernacle Church of Life]]** — primary Sequoia Falls public face; Parthenon hosts the IO development beneath it.
+* **[[Saint Anselm's Center for Hope]]** — homeless shelter; the front for Ozymandias.
+* **[[Chapel of the Blessed Lamb]]** — Ellensburg, dormant since 1992.
+* **[[Special Committee for Artistic Innovation]]** — Ellensburg-era financial front, dissolved 1992.
+* **[[Hammerskull Crew]]** — muscle, drug pipeline, subject recruitment.
+* **[[PCBOT (Pacific Coast Board of Tourism)|PCBOT]]'s Caraway faction** — institutional cover and CIA reach.
+* **[[NOPG (New Orleans Photography Group)|NOPG]]** — sister cell, infiltrated by or aligned with BSSA, sharing intelligence (Steven Rober is the active asset).
+
+## Status (late October 1997)
+
+Operating at full intensity. The Montreal operation is hot. Ozymandias continues. Parthenon waits on Syd's recovery. BSSA does **not** know G6 exists, which is the campaign's one significant intelligence asymmetry in the players' favor.
+
+Internal containment protocol — used if BSSA's own constructs turn on them — is "The Stone Garden," triggered by a porcelain cylinder key.

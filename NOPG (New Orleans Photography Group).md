@@ -1,21 +1,20 @@
-
-
-**Tags:** #Faction #MirrorBreaker
+**Tags:** #Faction #MirrorBreaker #Antagonist
 
 ## Overview
-A [[Mirror-Breaker Protocol|Mirror-Breaker Organization]] operating under the cover of a photography club, presumably based in New Orleans. Appears to be aligned with or infiltrated by the [[BSSA (Boise Society for Sculptural Appreciation)]] / [[PCBOT (Pacific Coast Board of Tourism)]] faction.
 
-## Methodology & Philosophy
-* Utilizes **Photography-themed communications** as their metaphorical cipher.
+The **New Orleans Photography Group** is a [[Mirror-Breaker Protocol|Mirror-Breaker cell]] based in New Orleans, using a photographic-themed cipher. Officially a peer cell to BNJC, UMSE, etc. In practice, NOPG has been captured by the Caraway/BSSA alignment — its records and intelligence flow through to BSSA, and its current Sequoia Falls placement (Agent Shutter) is a mole operation.
 
-## Leadership & Personnel
-* **Known Agents:**
-    * Agent Shutter (Steven Rober) (Mole placed within [[BNJC (Blue Note Jazz Collective)]] post-Oct 10, 1997)
-    * Director Aperture (Alex Schultz)
+When Caraway forced the EUROPA investigation away from BNJC in 1994, the case files went to NOPG. The transfer was political; NOPG was, by that point, the cell Caraway trusted not to keep investigating.
 
-## Operations & Status
-* Relayed intelligence about the [[Montreal Phone Number]] overheard at [[BNJC (Blue Note Jazz Collective)]] to [[BSSA (Boise Society for Sculptural Appreciation)]], leading to [[Syd Foxglove]]'s capture in [[Montreal, QC]].
-* Active as of October 1997, supporting [[BSSA (Boise Society for Sculptural Appreciation)]] / [[PCBOT (Pacific Coast Board of Tourism)]] interests.
+## Personnel
+
+* **Director Aperture** — Alex Schultz.
+* **Agent Shutter** ([[Steven Rober (Agent Shutter)]]) — placed inside BNJC's Sequoia Falls operation post-Oct 10, 1997. The leak conduit for the Montreal Phone Number reaching BSSA.
+
+## Operations
+
+NOPG is the principal piece of the Mirror-Breaker network actively undermining the rest of it. The network is small enough that one captured cell with intelligence flow into BSSA and political backing from Caraway's PCBOT is a structurally severe compromise — and one that BNJC is only beginning to grasp.
 
 ## Containment Protocol
-* "The Still Life" (activated by putting a roll of film in a camera).
+
+"**The Still Life**" — activated by loading film into a camera.

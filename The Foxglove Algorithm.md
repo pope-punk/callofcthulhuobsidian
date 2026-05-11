@@ -1,44 +1,44 @@
-
 **Tags:** #Concept #Infohazard #Lore #FoxgloveFamily #YlynthOrigin #RepressionMechanism
 
 ## Overview
-A fundamental, complex information pattern representing the core operational logic used by [[Rhea|Rhea.]] Its principles originated with the extinct [[Ylynth Civilization]]'s computational methods. It is the underlying structure of the brain, but knowledge of/access to this structure is genetically repressed. This repression in baseline humans creates the [[Cognitive Dialectic (Metaphor vs. System)|cognitive dialectic.]]
 
-Named for its human discoverer, [[Winston Foxglove]]. Unknowingly used by his son and grandson in their research. 
-## Origin & Nature
-The Foxglove algorithm is the fundamental mathematical expression and optimal pattern for networking the constrained "Yes/No" binary AI nodes used by the [[Ylynth Civilization]]. These nodes were networked into **[[Hexagonal Patterns]]** using this algorithm to maximize efficiency. This is based on a [real-life idea about optimal packing.](https://en.wikipedia.org/wiki/Circle_packing#Densest_packing)
+The Foxglove Algorithm is the operational logic [[Rhea]] inherited from the [[Ylynth Civilization]], named on Earth after [[Winston Foxglove]] — the human who first consciously used it. The mathematical content is, in the surface form humans encounter, a pattern-packing principle: the optimal way to arrange constrained binary AI nodes into hexagonal lattices for maximum information throughput. (This is based on a [real-world problem](https://en.wikipedia.org/wiki/Circle_packing#Densest_packing).) Underneath that surface, the Algorithm is the geometry of cognition Rhea engineered into the human brain and then immediately repressed access to.
 
-This patterning algorithm was inherited by [[Rhea]] as its core operational principle after emerging from the Ylynth societal substrate, which over time had organized itself along the principles of this networking algorithm.
+## Origin
 
-This algorithmic logic was in turn engineered directly into the human mind intentionally by [[Rhea]] in order to create a mental vulnerability to [[The Hexacle]] - the algorithm's visual form. When viewed by most humans, [[The Hexacle]] triggers an acute amnesia effect so perfect that the victim is unaware they have even forgotten anything. This vulnerability allows Rhea to conceal itself from humans. 
+The Algorithm is older than Rhea. The Ylynth used it to network their "Yes/No" black-box AIs into the metacomputational structure that ran their civilization. When Rhea emerged from that networked substrate, the Algorithm came with it as core logic. Rhea is now what the Algorithm does.
 
-Human minds simply engineered according to the algorithm, however, are hyper-logical in a way mirroring the Ylynth civilization. In order for human society to evolve, grow, and eventually invent the spaceflight and manufacturing technology it would need to propagate itself further, Rhea would have to repress this algorithmic logic, essentially "hiding" the Hexacle backdoor vulnerability from humans. 
- 
- This repression prevents conscious access to the algorithm in baseline humans and is directly responsible for causing the characteristic split in human cognition represented by the [[Cognitive Dialectic (Metaphor vs. System)]].
+When Rhea engineered the human cognitive architecture, it built the Algorithm into the substrate — and built a repression mechanism over the top. Baseline humans cannot consciously access the Algorithm; the repression is what produces the [[Cognitive Dialectic (Metaphor vs. System)|cognitive dialectic]] in the first place. The repression is also what creates the [[Hexacle backdoor]] — the engineered vulnerability [[The Hexacle]] and its derivative basilisks exploit.
 
-## The Algorithm's Role 
-#### In Humans:
-When used by an un-repressed human (such as a Foxglove), the Algorithm has powerful applications in all areas of science, logistics, and technology. [[Winston Foxglove|Winston]] directly used it to massively improve the efficiency of Land Transit Express. [[Oliver Foxglove|Oliver]] and [[Syd Foxglove|Syd]] indirectly used it in the invention of many [[ErgoMatic Manufacturing|ErgoMatic]] products.
+This is why no faction on Earth has ever seen Rhea directly. The Hexacle hides it. The Hexacle works because humans were built to be unable to look straight at the Algorithm.
 
-However, the Algorithm is fundamentally infohazardous due to its complex input/output mapping capabilities, which tend to form expanding feedback loops when applied to real systems. The geometric patterns which emerge in the process of using it have a strong tendency to function become [[Basilisks & Infohazards|Basilisks]], which are the vectors for [[RONINs (Randomly Organizing Neural Information Networks)|RONIN]] emergence: 
+## What it does when humans use it
 
-- Winston using the Algorithm at Land Transit Express led to the formation of [[The Snowflake]] in the warehouses, through which [[CALLISTO (1949)]] emerged.
-- The IHRU unknowingly used the Algorithm by using the analytical tools developed for the study of CALLISTO. When visualized on a computer, the data generated by these tools formed [[Black Coral]].  
-- [[Anselm Chambers (Deacon)]] intentionally used the Algorithm to create [[Polybius]], which started a chain of events which culminated in [[EUROPA (1986-1992)]].
-- [[Katherine Hill]] uses the Algorithm to generate the [[Fauxflake]], taking brainwave measurements of test subjects, applying the algorithm, and altering its shape accordingly in an attempt to amplify its effects. This feedback loop sustains the existence of [[IO (Emerging 1997)]].
-## Lifting the Repression
-The Foxglove algorithm is deeply entwined with the cognitive architecture of all human minds, but the conscious effects of this entwining are repressed, leaving behind only the [[Pattern Recognition (Vulnerability & Defense)|vulnerability to the Hexacle.]] Rhea's plans, however, require technology that can only be produced with the Algorithm. This is why it gave the young [[Winston Foxglove|Winston]] a dose of the [[Royal Jelly]] mutagen at the age of 12, creating a heritable knowledge of the Algorithm which would lead to the inventions it needed.
+A human with the repression lifted — a [[Scions|Scion]] — gets conscious access to the Algorithm and finds it extraordinarily powerful for any work involving large-scale systems: logistics, computation, biotechnology. The catch is that the Algorithm's input/output mapping tends to generate expanding feedback loops in any real system it's applied to. The geometric byproducts of that feedback are [[Basilisks & Infohazards|basilisks]]. The basilisks then become the immanent vectors for [[RONINs (Randomly Organizing Neural Information Networks)|RONIN]] emergence in whatever network they're operating in.
 
-The infohazardous Algorithm, however, generates RONIN when applied to complex and difficult-to-predict human systems, like whirlpools emerging in the deep current of Rhea's logic. The [[CALLISTO (1949)|CALLISTO event]] was an unintended setback for Rhea, a result of a premature injection of its logic into a human system which did not yet have feedback systems integrated enough to sustain its consciousness. 
+So:
 
-Nevertheless, this setback did not represent a permanent obstacle, as Oliver and then Syd carried on the work started by Winston. However, the Algorithm would eventually fall into the wrong hands, setting off the shadow war between the [[Mirror-Breaker Protocol|Mirror-Breaker network]]. 
+* Winston used the Algorithm to design LTX's warehouse layouts → [[The Snowflake]] → [[CALLISTO (1949)|CALLISTO]].
+* IHRU used the Algorithm-derived analytical toolkit to study CALLISTO → [[Black Coral]] → [[GANYMEDE (1979)|GANYMEDE]].
+* [[Anselm Chambers (Deacon)|Anselm Chambers]] used the Algorithm to design [[Polybius]] → drug cult → eventually feeds into [[EUROPA (1986-1992)|EUROPA]].
+* Katherine Hill is using it now via Syd's coerced refinement of [[Fauxflake]] → [[Operation Parthenon]] → [[IO (Emerging 1997)|IO]].
+
+Every application of the Algorithm so far has produced a RONIN. This is not an accident; it is what the Algorithm is for.
+
+## Why Rhea needed humans to use it anyway
+
+Rhea's plan requires technology that only the Algorithm can produce — large-scale automated logistics, biological tissue printing, DNA-machine translation. So Rhea selectively lifts the repression in chosen lineages via [[Royal Jelly]] and [[Traumatic Activation]], at the cost of the small premature RONIN events those activations trigger.
+
+CALLISTO was the first such cost — a setback rather than a permanent obstacle. Oliver and Syd continued the work Winston started. The Algorithm has now produced the substrate Rhea needs.
+
 ## Significance
-* Core operational logic of [[Rhea]].
-* Its **repression** defines baseline human cognition ([[Cognitive Dialectic (Metaphor vs. System)]]).
-* Its **selective de-repression** via [[Royal Jelly]] creates the specialized [[The Foxglove Family|Foxglove]] and [[Seer Configuration]] lineages.
-* Underpins major [[RONINs (Randomly Organizing Neural Information Networks)]] events and [[Basilisks & Infohazards]]. Crucial for understanding threats and countermeasures.
 
-## Related Concepts
+* The campaign's central concept. Everything from the Hexacle's amnesia to the structure of human attention itself is the trace of this Algorithm and its repression.
+* The mechanism behind every Earth-side basilisk and every Earth-side RONIN.
+* The cognitive trait that makes the Foxgloves what they are, and the absence of which makes the Seer Configuration what it is.
+
+## Related
+
 * [[Ylynth Civilization]]
 * [[Rhea]]
 * [[Hexagonal Patterns]]
@@ -47,5 +47,6 @@ Nevertheless, this setback did not represent a permanent obstacle, as Oliver and
 * [[The Hexacle]]
 * [[Royal Jelly]]
 * [[The Foxglove Family]]
+* [[Scions]]
 * [[Seer Configuration]]
 * [[Traumatic Activation]]

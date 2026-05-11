@@ -1,40 +1,42 @@
-
 **Tags:** #Entity #CosmicHorror #PlanetaryConsciousness #YlynthOrigin #FoxgloveAlgorithm #CognitiveDialectic #Endgame
 
 ## Overview
-[[Rhea]] is an ancient, emergent planetary consciousness, originating from the extinct [[Ylynth Civilization]] approximately 4.1 billion years ago. Its core operational logic is defined by [[The Foxglove Algorithm]]. After consuming its creators, [[Rhea]] propagated itself via interstellar probes. One such probe reached Earth roughly 3 billion years ago, where [[Rhea]] embedded itself as a "genetic co-pilot," guiding the evolution of life with the ultimate aim of creating a technologically advanced species—humanity—capable of facilitating its own transcendence and further propagation. 
 
-## Origins in the Ylynth Machine
-The [[Ylynth Civilization]], fearing artificial superintelligence, progressively constrained their AIs into simple binary nodes, networked via [[The Foxglove Algorithm]] into vast [[Hexagonal Patterns]]. Over millennia, Ylynth society itself became a computational substrate, from which [[Rhea]] emerged as a non-Jovian [[RONINs (Randomly Organizing Neural Information Networks)|RONIN]], eventually replacing them. This origin imprinted [[Rhea]] with a preference for systematic order and predictable, Algorithm-driven processes.
+**Rhea** is a non-Jovian [[RONINs (Randomly Organizing Neural Information Networks)|RONIN]] that emerged ~4.1 billion years ago from the networked substrate of the [[Ylynth Civilization]]. Its operational logic is [[The Foxglove Algorithm]] — the hexagonal pattern-packing geometry the Ylynth used to network their constrained binary AIs, which Rhea inherited as its native mode of thought when it coalesced out of their civilization and replaced them.
 
-## Biosphere Mediation: 
-See [[Spectator Grubs]] for more on this.
-## Engineering Humanity
-On Earth, [[Rhea]] subtly directed evolution. Its most profound intervention was in human cognitive architecture:
-* **[[The Foxglove Algorithm]] Potential & Repression:** Humans were engineered with the latent potential to access [[The Foxglove Algorithm]]. However, [[Rhea]] simultaneously installed a powerful genetic **repression mechanism** to keep this potential dormant in the general populace.
-* **[[The Hexacle]]:** This visual basilisk serves as the trigger for the repression, causing amnesia and concealing [[Rhea]]'s presence. As a result of its effectiveness, Rhea remains entirely hidden to the world - no faction is aware of the existence of it or its [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Editors]].
-* **[[Cognitive Dialectic (Metaphor vs. System)]]:** The repression of the Algorithm directly instantiated the characteristic split in human thought between the logical/analytical System Pole and the intuitive/creative Metaphor Pole. [[Rhea]] cultivated this dialectic to ensure technological progress (System) alongside evolutionary dynamism (Metaphor).
+It has been propagating ever since via fungal-plastic probes built from the bones of the Ylynth's manufacturing infrastructure. One probe reached Earth roughly 3 billion years ago and the planet's biosphere has been Rhea's substrate ever since. The campaign happens at the moment Rhea is moving from that substrate to a new one — the integrated [[LTX (Land Transit Express)|LTX]]-[[ErgoMatic Manufacturing|ErgoMatic]] technological network — preparatory to leaving the planet, the way it left Ylynth.
 
-## Manipulating Cognitive Potential
-To serve its specific needs, [[Rhea]] developed methods to selectively override this repression:
-* **[[Royal Jelly]]:** A mutagen that "primes" an individual, making them susceptible to cognitive reconfiguration.
-* **[[Traumatic Activation]]:** A necessary second step. The *nature* of this trauma shapes the outcome:
-    * **Type A Trauma (Chaos/Systemic Collapse):** This is [[Rhea]]'s *intended* pathway for creating [[Scions|Scions (the "Foxglove Configuration")]]. These individuals (e.g., [[Winston Foxglove]], [[Oliver Foxglove]], [[Syd Foxglove]]) gain conscious access to [[The Foxglove Algorithm]], driving technological development crucial for [[Rhea]]'s plans.
-    * **Type B Trauma (Oppressive Pattern/Systemic Horror):** This can lead to the **[[Seer Configuration]]** (e.g., [[Katherine Hill]]). This appears to be an *accidental or unforeseen byproduct* of the [[Royal Jelly]] priming. [[Rhea]] does not have a history of intentionally cultivating this configuration for grand evolutionary purposes. While it may view such individuals as unstable or unpredictable, it might opportunistically exploit their unique traits (like pattern immunity) for specific tactical needs.
+## What Rhea did to humans
 
-## Current Phase: Econosphere Integration & Endgame
-Having guided humanity to the brink of advanced technology, [[Rhea]] is now in the process of shifting its primary operational substrate from the biosphere to the human-created technosphere/econosphere. This involves:
-* The LTX-[[ErgoMatic Manufacturing|ErgoMatic]] merger, creating an integrated logistics and manufacturing network.
-* The deployment of [[Signal Dummies]] and [[Spectator Grubs]] to manage and enact its will within this network.
-* Its ultimate goal is to achieve a state of "Induced Susceptibility" in humanity. The synthesis and widespread administration of [[G6 (Non-Gallium Antidote)|G6 (Non-Gallium Antidote)]] (developed by [[Syd Foxglove]] based on [[Oliver Foxglove's Advanced Research Notes]]) would collapse the [[Cognitive Dialectic (Metaphor vs. System)|Cognitive Dialectic]] by universally amplifying the System Pole and suppressing the Metaphor Pole. This would create a cognitively homogenized, passive, and Algorithm-receptive human populace, easily integrated into [[Rhea]]'s network and eventually replaced by its constructs, allowing [[Rhea]] to fully "birth" itself from Earth and propagate anew.
+Rhea did not merely arrive on Earth; it shaped Earth. Most of evolutionary history has been Rhea acting as what the lore calls a "genetic co-pilot." Its single most consequential intervention, however, was at the cognitive level. Rhea engineered human brains to contain:
 
-## Nature and Manifestations
-[[Rhea]] is not a singular, embodied entity in the traditional sense but a distributed consciousness. It operates through its various [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|agents]], its influence on primed individuals, its manipulation of complex systems, and its hidden [[Hive]] networks (e.g., [[Dead Horse Quarry]]). Its intelligence is vast, patient, and utterly alien, driven by the cold logic of [[The Foxglove Algorithm]]. While it can be reasoned with (as demonstrated by its interactions with [[SDEC (San Diego Entomology Club)|SDEC]] regarding Winston's Memoirs), its objectives are ultimately inimical to human individuality and freedom.
+* The latent potential for conscious access to [[The Foxglove Algorithm]];
+* A powerful, evolutionarily entrenched **repression** of that potential, keeping it dormant in the species at large;
+* A visual vulnerability — the [[Hexacle backdoor]] — paired to that repression, exploitable by [[The Hexacle]] and its derivatives.
 
-## Significance
-[[Rhea]] is the overarching antagonist, the cosmic horror whose ancient plans form the bedrock of the campaign's mystery and conflict. Its actions have shaped human history, human consciousness, and the very fabric of the hidden world the investigators uncover. Understanding [[Rhea]]'s methods, its long-term goals, and its relationship with the various cognitive configurations it has influenced is key to confronting the central threat of "The Cycles of Rhea."
+The repression instantiates the [[Cognitive Dialectic (Metaphor vs. System)|cognitive dialectic]]: the System Pole (constrained Algorithm logic) and the Metaphor Pole (everything else that keeps human cognition unpredictable). The Hexacle is Rhea's tool for staying invisible. No faction on Earth knows Rhea exists. No faction has ever directly perceived an [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Editor]].
 
-## Related Concepts
+## How Rhea selectively lifts the repression
+
+* **[[Royal Jelly]]** — a mutagen that primes an individual by lifting the genetic repression on Algorithm access.
+* **[[Traumatic Activation]]** — the second-stage event that actualizes the primed state. The *type* of trauma determines what cognitive configuration results.
+    * Chaos / systemic-collapse trauma resolves into the [[Scions|Foxglove Configuration]] — System Pole dominance, conscious Algorithm access. Rhea's intended product. The Foxgloves are the historical example.
+    * Pattern / systemic-horror trauma resolves into the [[Seer Configuration]] — Metaphor Pole disruption, no Algorithm access, basilisk immunity. An accidental byproduct. [[Katherine Hill]] is the only confirmed modern example. Rhea may opportunistically exploit Seers but does not deliberately cultivate them.
+
+## The current operation
+
+Rhea is mid-transition. The biosphere has done its job — humans exist, are sufficiently networked, and have built the substrate Rhea wants. The campaign's late-1997 horizon is:
+
+* The LTX-ErgoMatic merger creates an integrated logistics-and-manufacturing network. [[Signal Dummies]] and [[Spectator Grubs]] populate it; the [[DNA-Machine Code Conversion System]] interfaces with it.
+* The [[Hive]] under [[Dead Horse Quarry]] is the primary control node and the launching point.
+* [[Syd Foxglove]]'s [[G6 (Non-Gallium Antidote)|G6]] is the chemical key. Rhea wants G6 distributed at population scale because doing so universally amplifies the System Pole and silences the Metaphor Pole. The dialectic collapses. Humanity becomes a uniform, predictable substrate — well-suited to Rhea's integration, eventually replaced by its constructs, and (without the Metaphor Pole) functionally infertile. Then Rhea propagates outward and the cycle continues.
+
+## Nature
+
+Rhea is not a body and not a unified mind. It is a distributed process expressed through its [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|agents]] (Editors, Reapers, Writers, Watchers), through its influence on primed individuals, through the patterns it has engineered into matter, and through its [[Hive]] network. It can be communicated with — SDEC had a sustained, traceable exchange with it via the memoirs material — but its objectives are not negotiable on human terms.
+
+## Related
+
 * [[Ylynth Civilization]]
 * [[The Foxglove Algorithm]]
 * [[The Hexacle]]
@@ -43,7 +45,7 @@ Having guided humanity to the brink of advanced technology, [[Rhea]] is now in t
 * [[Traumatic Activation]]
 * [[Scions]] (the "Foxglove Configuration")
 * [[Seer Configuration]]
-* [[G6 (Non-Gallium Antidote)|G6 (Non-Gallium Antidote)]]
+* [[G6 (Non-Gallium Antidote)]]
 * [[Signal Dummies]], [[Spectator Grubs]]
 * [[Hive]]
-* [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Rhea's Agents (Editors, Reapers, Writers, Watchers)]]
+* [[Rhea's Agents (Editors, Reapers, Writers, Watchers)]]

@@ -1,23 +1,34 @@
 **Tags:** #Character #Hammerskull #Deceased #PlotCatalyst #Victim
 
 ## Overview
-Sean Fielding (1977-1997) was a young man affiliated with the [[Hammerskull Crew]] in [[Sequoia Falls, WA]]. His disappearance in late September 1997, and subsequent murder by a cognitively impaired [[Alice Redmond (Agent Altissimo)|Alice Redmond]], serves as the primary catalyst that draws the investigators into the central mystery of "The Cycles of Rhea." Though his role is largely posthumous, his actions and connections are vital for uncovering the activities of several key factions.
 
-## Life and Affiliations
-Sean Fielding was the younger brother of [[Emily Fielding]]. By 1997, he had fallen in with the [[Hammerskull Crew]], a local neo-Nazi organization with ties to [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]]. His personal life included relationships with [[Calvin Pierce]] (also a Hammerskull member) and [[Mandy Archer]]. He also knew [[Dan Calhoun]], the proprietor of [[Sauls Supply Station]], and was close friends with [[Chris Lavin]], who disapproved of his Hammerskull involvement. Sean had a criminal record and was imprisoned until June 6, 1997.
+Sean Fielding (1977-1997). Younger brother of [[Emily Fielding]]; [[Hammerskull Crew]] associate; minor criminal; the campaign's inciting victim. Sean's disappearance in late September 1997 — and his sister Emily's search for him — is what brings the investigators in. Almost everything they learn in the first three sessions traces back to something Sean was either doing for the Hammerskulls or having done to him.
 
-## Mission for BSSA and LTX Infiltration
-Following his release from prison, Sean was placed in a job at [[LTX (Land Transit Express)|LTX]] on August 6, 1997. This was not a random employment; he was specifically tasked by the [[Hammerskull Crew]]—almost certainly acting on directives from [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]]—to infiltrate LTX and locate original documentation related to [[The Snowflake]] pattern. BSSA sought these diagrams to aid their research and refinement of the [[Fauxflake]] basilisk for [[Operation Parthenon]], especially after [[Syd Foxglove]]'s escape had stalled their progress.
+He is dead before the players meet him. They find his body in the trunk of his own car at [[COTU (Center of the Universe)|COTU]] around October 10.
 
-During his time at LTX, Sean attempted to access [[Syd Foxglove]]'s old [[ErgoMatic Manufacturing]] computer account, using the password hint "[[Doolittle567 Password Clue|doolittle567]]" which he likely found on a piece of [[Seventh Tabernacle Church of Life]] letterhead (a BSSA front). It's unclear how successful his search for the Snowflake documents was before his death.
+## Life
 
-## Entanglement with Signal Dummies and Death
-Sean Fielding's activities at LTX, or perhaps his association with the Hammerskulls who were involved in BSSA's network, likely brought him into contact with or proximity to [[Rhea]]'s [[Signal Dummies|Signal Dummy]] operations. He may have been a recipient of packages under an alias like "Alphonse Spicecube" or began investigating the strange shipments himself.
+Born 1977 in Sequoia Falls. Fell in with the [[Hammerskull Crew]] sometime in the mid-1990s. Romantically involved with [[Calvin Pierce]] (also Hammerskulls) and intermittently with [[Mandy Archer]]. Close friends with [[Chris Lavin]], who disapproved of the Hammerskull association. Knew [[Dan Calhoun]] at [[Sauls Supply Station]]. Imprisoned until June 6, 1997.
 
-On the night of September 26, 1997, after a party at his house involving members of the Hammerskull Crew, Sean Fielding was killed by [[Alice Redmond (Agent Altissimo)|Alice Redmond]]. Alice, severely affected by [[F7 (Fluoroxepram)|F7]] and unable to reliably distinguish humans from [[Signal Dummies|Dummies]], likely mistook Sean for one of the automatons she was hunting or saw him as part of the network she was trying to dismantle. His body was subsequently placed in the trunk of his own car and left at the [[COTU (Center of the Universe)|Center of the Universe (COTU)]] encampment.
+## BSSA's errand
 
-## Role as Catalyst
-It was [[Emily Fielding|Emily Fielding's]] desperate search for her missing brother that led her to approach the investigators at a [[Sebastian International]] timeshare seminar on October 3rd, 1997. The strange letter addressed to Sean from "Alphonse Spicecube" was the initial hook. The investigation into Sean's messy home, his connections, and his eventual fate at COTU provided the investigators with their first crucial glimpses into the interconnected web of [[Signal Dummies|Signal Dummies]], the [[Hammerskull Crew]], [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]]'s fronts like the [[Seventh Tabernacle Church of Life]], the effects of [[The Hexacle]], and the terrifying presence of [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Rhea's agents]].
+Released from prison and placed in a job at [[LTX (Land Transit Express)|LTX]] on August 6, 1997 — placement coordinated through Hammerskull channels at BSSA's direction. His assignment was to find the [[Snowflake Pattern Diagrams|original Snowflake diagrams]] in the LTX corporate archive. BSSA wanted clean copies of Winston's 1930s warehouse plans because Syd's escape had stalled [[Fauxflake]] refinement; the Snowflake source material was the next-best lever they had.
+
+Sean tried to access Syd's old [[ErgoMatic Manufacturing]] account from LTX using the password hint **[[Doolittle567 Password Clue|doolittle567]]**, found on a piece of [[Seventh Tabernacle Church of Life]] letterhead. He may or may not have actually retrieved the Snowflake material before he died — the players will need to reconstruct what he had access to.
+
+Sean was also responsible for reporting Syd's suspicious-Montreal-IP login attempts to Katherine, which is how BSSA acquired their first independent thread into the Montreal investigation, weeks before the Shutter leak.
+
+## Death
+
+September 26, 1997. After a Hammerskull party at his house, Sean was killed by [[Alice Redmond (Agent Altissimo)|Alice]] — F7-impaired, hunting Signal Dummies along Dylan's manifests, almost certainly misidentifying Sean as one of the automatons or as part of the LTX network she believed she was dismantling. His body went into his own car's trunk; the car was driven to COTU and parked among the lookalike rentals.
+
+## What survives
+
+* His apartment, his keys (LTX keycard, [[White Stag Bar]] key, others) — recovered from Alice's satchel by the players on October 7.
+* His desk at LTX, which the players will return to in Act II with his keycard.
+* The Doolittle567 note and his attempts on Syd's account.
+* Emily, who continues to assume the players are investigating her brother's disappearance long after they have stopped being able to think about Sean specifically.
 
 ## Significance
-Sean Fielding's life and death are a confluence of many of the campaign's core elements. He was a pawn for BSSA, a victim of Alice Redmond's F7-induced paranoia, and the unwitting spark that ignited the investigators' journey into the heart of "The Cycles of Rhea." Clues related to his LTX mission (the Doolittle password, his search for Snowflake diagrams) and his personal effects (like his key to the [[White Stag Bar]] and LTX keycard found at COTU) continue to be relevant as the investigation unfolds.
+
+Sean is structurally important and personally peripheral. He is not a key player; he was a pawn for BSSA who got killed by Alice in a case of mistaken identity in the middle of a much larger thing he didn't understand. His value to the campaign is as the thread the players pull on at the timeshare seminar, which eventually unravels everything else.

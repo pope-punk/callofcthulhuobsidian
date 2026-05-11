@@ -1,26 +1,25 @@
 **Tags:** #Faction #MirrorBreaker
 
 ## Overview
-A [[Mirror-Breaker Protocol|Mirror-Breaker Organization]] operating under the cover of a succulent appreciation club, presumably based in Upper Michigan. Appears to function as support and cleanup specialists for other Mirror-Breaker cells, particularly [[BNJC (Blue Note Jazz Collective)]].
 
-## Methodology & Philosophy
-* Utilizes **Botanical terminology** (specifically related to succulents) as their metaphorical cipher, adhering to the [[Mirror-Breaker Protocol]].
+The **Upper Michigan Succulent Enthusiasts** is a [[Mirror-Breaker Protocol|Mirror-Breaker cell]] based, as the name suggests, in Upper Michigan, operating under the cover of a succulent-appreciation club. Their cipher is botanical. Their operational specialty appears to be cross-cell support and cleanup — they show up where other cells (especially BNJC) need backup that isn't compromised by local intelligence.
 
-## Leadership & Personnel
-* **Known Agents:**
-    * **Director Saguaro** (Samuel Green)
-    * **Agent Thistle
-    * **Agent Thorn
-    * (Visited player characters after [[Pastor Mike]]'s death to perform cleanup/liaison role for [[BNJC (Blue Note Jazz Collective)]])
-    * * **Brittany Washington** (Agent Bristle)
+The players have already met two of their field operatives ("Thistle & Thorn") under that role: UMSE handled the cleanup at the [[Redwood Shopping Mall]] after Alice killed Pastor Mike.
 
+## Personnel
 
-## Operations & Status (Late Oct 1997)
-* Active as of October 1997, supporting [[BNJC (Blue Note Jazz Collective)]] operations.
-* **Montreal Coordination:** Following the discovery of [[Éric Blanc]]'s death and the compromised situation in Montreal, [[Nigel Christmas (Nine-String)]] will likely task UMSE (via secure channels) to **coordinate with the player investigators** on the ground in Montreal. Their role will be primarily:
-    * **Intelligence Support:** Providing local information, potential surveillance updates on BSSA movements if possible.
-    * **Logistics:** Assisting with safe travel, equipment, or secure communications.
-    * **Extraction Planning:** Working with players to develop and potentially support an extraction plan for [[Syd Foxglove]] from the [[McCord Museum]] ambush site. Their direct tactical involvement might be limited based on available assets in the area.
+* **Director Saguaro** — Samuel Green.
+* **Agent Thistle** and **Agent Thorn** — the field team that contacted the players.
+* **Agent Bristle** — Brittany Washington.
+
+## Role in the Montreal arc
+
+[[Nigel Christmas (Nine-String)|Nine-String]] will route UMSE field support to the team for the Montreal operation. Specifically:
+
+* **Local intelligence** — surveillance on BSSA movement, the McCord Museum perimeter, Plaster's email infrastructure.
+* **Logistics** — safe travel, secure communications, equipment.
+* **Extraction support** — McCord operation backup and exfil of Syd. Their direct tactical role will depend on what assets they can get into Montreal in time; they are not a dedicated paramilitary force.
 
 ## Containment Protocol
-* "The Dry Season" (activated by soil sampling probe key).
+
+"**The Dry Season**" — activated by a soil-sampling probe key.
