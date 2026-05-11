@@ -1,0 +1,5 @@
+Tags: #character #BNJC 
+
+Leah Burns (Agent Legato) is a supporting agent at the Blue Note Jazz collective. She is known for her chipper demeanor, enthusiastic application of the Mirror-Breaker Protocol, and tendency to correct the harried and exhausted Agent Tremolo whenever he lapses in the metaphorical cipher. 
+
+She is 5'2 and wears her hair in a professional, shortly cropped style and has a slightly menacing air about her, as though she relishes every aspect of her job equally, including its unsavory elements. When it is implied that players may be acting out the directives of a hostile RONIN, Agent Legato seems to brighten at the idea of getting to be the one to kill them - she doesn't *want* to, but she believes that loving the protocol is the only way to apply it consistently. She's not sadistic, she's just extreme.  

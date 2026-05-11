@@ -1,0 +1,11 @@
+Individuals driving the narrative.
+	* [[Alice Redmond (Agent Altissimo)]]
+    * [[Syd Foxglove]]
+    * [[Katherine Hill]]
+    * [[Oliver Foxglove]]
+    * [[Winston Foxglove]]
+    * [[Anselm Chambers (Deacon)]]
+    * [[Nigel Christmas (Nine-String)]]
+    * [[Dylan Hill (Agent Destination)]]
+    * [[Sean Fielding]]
+    * [[Éric Blanc]]

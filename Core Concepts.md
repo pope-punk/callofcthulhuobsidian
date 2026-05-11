@@ -1,0 +1,10 @@
+Understand the fundamental ideas shaping this world.
+	* [[Consciousness & Emergence]]
+	* [[Cognitive Dialectic (Metaphor vs. System)]]
+	* [[Pattern Recognition (Vulnerability & Defense)]]
+    * [[Rhea]]
+    * [[RONINs (Randomly Organizing Neural Information Networks)]]
+    * [[Basilisks & Infohazards]]
+    * [[The Foxglove Algorithm]]
+    * [[Mirror-Breaker Protocol]]
+    * [[F7, G5, G6 (Chemical Agents)]]
