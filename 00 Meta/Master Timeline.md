@@ -130,11 +130,12 @@
     * SDEC directly engages with "Axon and Dendrite" producers, instructing them to randomize broadcasts and remove [[The Echo]] elements. These interventions disrupt RONIN emergence.
     * [[Raymond Vaughn (Agent Rococo)|Agent Vaughn]] removes modulator from [[Ellensburg Numbers Station]] and escapes back to Boise. [[Agent Chrysalis]] (SDEC) recognizes Vaughn as [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] agent, reports to [[Jacqui Lopez (Director Javelin)|Lopez]] at [[PCBOT (Pacific Coast Board of Tourism)]].
     * While scanning with "CICADA-class sonar/radar," Agent Diaphanous ([[Agent Diaphanous (Diane Collins)|Diane Collins]]) detects spatial anomaly near [[Dead Horse Quarry]] ([[Rhea]]'s [[Hive]] entrance). SDEC begins analyzing connection to [[Winston's Memoirs (SDEC)]].
-* **1992 (Late)**: SDEC Destruction
-    * [[SDEC Facility|SDEC facility]] destroyed by [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Rhea Writer]] ([[SDEC Infiltrator (Specialized Agent)]]) after connecting [[Hive]] discovery to [[Winston's Memoirs (SDEC)]].
-    * [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] and other Mirror-Breakers incorrectly attribute destruction to [[EUROPA (1986-1992)]].
-    * [[David Rubinsky]] tortured and executed at [[Chapel of the Blessed Lamb]] site. [[Cleo Zhang]] survives by chance and flees to Portland.
-    * BSSA hastily clears out [[Ellensburg Numbers Station]] equipment and abandons [[Chapel of the Blessed Lamb]]. [[Katherine Hill]] sees SDEC destruction as confirmation that [[Mirror-Breaker Protocol]] failed.
+* **1992 (Late)**: SDEC Destruction and Cleanup
+    * [[SDEC Facility|SDEC facility]] destroyed by [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Rhea Writer]] ([[SDEC Infiltrator (Specialized Agent)]]) after connecting [[Hive]] discovery to [[Winston's Memoirs (SDEC)]]. [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] and other Mirror-Breakers incorrectly attribute destruction to [[EUROPA (1986-1992)]].
+    * [[Henry Caraway (Agent Hotel)|Caraway]] — fully aware of BSSA's Echo weaponization and moving to monopolize the SDEC investigation against [[Jacqui Lopez (Director Javelin)|Lopez's]] resistance — orders the executions of [[David Rubinsky]] and [[Cleo Zhang]] to silence witnesses before any outside investigation reaches them. The order is strategic; BSSA operatives' execution of it is panicked and haphazard.
+    * [[David Rubinsky]] captured, tortured, and executed at [[Chapel of the Blessed Lamb]]. Before his death, he mailed a lockbox containing Zhang's contact information to SDEC's San Diego address — combination set to the four-digit code from his final "Axon and Dendrite" segment permutation. The package is returned undeliverable; his neighbor [[Professor Vance]] retrieves it from his porch. See [[Rubinsky's Lockbox Puzzle]].
+    * [[Cleo Zhang]] escapes the parallel sweep — partly because [[Dylan Hill (Agent Destination)|Dylan Hill]] subtly obstructs the order, the first seed of his later conflict with Katherine — and flees to Portland under an assumed name.
+    * BSSA hastily clears out [[Ellensburg Numbers Station]] equipment and abandons [[Chapel of the Blessed Lamb]]. [[Katherine Hill]] uses the EUROPA misattribution to argue the [[Mirror-Breaker Protocol]] failed.
 * **1992-1994**: [[Rhea]] begins Phase 1: Network Formation for its technological transcendence. Infrastructure integration under "strategic logistics optimization".
 
 ## 1993: New Developments
