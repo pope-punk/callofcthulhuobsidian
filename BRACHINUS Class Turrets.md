@@ -1,1 +1,0 @@
-An autonomous weapon located at the [[SDEC Facility]].
