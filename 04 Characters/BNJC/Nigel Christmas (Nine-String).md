@@ -12,6 +12,25 @@ Nigel's family has been the institutional core of the American infohazard respon
 
 He took over BNJC's Sequoia Falls operation in the early 1990s after the relocation from Sacramento. He sponsored [[Alice Redmond (Agent Altissimo)|Alice's]] EUROPA fieldwork, then the off-books continuation under Blanc, then the Dylan Hill surveillance, then the covert support for Alice's rogue operation against the Signal Dummies. He has been making increasingly aggressive compartmentalization decisions across the same period, which is how Alice ended up with an entire PCBOT-bypass file that BNJC officially does not know exists.
 
+## The trap he is in
+
+As of late summer 1997, Nine-String has effectively **sealed the cell** to keep BSSA away from BNJC's exposed flanks. The lockdown is operationally rational and personally compromising:
+
+* **BNJC was being monitored by PCBOT** through the spring and summer of 1997. Any official surface action on Alice — pulling her in, debriefing her, requesting institutional support for her decline — would tip Caraway's people into noticing the off-books operation.
+* **He has been concealing [[Dylan Hill (Agent Destination)|Dylan Hill's]] killing** since July 15. Surfacing Alice's situation surfaces Dylan's death, which surfaces years of compartmentalized BNJC work that PCBOT could weaponize against the entire cell — including [[Jacqui Lopez (Director Javelin)|Lopez's]] residual loyalty network, which is the only thing inside PCBOT keeping BNJC operationally viable at all.
+* **His trust circle inside BNJC is just [[Agent Chrysalis]] and [[Travis Ward (Agent Tremolo)|Tremolo]]**, and Chrysalis is now off-grid. He is running a sealed facility with one read-in deputy and no remaining field hand.
+
+The result is that he cannot act on what he knows and cannot read in the agents who could help him. From the inside, [[Travis Ward (Agent Tremolo)|Tremolo]] is now covertly working around the stonewall by feeding outside investigators the threads Nine-String has refused to pull — see Tremolo's page. Nine-String does not realize this is happening.
+
+## What he knows and doesn't know
+
+Nine-String's picture of the actual situation is built almost entirely from Alice's filtered field reports relayed through Chrysalis. He has therefore inherited Alice's working frame and almost none of the underlying truth:
+
+* He believes BSSA built or is incubating a weaponized RONIN-class infrastructure in Sequoia Falls and that Alice is hunting its substrate (the [[Signal Dummies]], which he and Chrysalis understand only as "RONIN-pattern targets").
+* He **does not know [[Rhea]] exists** as an entity. The Hexacle, the Reapers, the Writers, the Watchers, the Hive — completely off his map. Alice's encounters with biomorphic agents have come through to him, when at all, as her own F7-induced perceptual instability.
+* He knows the broad shape of BSSA's operational geography (Saint Anselm's, Seventh Tabernacle, Hammerskull network) only indirectly through Alice's pre-F7 surveillance work on Dylan.
+* He does not have direct contact with [[Syd Foxglove|Syd]] in Montreal. Syd's clearer theoretical picture of F7 and the Algorithm is reaching only Alice, through Chrysalis's relay, which means it is not reaching the cell's leadership at all.
+
 ## What he knows about Montreal
 
 Nigel is the only BNJC officer who knows that **Blanc was Alice's longtime EUROPA-era contact** and that Alice sent Syd to him in July 1997. He does **not** know:

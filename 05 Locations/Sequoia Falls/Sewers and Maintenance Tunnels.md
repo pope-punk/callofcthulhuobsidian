@@ -17,7 +17,9 @@ A successful Spot Hidden / Investigate / Intelligence check confirms the smears 
 
 **Option: East.** East heads toward [[LTX (Land Transit Express)|LTX]]. After about three-quarters of a mile, the tunnel opens up. On the other side of the half-boarded-up mouth, the players find the destroyed body of "Thermos Milkshaft" — a [[Signal Dummies|Signal Dummy]] — handcuffed to a desk with three bullets deep in its body. A hose is out of reach on the other side of the room.
 
-* An invoice for shipments dated mid-July is here. **(GM TODO: author this clue.)** It establishes that this was probably the first Dummy Alice destroyed.
+This is the **only** kill site that looks like this. The hose is Thermos's own water supply — Rhea deployed Signal Dummies to locations where water was accessible because they are hydraulically actuated via fluorine-coated capillary tubing and require regular hydration. [[Alice Redmond (Agent Altissimo)|Alice]] cattle-prodded and handcuffed Thermos here, shot it three times to no permanent effect, and then — by accidentally chaining the Dummy away from its hose for several days — discovered that dehydration is the only reliable kill method for a Signal Dummy. From this site onward, the rest of her captures happen in car trunks rather than at mailing sites; the trunk is the sealed, dry environment that finishes the job. The Thermos site is the **method origin**, not the standard procedure.
+
+* An invoice for shipments dated mid-July is here. **(GM TODO: author this clue.)** It establishes that this was the first Dummy Alice destroyed.
 
 **Option: North.** Heading north leads to a low retaining wall in the tunnel, where the remnants of the old railway turn into the sewers proper. At the base of this retaining wall, there are some sleeping bags and a rope ladder over the barrier to the sewers. There's also a ladder going up to the road.
 

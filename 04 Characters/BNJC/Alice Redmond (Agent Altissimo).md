@@ -69,6 +69,16 @@ A [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Reaper]] attack at the W
 ## Current Status and Mental State (Late October 1997)
 As of late October 1997, Alice is a rogue agent hiding in the sewers and maintenance tunnels near [[COTU (Center of the Universe)]]. She is severely impaired by the F7 overdose, her perception of reality distorted, and her mission to destroy the "LTX RONIN" all-consuming. She killed [[Pastor Mike]] at the [[Redwood Shopping Mall]] on October 7th, dropped her satchel during her escape, and is in desperate need of the [[G6 (Non-Gallium Antidote)|G6]] antidote Syd is trying to develop.
 
+### Her interpretive frame
+
+Alice's working theory is the one she had been building **before** the F7 injection: that [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] has built or is incubating a weaponized RONIN whose material substrate runs through the LTX shipping network. F7-impairment forecloses her capacity to revise that frame. Everything she encounters is now sorted by whether it fits:
+
+* **[[Signal Dummies]] → fit.** They are mechanical, networked, dirt-shipment-linked, and exactly what an LTX-routed RONIN substrate would look like. She hunts them.
+* **[[The Hexacle]] → fit, repurposed.** Pre-F7 these patterns were Rhea's amnesia-inducing perimeter marker. Post-F7 their amnesia mechanism is dampened (the same mechanism that drew COTU's residents to the perimeter is operating on her), so she perceives them instead as a navigational system — "lines of flight beyond the logic of roads." She follows them. They led her to COTU and to [[Signal Dummies|Thermos Milkshaft]].
+* **[[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Reapers, Writers, Watchers, Spectator Grubs]] → do not fit.** Biomorphic predators have no place in her LTX-RONIN model. Her broken pattern recognition therefore categorizes them as **basilisk-induced or F7-induced perceptual hallucinations**. She flees them rather than engaging them as real adversaries. This is why the Sept 8 Reaper attack at the [[Edmund White Estate]] reads as a retreat rather than a fight, and why she has never tried to study or hunt Rhea's biological layer.
+
+The consequence is that Alice is fighting one operational tier of Rhea's local infrastructure (the Dummies) while a deeper tier (Rhea's actual agents) moves through the same space unopposed. She cannot conceive of [[Rhea]] as an entity. She is killing automatons in the belief that she is dismantling BSSA's worst weapon, and she is treating the actual predator network as if it were inside her own head.
+
 ## Future Role: Required Checkpoint, Redemption, and Sacrifice
 
 Curing Alice is no longer an incidental humanitarian goal — it is the **operational gate** to the PCBOT and SDEC arcs. The PCBOT-bypass methodology that gets the team into Caraway's facility (and, from there, into a remote-access session with the sealed [[SDEC Facility]]) lives on the encrypted hard drive at Blanc's apartment. **Alice is the only person who knows the passphrase** and the only person who can practicably execute the methodology end-to-end. Until she is restored:
