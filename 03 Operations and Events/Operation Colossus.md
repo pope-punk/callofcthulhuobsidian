@@ -33,13 +33,13 @@ The layered feedback — Echo broadcast, real-time caller-pitch modulation, BSSA
 
 The same CICADA program then detected a spatial anomaly under the [[Dead Horse Quarry]] — the [[Hive]]. SDEC connected it to Winston Foxglove's memoirs. [[Rhea]], protecting the discovery, sent the [[SDEC Infiltrator (Specialized Agent)|SDEC Infiltrator]] to eliminate the cell. The Ant Trap sealed the facility. BSSA had no idea Rhea existed and saw only that SDEC had gone dark.
 
-**BSSA's panicked cleanup followed.** With SDEC silent, anyone investigating it could find the randomizer-tool intervention and pull on the thread back to Operation Colossus. BSSA moved urgently:
+**Caraway-ordered cleanup followed.** [[Henry Caraway (Agent Hotel)|Caraway]], who was fully aware of the Echo weaponization, moved to monopolize the SDEC investigation himself under the pretext of officially "investigating The Echo" — to lock other organizations out of the truth and to keep SDEC sealed against surviving testimony. When [[Jacqui Lopez (Director Javelin)|Lopez]] resisted, Caraway ordered the executions of Rubinsky and Zhang to silence the witnesses before any investigation could reach them. The order was strategic; BSSA operatives' execution of it was panicked and haphazard:
 
 * Rubinsky captured and executed at the Chapel.
-* Zhang escaped — fled to Portland under an assumed name.
+* Zhang escaped — fled to Portland under an assumed name. Survival owed partly to [[Dylan Hill (Agent Destination)|Dylan Hill's]] subtle obstruction of the sweep, an early fracture line in his marriage to Katherine.
 * The numbers station and the Chapel were sanitized and abandoned.
 * SCAI's financial records were purged by Plaster.
-* BSSA quietly let the assumption spread that EUROPA had destroyed SDEC. The misattribution served Katherine's narrative perfectly and became the official BSSA / [[Henry Caraway (Agent Hotel)|Caraway]]-faction position; see [[Post-SDEC Events]] for the internal political consequences, including Lopez's pushback at [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]].
+* BSSA quietly let the assumption spread that EUROPA had destroyed SDEC. The misattribution served Katherine's narrative perfectly and became the official BSSA / Caraway-faction position. See [[Post-SDEC Events]] for the internal political consequences, including Lopez's pushback at [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] and her parallel motivation around [[Agent Centipede]].
 
 ## Legacy
 
