@@ -22,17 +22,18 @@ While Winston shared his gift with his son, Oliver was far more circumspect. He 
 
 ## System
 Digit-representation: 
-![[Pasted image 20260512080533.png]]
-  
+<img width="521" height="177" alt="image" src="https://github.com/user-attachments/assets/fdf10df5-c875-4feb-bf46-758ee8a1ff19" />
+
 -> S(5),S(6),S(7)
 	->S(5),S(1,0),S(1,1)
 	 (5,1,0) covered
-	 ![[Pasted image 20260512081707.png]]
+	<img width="430" height="103" alt="image" src="https://github.com/user-attachments/assets/fd8da992-e136-410c-a484-40ed5f484335" />
+
 
 ->S(3338)
    -> S(2,3,2,4,2)
-   ![[Pasted image 20260512083023.png]] 
-    
+  <img width="522" height="108" alt="image" src="https://github.com/user-attachments/assets/197de6fa-4a88-44b4-8e54-24059fdbb24c" />
+
 
 
 ## Significance
