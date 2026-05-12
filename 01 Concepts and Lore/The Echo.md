@@ -23,7 +23,7 @@ The Echo plus the caller-feedback modulator plus the listening audience plus BSS
 ## History
 
 * **1986-87.** First broadcast as "Seventh Hour" out of the [[Chapel of the Blessed Lamb]]. Religious-radio cover. Terminated when listener behavior became too unpredictable to manage.
-* **1987-92.** Refined and embedded in "Axon and Dendrite" with [[David Brewster]] and [[Maria Chen]] as unwitting hosts. Cult audience develops.
+* **1987-92.** Refined and embedded in "Axon and Dendrite" with [[David Rubinsky]] and [[Cleo Zhang]] as unwitting hosts. Cult audience develops.
 * **1992.** SDEC randomizer intervention breaks the broadcast structure; [[Raymond Vaughn (Agent Rococo)|Rococo]] pulls the modulator. EUROPA destabilizes. The show stops airing.
 
 ## Status (Oct 1997)

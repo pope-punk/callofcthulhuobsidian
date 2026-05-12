@@ -20,7 +20,7 @@ This song serves multiple crucial roles within the [[Cycles of Rhea]] campaign:
 
 ## Syd Foxglove's Connection
 
-* **First Exposure:** [[Syd Foxglove]] likely first heard the song when his girlfriend, [[Amanda Green]], showed him a recording of the avant-garde radio show [[Axon and Dendrite Recordings|Axon and Dendrite]]. The song was possibly played by host [[David Brewster]].
+* **First Exposure:** [[Syd Foxglove]] likely first heard the song when his girlfriend, [[Amanda Green]], showed him a recording of the avant-garde radio show [[Axon and Dendrite Recordings|Axon and Dendrite]]. The song was possibly played by host [[David Rubinsky]].
 * **Unique Reaction to [[The Echo]]:** Due to Syd's [[The Foxglove Algorithm|Algorithm]]-altered brain, the embedded [[The Echo]] infohazard in the broadcast didn't affect him normally. Instead of typical hallucinations, it induced an "intense feeling," causing him to connect deeply with the *song* itself while finding the overall show disturbing or repulsive. This experience cemented the song (and likely the associated numbers) in his mind, leading to its use as a password.
 * **Personal Resonance:** The song and band align with Syd's established interest in alternative/goth culture.
 

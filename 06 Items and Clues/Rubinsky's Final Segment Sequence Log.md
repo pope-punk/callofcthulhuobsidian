@@ -1,9 +1,9 @@
 ---
-tags: #Item #Document #Clue #PuzzleElement #Brewster #Handout
+tags: #Item #Document #Clue #PuzzleElement #Rubinsky #Handout
 ---
 
 ## Overview
-A document, log printout, or technical note found at the [[Ellensburg Numbers Station]], detailing the specific **sequence of the six segments** in [[David Brewster]]'s final, unaired "testament" episode of "Axon and Dendrite." This sequence is the result of applying a specific four-digit code to the [[SDEC Randomizer Mapping Rules]].
+A document, log printout, or technical note found at the [[Ellensburg Numbers Station]], detailing the specific **sequence of the six segments** in [[David Rubinsky]]'s final, unaired "testament" episode of "Axon and Dendrite." This sequence is the result of applying a specific four-digit code to the [[SDEC Randomizer Mapping Rules]].
 
 ## Format
 Could be a simple list, a technical log entry, or perhaps scribbled on the back of a script page. Should look like something potentially overlooked during a hasty cleanup.
@@ -24,4 +24,4 @@ Could be a simple list, a technical log entry, or perhaps scribbled on the back 
 **(End Example Sequence)**
 
 ## Significance
-Provides the "known output" data necessary for players to reverse-engineer the [[SDEC Randomizer Mapping Rules]] and deduce the four-digit input code, which serves as the passphrase for [[Brewster's Lockbox]]. Direct evidence of Brewster's final actions and security measures.
+Provides the "known output" data necessary for players to reverse-engineer the [[SDEC Randomizer Mapping Rules]] and deduce the four-digit input code, which is the combination to [[Rubinsky's Lockbox]]. Direct evidence of Rubinsky's final actions and security measures.

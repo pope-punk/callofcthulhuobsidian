@@ -33,6 +33,6 @@ A facility-wide automated lockdown. Active defenses include the [[BRACHINUS Clas
 ## What's Inside (in person)
 
 * Winston's memoirs and the Hexagon Pages (top priority).
-* SDEC's randomizer tool itself (the rules and Brewster's log are recoverable elsewhere, but the actual hardware is here).
+* SDEC's randomizer tool itself (the rules and Rubinsky's log are recoverable elsewhere, but the actual hardware is here).
 * Whatever the Infiltrator left behind.
 * Personnel effects, files Lopez's faction never got to retrieve.

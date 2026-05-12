@@ -3,14 +3,14 @@ tags: #Item #Document #Clue #PuzzleElement #SDEC #Handout
 ---
 
 ## Overview
-A document found at the [[Ellensburg Numbers Station]], detailing the logic of the segment randomizer tool provided by [[SDEC (San Diego Entomology Club)]] to [[David Brewster]] and [[Maria Chen]] in mid-1992. This explains how a **four-digit code (Input: `XXXX`)** determines the order of the **six standard "Axon and Dendrite" broadcast segments (Output: Segment Order `1-6`)**.
+A document found at the [[Ellensburg Numbers Station]], detailing the logic of the segment randomizer tool provided by [[SDEC (San Diego Entomology Club)]] to [[David Rubinsky]] and [[Cleo Zhang]] in mid-1992. This explains how a **four-digit code (Input: `XXXX`)** determines the order of the **six standard "Axon and Dendrite" broadcast segments (Output: Segment Order `1-6`)**.
 
 ## Format
-Likely a technical printout, possibly with handwritten annotations by Brewster or Chen. May bear [[SDEC (San Diego Entomology Club)]] insignia or formatting.
+Likely a technical printout, possibly with handwritten annotations by Rubinsky or Zhang. May bear [[SDEC (San Diego Entomology Club)]] insignia or formatting.
 
 ## Content (Example Ruleset - Needs Finalization)
 
-**(GM Note: This is an EXAMPLE ruleset. You need to define a specific, solvable logic puzzle here. The goal is for players to deduce the 4-digit Input Code given the Output Sequence found in [[Brewster's Final Segment Sequence Log]].)**
+**(GM Note: This is an EXAMPLE ruleset. You need to define a specific, solvable logic puzzle here. The goal is for players to deduce the 4-digit Input Code given the Output Sequence found in [[Rubinsky's Final Segment Sequence Log]].)**
 
 **SDEC Broadcast Segment Randomizer - Model: CICADA-RND6**
 **Input:** 4-Digit Code (0000-9999)
@@ -39,4 +39,4 @@ Likely a technical printout, possibly with handwritten annotations by Brewster o
 **(End Example Ruleset)**
 
 ## Significance
-Provides the logical key necessary for players to solve the [[Brewster's Lockbox Puzzle]] by working backward from the known segment sequence. Confirms SDEC's technical capabilities and their method for disrupting [[EUROPA (1986-1992)]].
+Provides the logical key necessary for players to solve the [[Rubinsky's Lockbox Puzzle]] by working backward from the known segment sequence. Confirms SDEC's technical capabilities and their method for disrupting [[EUROPA (1986-1992)]].

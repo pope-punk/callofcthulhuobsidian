@@ -28,7 +28,7 @@ BSSA — wrongly, but consistently — attributes the destruction to EUROPA. Kat
 
 ## Legacy
 
-* The randomizer-tool mapping rules were left at the [[Ellensburg Numbers Station]] and survive as the basis for the [[Brewster's Lockbox Puzzle]].
+* The randomizer-tool mapping rules were left at the [[Ellensburg Numbers Station]] and survive as the basis for the [[Rubinsky's Lockbox Puzzle]].
 * Winston's memoirs and Hexagon Pages remain in the facility.
 * Chrysalis carries the institutional memory of the cell. He is, as of late October 1997, off-grid.
 

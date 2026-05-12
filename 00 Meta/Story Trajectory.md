@@ -70,7 +70,7 @@ tags: #CampaignOutline #NarrativeFlow #Act1 #Act2 #Act3 #CyclesOfRhea #Establish
 ### 2. The Ellensburg Connection & Oliver's Secret
 
 * **Tracking [[Amanda Green]] ([[Ellensburg Area, WA]]):**
-    * Locate Amanda. Get Syd's [[ErgoMatic Manufacturing]] login. Hear about [[Axon and Dendrite Recordings]] loaned to her Seattle friend. Lead toward [[Brewster's Lockbox]] / [[Maria Chen]] (the Montreal-gate chain).
+    * Locate Amanda. Get Syd's [[ErgoMatic Manufacturing]] login. Hear about [[Axon and Dendrite Recordings]] loaned to her Seattle friend. Lead toward [[Rubinsky's Lockbox]] / [[Cleo Zhang]] (the Montreal-gate chain).
 * **[[ErgoMatic Manufacturing Facility]]:**
     * Access Syd's account.
     * **[[Oliver Foxglove Emails]]:** Find final emails — Algorithm/Rhea horror sparked by *Syd's own Ylynthii doodling*; the realization that GenAssist and the tissue printer are spontaneously replicating Winston's algorithm; [[Winston's Memoirs (SDEC)]] at [[SDEC Facility]]; sensitive bio-integration research and a vacuum-sealed reagent secured in home safe; code based on Andrea Foxglove's birthday using Oliver's cipher.
@@ -78,15 +78,15 @@ tags: #CampaignOutline #NarrativeFlow #Act1 #Act2 #Act3 #CyclesOfRhea #Establish
     * Find [[Oliver Foxglove's Cipher Notes]] (Ylynthii → keypad).
     * Explore the facility; [[Signal Dummies]]/[[Spectator Grubs]] production confirmation; potential combat ([[The Mannequin Spider]]?). Find [[SDEC (San Diego Entomology Club)]] clue.
 
-### 3. The Ellensburg Numbers Station & Brewster's Lockbox
+### 3. The Ellensburg Numbers Station & Rubinsky's Lockbox
 
-* Investigate the abandoned [[Ellensburg Numbers Station]]: old "Seventh Hour" flyers, the [[SDEC Randomizer Mapping Rules]], the [[Brewster's Final Segment Sequence Log]], and the trail to Brewster's lockbox keeper ([[Professor Vance]]).
-* Solve [[Brewster's Lockbox Puzzle]]. Retrieve **[[Maria Chen]]'s contact info** in [[Portland, OR]].
+* Investigate the abandoned [[Ellensburg Numbers Station]]: old "Seventh Hour" flyers, the [[SDEC Randomizer Mapping Rules]], the [[Rubinsky's Final Segment Sequence Log]], and the trail to Rubinsky's lockbox keeper ([[Professor Vance]]).
+* Solve [[Rubinsky's Lockbox Puzzle]]. Retrieve **[[Cleo Zhang]]'s contact info** in [[Portland, OR]].
 
-### 4. Maria Chen and the Montreal Gate
+### 4. Cleo Zhang and the Montreal Gate
 
-* **Travel to Portland.** Interview [[Maria Chen]]. With sufficient trust, she discloses **[[Éric Blanc]]'s apartment address in Montreal** — the address BNJC does not have.
-* (Parallel branch: the Amanda Green → Seattle friend chain can also reach Chen.)
+* **Travel to Portland.** Interview [[Cleo Zhang]]. With sufficient trust, she discloses **[[Éric Blanc]]'s apartment address in Montreal** — the address BNJC does not have.
+* (Parallel branch: the Amanda Green → Seattle friend chain can also reach Zhang.)
 
 ### 5. Report to Nine-String
 

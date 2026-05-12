@@ -24,7 +24,7 @@ The burner number to Syd is dead. Chrysalis (his proxy to Alice) has not reporte
 
 ## What he'll do when the players bring back the Montreal number
 
-Confirm that Blanc was Alice's primary Montreal contact. Admit he has no current address or working channel. Suggest — perhaps obliquely — that the operational path to Blanc has to come through someone Alice had compartmentalized away from BNJC, which means [[Maria Chen]] via the Brewster lockbox lead. Brief the players on [[SDEC Facility|SDEC]], the Ant Trap, and Chrysalis's role as the last surviving SDEC field agent — and note that Chrysalis is now missing. Task the players with finding Alice (cure and intelligence both). Arrange [[UMSE (Upper Michigan Succulent Enthusiasts)|UMSE]] field support for Montreal once they have an address.
+Confirm that Blanc was Alice's primary Montreal contact. Admit he has no current address or working channel. Suggest — perhaps obliquely — that the operational path to Blanc has to come through someone Alice had compartmentalized away from BNJC, which means [[Cleo Zhang]] via the Rubinsky lockbox lead. Brief the players on [[SDEC Facility|SDEC]], the Ant Trap, and Chrysalis's role as the last surviving SDEC field agent — and note that Chrysalis is now missing. Task the players with finding Alice (cure and intelligence both). Arrange [[UMSE (Upper Michigan Succulent Enthusiasts)|UMSE]] field support for Montreal once they have an address.
 
 Almost all of this conversation will be at least partly overheard by [[Steven Rober (Agent Shutter)|Agent Shutter]], whom Nigel introduced to the cell two weeks earlier and has not yet realized is a mole.
 

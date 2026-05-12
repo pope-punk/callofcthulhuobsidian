@@ -13,7 +13,7 @@ Girlfriend of [[Syd Foxglove]]. Resides in or near [[Ellensburg Area, WA|Ellensb
 ## Information Provided to Investigators (Planned - Act II)
 * **Syd's Computer Access:** Possesses Syd's username/password (`doolittle567`?) or other credentials needed to access his old workstation computer at the [[ErgoMatic Manufacturing Facility]].
 * **[[Monkey Gone to Heaven (Song)]] Clue:** Confirms Syd's connection to the song/band (linking to the password clue found earlier).
-* **[[Axon and Dendrite Recordings]] Lead:** Reveals she lent her recordings of the "Axon and Dendrite" show to a friend in Seattle. This friend is the link to contacting [[Maria Chen]], who in turn can provide information about [[Éric Blanc]].
+* **[[Axon and Dendrite Recordings]] Lead:** Reveals she lent her recordings of the "Axon and Dendrite" show to a friend in Seattle. This friend is the link to contacting [[Cleo Zhang]], who in turn can provide information about [[Éric Blanc]].
 
 ## Status (Oct 1997)
 * Presumed living in the Ellensburg area. Key contact person for players needing access to Syd's ErgoMatic data and the path towards [[Éric Blanc]]. Likely cooperative if players can prove they are trying to help Syd.

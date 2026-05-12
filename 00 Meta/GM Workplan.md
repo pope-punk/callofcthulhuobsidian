@@ -25,9 +25,9 @@ Players exited COTU around Oct 10, 1997, after finding the [[Montreal Phone Numb
     * Confirmation of [[Signal Dummies]] / [[Spectator Grubs]] production.
     * Potential combat with [[The Mannequin Spider]].
     * Clue pointing to [[SDEC Facility|SDEC]].
-* **[[Ellensburg Numbers Station]]** — old "Seventh Hour" flyers, [[Brewster's Final Segment Sequence Log]], [[SDEC Randomizer Mapping Rules]], lead to [[Professor Vance]] (Brewster lockbox keeper).
-* **[[Brewster's Lockbox]] / [[Brewster's Lockbox Puzzle]]** — reverse-engineer the 4-digit passphrase, retrieve [[Maria Chen]]'s contact info.
-* **[[Maria Chen]] in Portland** — gives **Blanc's apartment address**. (Parallel branch: Amanda → Seattle friend → Chen reaches the same place.)
+* **[[Ellensburg Numbers Station]]** — old "Seventh Hour" flyers, [[Rubinsky's Final Segment Sequence Log]], [[SDEC Randomizer Mapping Rules]], lead to [[Professor Vance]] (Rubinsky lockbox keeper).
+* **[[Rubinsky's Lockbox]] / [[Rubinsky's Lockbox Puzzle]]** — collect the unopened, returned-undeliverable package from neighbor [[Professor Vance]], reverse-engineer the 4-digit combination, retrieve [[Cleo Zhang]]'s contact info.
+* **[[Cleo Zhang]] in Portland** — gives **Blanc's apartment address**. (Parallel branch: Amanda → Seattle friend → Zhang reaches the same place.)
 
 ### 3. Montreal arc
 
@@ -76,7 +76,7 @@ Winston's physical memoirs and the Hexagon Pages were never digitized. The PCBOT
 ## Standing principles
 
 * **Information pacing** — don't dump.
-* **Redundant clue paths** — every key revelation should have at least two viable discovery routes (e.g., Maria Chen via Brewster *or* via Amanda's Seattle friend).
+* **Redundant clue paths** — every key revelation should have at least two viable discovery routes (e.g., Cleo Zhang via Rubinsky *or* via Amanda's Seattle friend).
 * **Shutter surveillance** — thread the leak through every BNJC interaction from Oct 10 onward.
 * **Player agency** — the final cosmic choice has to be theirs.
 

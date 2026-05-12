@@ -24,7 +24,7 @@ Players will find the apartment **nearly ransacked but not fully sanitized**. BS
 * **Wall Calendar:** Specific days each month circled in red, annotated with single-letter codes (e.g., "S" for Syd). The next circled date is **October 20**. Cross-references trivially with the museum receipts.
 * **Museum Receipts / Membership:** A small folder of [[McCord Museum]] admission stubs and a Friends-of-the-Museum membership card. Dates on the receipts align with the circled calendar dates.
 * **Personal Photographs:** Pictures of Blanc with Alice from 1993-94 (during the EUROPA fieldwork), confirming Blanc's identity and his relationship with Alice.
-* **Notebooks (Partial):** Notes referencing the [[Operation POUTINE]] relay network, [[Maria Chen]]'s rough story, and the [[Special Committee for Artistic Innovation]] purge by Agent Plaster.
+* **Notebooks (Partial):** Notes referencing the [[Operation POUTINE]] relay network, [[Cleo Zhang]]'s rough story, and the [[Special Committee for Artistic Innovation]] purge by Agent Plaster.
 * **Signs of Struggle Not Murder:** Overturned chair near the front door, a coffee mug on its side, partial scuff marks. No blood. No corpse. Read together, the scene reads as a capture and forced exit.
 * **The Computer:** Powered down, but intact. Boots to a login prompt; encrypted home volume requires a passphrase. Files include the **PCBOT tunnel schematics** and a **PCBOT-bypass methodology for remote SDEC access**, both encrypted. Only Alice knows the passphrase.
 
@@ -53,8 +53,8 @@ Until G6 restores Alice's cognition, the schematics on the drive are useless and
 
 The apartment address is **not** known to [[Nigel Christmas (Nine-String)|Nine-String]] or anyone else at BNJC. The discoverable chain is:
 
-* [[Brewster's Lockbox]] (via the [[Brewster's Lockbox Puzzle]]) → [[Maria Chen]] in Portland → Blanc's Montreal address.
+* [[Rubinsky's Lockbox]] (via the [[Rubinsky's Lockbox Puzzle]]) → [[Cleo Zhang]] in Portland → Blanc's Montreal address.
 
-(Alternative branch: the Amanda Green → Seattle friend → Chen chain established in [[Story Trajectory|Act II]] leads to the same place.)
+(Alternative branch: the Amanda Green → Seattle friend → Zhang chain established in [[Story Trajectory|Act II]] leads to the same place.)
 
-The [[Montreal Phone Number]] found at COTU reaches a burner Blanc carried for emergency Alice contact only; it goes to voicemail under Plaster's control and is no longer useful as a primary entry vector once Chen is identified.
+The [[Montreal Phone Number]] found at COTU reaches a burner Blanc carried for emergency Alice contact only; it goes to voicemail under Plaster's control and is no longer useful as a primary entry vector once Zhang is identified.

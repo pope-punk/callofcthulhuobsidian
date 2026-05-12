@@ -112,7 +112,7 @@
 * **1987** (**Early**): Echo plateaus in strength - maximum listenership reached. Seventh Hour is terminated in favor of something with wider appeal and less risk of explosive backfiring (religious zealots being notoriously unpredictable.)
 * **1987 (Late)**: Axon and Dendrite Launched
     * [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] (Caraway faction) establishes avant-garde radio show.
-    * [[David Brewster]] and [[Maria Chen]] recruited as unwitting hosts. Show incorporates [[The Echo]] tones.
+    * [[David Rubinsky]] and [[Cleo Zhang]] recruited as unwitting hosts. Show incorporates [[The Echo]] tones.
     * [[Raymond Vaughn (Agent Rococo)|Agent Vaughn]] installs modulator at [[Ellensburg Numbers Station]] to alter tone during call-in segments. Secondary feedback loop forms around manual refinement.
     * [[EUROPA (1986-1992)]] RONIN emerges through this complex system. BSSA recognizes basilisk development unavoidably creates RONINs.
 * **1987-1991**: [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] continues to refine [[The Echo]] and distribute via "Axon and Dendrite".
@@ -133,7 +133,7 @@
 * **1992 (Late)**: SDEC Destruction
     * [[SDEC Facility|SDEC facility]] destroyed by [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Rhea Writer]] ([[SDEC Infiltrator (Specialized Agent)]]) after connecting [[Hive]] discovery to [[Winston's Memoirs (SDEC)]].
     * [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]] and other Mirror-Breakers incorrectly attribute destruction to [[EUROPA (1986-1992)]].
-    * [[David Brewster]] tortured and executed at [[Chapel of the Blessed Lamb]] site. [[Maria Chen]] survives by chance and flees to Portland.
+    * [[David Rubinsky]] tortured and executed at [[Chapel of the Blessed Lamb]] site. [[Cleo Zhang]] survives by chance and flees to Portland.
     * BSSA hastily clears out [[Ellensburg Numbers Station]] equipment and abandons [[Chapel of the Blessed Lamb]]. [[Katherine Hill]] sees SDEC destruction as confirmation that [[Mirror-Breaker Protocol]] failed.
 * **1992-1994**: [[Rhea]] begins Phase 1: Network Formation for its technological transcendence. Infrastructure integration under "strategic logistics optimization".
 
@@ -207,7 +207,7 @@
 
 ### July: Critical Intervention
 
-* **1997 (Early July):** [[Éric Blanc]] locates [[Maria Chen]] in Portland via [[Special Committee for Artistic Innovation]] records; she swears him to secrecy, preventing him from immediately telling Alice.
+* **1997 (Early July):** [[Éric Blanc]] locates [[Cleo Zhang]] in Portland via [[Special Committee for Artistic Innovation]] records; she swears him to secrecy, preventing him from immediately telling Alice.
 * **1997 (July 13)**: [[Dylan Hill (Agent Destination)|Dylan]] visits [[BNJC (Blue Note Jazz Collective)|BNJC]] last time, lies about returning to DC.
 * **1997 (July 14)**: [[Alice Redmond (Agent Altissimo)|Alice]] tails Dylan to [[Saint Anselm's Center for Hope]].
 * **1997 (July 15)**: Alice's Intervention
@@ -280,7 +280,7 @@
 
 ## Projected Next Steps (GM Planning)
 
-1. **Ellensburg / Brewster Lockbox → Maria Chen → Blanc's address.** The only viable pathway to Blanc's apartment; BNJC does not have it.
+1. **Ellensburg / Rubinsky Lockbox → Cleo Zhang → Blanc's address.** The only viable pathway to Blanc's apartment; BNJC does not have it.
 2. **Montreal Arc:** Players travel to Montreal with UMSE support, investigate the ransacked **[[Éric Blanc's Apartment]]**, recover Blanc's encrypted computer (or its drive), understand the McCord Museum trap, and intervene at the museum on the standing-protocol date (**October 20th**). Confront BSSA/[[Katherine Hill]]; rescue Syd; Blanc most likely dies in the firefight (left deliberately flexible).
 3. **G6 Synthesis:** Syd reveals need for [[Oliver Foxglove's Advanced Research Notes]] and the sealed reagent ([[THEBES]]). Players solve [[Safe Puzzle]] (Andrea Foxglove's March 1, 1925 birthday + Ylynthii cipher), retrieve the notes and reagent. Syd synthesizes [[G6 (Non-Gallium Antidote)|G6]] (oral, one-and-done).
 4. **Alice's Cure (Required Checkpoint):** Locate Alice, administer G6. **If Katherine survived Montreal she shows up here.** Cured Alice provides the passphrase to Blanc's encrypted drive and walks the team through the PCBOT-bypass methodology.

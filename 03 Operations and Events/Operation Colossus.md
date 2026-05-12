@@ -21,7 +21,7 @@ BSSA built Colossus out of three Ellensburg-area assets:
 ## The two broadcasts
 
 * **"Seventh Hour"** (1986-87). Early religious-radio test program. Tones modulated against caller vocal pitch. Produced terrifying religious visions in callers. Terminated when the basilisk's effects plateaued and the religious-zealot audience became operationally unpredictable.
-* **"Axon and Dendrite"** (1987-92). Avant-garde late-night show hosted by [[David Brewster]] and [[Maria Chen]], both unwitting. [[Raymond Vaughn (Agent Rococo)|Agent Rococo]] installed a modulator at the numbers station that reshaped The Echo in real time against caller-pitch feedback. The Echo's content drifted as the feedback loop matured — religious visions in the early years, cryptid hallucinations by the end. Methamphetamine users were noticeably more susceptible, which became its own line of research and a major source of the BSSA / [[Hammerskull Crew]] alliance.
+* **"Axon and Dendrite"** (1987-92). Avant-garde late-night show hosted by [[David Rubinsky]] and [[Cleo Zhang]], both unwitting. [[Raymond Vaughn (Agent Rococo)|Agent Rococo]] installed a modulator at the numbers station that reshaped The Echo in real time against caller-pitch feedback. The Echo's content drifted as the feedback loop matured — religious visions in the early years, cryptid hallucinations by the end. Methamphetamine users were noticeably more susceptible, which became its own line of research and a major source of the BSSA / [[Hammerskull Crew]] alliance.
 
 ## How it produced EUROPA
 
@@ -29,12 +29,12 @@ The layered feedback — Echo broadcast, real-time caller-pitch modulation, BSSA
 
 ## Collapse
 
-[[SDEC (San Diego Entomology Club)|SDEC]] detected EUROPA in early 1992. They contacted Brewster and Chen directly and gave them the **randomizer tool** ([[SDEC Randomizer Mapping Rules]]) — a four-digit-coded permuter that broke the broadcast structure EUROPA had organized around. Combined with [[Raymond Vaughn (Agent Rococo)|Rococo]] pulling the modulator out of the numbers station, EUROPA destabilized and went silent within weeks.
+[[SDEC (San Diego Entomology Club)|SDEC]] detected EUROPA in early 1992. They contacted Rubinsky and Zhang directly and gave them the **randomizer tool** ([[SDEC Randomizer Mapping Rules]]) — a four-digit-coded permuter that broke the broadcast structure EUROPA had organized around. Combined with [[Raymond Vaughn (Agent Rococo)|Rococo]] pulling the modulator out of the numbers station, EUROPA destabilized and went silent within weeks.
 
 BSSA's cleanup was swift and bloody:
 
-* Brewster captured and executed at the Chapel.
-* Chen escaped — fled to Portland under an assumed name.
+* Rubinsky captured and executed at the Chapel.
+* Zhang escaped — fled to Portland under an assumed name.
 * The numbers station and the Chapel were sanitized and abandoned.
 * SCAI's financial records were purged by Plaster.
 * When [[SDEC Facility|SDEC's facility]] was destroyed shortly after (by [[Rhea]], for the unrelated reason of having detected the [[Dead Horse Quarry]] Hive), BSSA quietly let the assumption spread that EUROPA had done it. The misattribution served Katherine's narrative perfectly and remains the official BSSA position.
@@ -42,6 +42,6 @@ BSSA's cleanup was swift and bloody:
 ## Legacy
 
 * The pivot to visual/spatial work. Parthenon and Fauxflake are direct downstream consequences.
-* The randomizer tool and Brewster's final-broadcast logs survive at the numbers station and form the basis of the [[Brewster's Lockbox Puzzle]].
-* Chen survives and is the players' only living connection to Blanc's apartment.
+* The randomizer tool and Rubinsky's final-broadcast logs survive at the numbers station and form the basis of the [[Rubinsky's Lockbox Puzzle]].
+* Zhang survives and is the players' only living connection to Blanc's apartment.
 * The Echo recordings circulate in collector hands (Amanda Green's Seattle friend) and persist as physical artifacts of what BSSA built.

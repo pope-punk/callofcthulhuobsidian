@@ -1,17 +1,17 @@
 ---
-tags: #character #NPC #contact #ally #BrewsterLockboxPuzzle #Keeper
+tags: #character #NPC #contact #ally #RubinskyLockboxPuzzle #Keeper
 ---
 ## Description
-Professor Quentin Vance (placeholder name/details) is a trusted friend and former colleague of the late [[David Brewster]]. He resides likely near Ellensburg or a related university town. Brewster entrusted him with a locked box shortly before his death in 1992.
+Quentin Vance (placeholder name) is a retired academic living near Ellensburg. He was [[David Rubinsky]]'s neighbor at the time of Rubinsky's death in 1992 — friendly, but not close. He has held an unopened, returned-undeliverable package belonging to Rubinsky for the past five years, never quite getting around to handing it over to anyone who would take it.
 
 ## Role in Plot
-* **Keeper of the Lockbox:** Vance holds the physical [[Brewster's Lockbox]] containing [[Maria Chen]]'s contact information.
-* **Guardian of the Passphrase:** He was given strict instructions by Brewster: only surrender the box to someone who provides the specific **four-digit code** that Brewster used to structure his final broadcast. He understands this code is a failsafe to ensure the box doesn't fall into the wrong hands (specifically [[BSSA (Boise Society for Sculptural Appreciation)]]).
+* **Accidental Keeper of the Lockbox:** Vance holds the physical [[Rubinsky's Lockbox]]. He did not receive it from Rubinsky directly — he collected the package off Rubinsky's porch after the post office returned it from San Diego undeliverable, several days after Rubinsky's death.
+* **No Instructions, No Agenda:** Vance was never let into Rubinsky's confidence about the contents or the purpose. He knows only that David mailed something to California, that it came back, and that David never came home. He'll surrender the package readily to anyone who shows credible interest, and is mostly relieved to be done with it.
 
 ## Interaction with Players
-* Players must locate Vance (potentially through Brewster's notes or other leads).
-* They must present the correctly deduced four-digit code obtained by solving the [[Brewster's Lockbox Puzzle]].
-* Upon receiving the correct code, Vance will recognize its significance (proof of understanding the SDEC system Brewster relied on) and relinquish the lockbox. He is likely cautious but ultimately loyal to Brewster's wishes. He may offer some limited context about Brewster's paranoia in his final days.
+* Players locate Vance by visiting Rubinsky's last known address. The lead may come from Numbers Station archives, BSSA's cover-story records, or routine canvassing.
+* Vance may offer some recollection of Rubinsky's last days — that he was paranoid, that strangers had been around, that he stopped going outside in his final weeks. He does not know the combination.
+* He has, at most, glanced at the return-to-sender markings on the package; he can confirm it was mailed to a San Diego address but cannot read further details from memory.
 
 ## Status (Late 1997)
-Presumed living, likely retired or still teaching. Holds the key physical item gated by the puzzle solution.
+Presumed living, comfortable retirement. Holds the lockbox until the players ask for it.

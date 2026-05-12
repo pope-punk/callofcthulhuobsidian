@@ -15,7 +15,7 @@ A career intelligence officer who spent his last six months gradually understand
 ## History
 
 * **1980s.** CIA field agent on [[Operation POUTINE|POUTINE]]. Met Katherine during the CIA-to-PCBOT/BSSA infrastructure handoff. Married 1988. Continued CIA supervisory role with respect to [[Operation Colossus]] until officially recruited to PCBOT in 1990.
-* **1992.** Carried out the torture and execution of [[David Brewster]] in the wake of SDEC's intervention. Returned to Boise with Katherine.
+* **1992.** Carried out the torture and execution of [[David Rubinsky]] in the wake of SDEC's intervention. Returned to Boise with Katherine.
 * **1993.** Redeployed to Sequoia Falls as PCBOT liaison under Lopez's faction plan. Primary unstated assignment: keep BNJC away from the BSSA chamber being built under [[Seventh Tabernacle Church of Life|Seventh Tabernacle]].
 * **1995.** Became BNJC's sole channel for LTX records after Caraway's coup formalized the PCBOT liaison position. Filtered out any indication of basilisk-related "leakage" from LTX shipping data.
 * **1996.** [[Saint Anselm's Center for Hope]] completed with discreet PCBOT funding.
