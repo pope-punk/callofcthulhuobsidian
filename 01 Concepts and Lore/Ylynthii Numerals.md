@@ -27,11 +27,14 @@ Digit-representation:
 -> S(5),S(6),S(7)
 	->S(5),S(1,0),S(1,1)
 	 (5,1,0) covered
-	<img width="430" height="103" alt="image" src="https://github.com/user-attachments/assets/fd8da992-e136-410c-a484-40ed5f484335" />
+	 
+<img width="430" height="103" alt="image" src="https://github.com/user-attachments/assets/fd8da992-e136-410c-a484-40ed5f484335" />
 
 
 ->S(3338)
    -> S(2,3,2,4,2)
+   ->2,3,4 covered
+   
   <img width="522" height="108" alt="image" src="https://github.com/user-attachments/assets/197de6fa-4a88-44b4-8e54-24059fdbb24c" />
 
 
