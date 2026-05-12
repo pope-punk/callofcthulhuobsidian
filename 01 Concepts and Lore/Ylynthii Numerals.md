@@ -1,17 +1,40 @@
 **Tags:** #Concept #Lore #Puzzle #Alien #YlynthOrigin
 
 ## Overview
-The numerical system used by the extinct [[Ylynth Civilization]], based on [[Hexagonal Patterns|hexagonal computational principles]]. Understanding this system is necessary to solve the [[Safe Puzzle]].
+The base-six numerical system used by the extinct [[Ylynth Civilization]], based on [[Hexagonal Patterns|hexagonal computational principles]]. Understanding this system is necessary to solve the [[Safe Puzzle]]. The Foxglove family has an unconscious knowledge of this numeral system, and find it unnaturally easy to quickly handle complex computations in base-six. 
+## History
+Winston Foxglove was the first of the Foxglove family (though not the first humans - see the Tedesco family) to use the numeral system. After the death of his mother, Henrietta, activated his royal-jelly primed Scion configuration in 1928, Winston was quickly able to step into her managerial role at Foxglove Containers and Transport, his preternatural mathematical ability perfectly suiting him to help his shattered father Thurston run the company. It was at this time that he began working extensively with the numerals, which eventually seemed to lead him to the Algorithm within himself. 
 
-## Nature & Rules
-* **Base System:** Operates on a base-6 system.
-* **Symbols:** Uses unique symbols representing numerical values.
-* **Rules:** Follows specific rules for place value and representation.
+Before long, Foxglove Containers and Transport was operating at unheard of levels of efficiency, utilizing highly complex track-switching and batch-processing control systems that can retrospectively be seen to anticipate some of the architecture of stack-based programming systems. The original calculations and design of these systems would eventually be confiscated by the FBI, transferred to the IHRU, and inherited by SDEC. 
 
-## Discovery
-* Hints and partial examples of the symbols and their basic rules are found as  carvings left by [[Syd Foxglove]] in his BSSA holding cell(s) at [[Saint Anselm's Center for Hope]] and [[Seventh Tabernacle Church of Life]]. Syd's innate [[The Foxglove Algorithm|Algorithm]] aptitude grants him subconscious access to this [[Ylynth Civilization|Ylynth]] mathematical language. Players need to find and decipher these markings.
-	* At Saint Anselm's Center for Hope, Syd has carved 1 4 8 8 (in Ylynthii) into the wall by his bedframe. 
-	* At Seventh Tabernacle, Syd has carved "5 6 7 [[Monkey Gone to Heaven (Song)|this monkey's gone to heaven]]" into the desk. 
+While working through the ideas that would become ErgoMatic, Winston attempted to teach the numerical system to his son Oliver, at a young age. Oliver never showed any particular knack for using the mathematical system until his mother, Andrea Foxglove, passed tragically. This loss activated his latent genetic proficiency. However, the connection between maternal loss and mathematical talent went unnoticed, due to his prior having been taught the system by Winston directly. 
+
+Oliver made frequent use of the system while in his father's employ at ErgoMatic, and became a significant driver of the company's technological direction in its own right. While his father was committed to prosthetics manufacture (partially motivated by a desire to pay back an imagined debt to the many victims of CALLISTO who had lost limbs in the explosion), Oliver hammered away at developing a semi-autonomous biotechnics division - convinced, for reasons he assumed were his own, that limb regrowth was the future, not limb replacement. Many of his contributions were calculated using Ylynthii numerals, but versions in base 10 were produced for use by the company's engineers and scientists.  
+
+While Winston shared his gift with his son, Oliver was far more circumspect. He grew up having seen the damage that his father's gift had wrought, and his father's lifelong contacts with IHRU and later SDEC agents gave him an acute sense of the danger wrapped up in the Algorithm. Oliver, on some level, sought reproach and reconciliation with the world which had so harshly judged his father. Therefore, Syd's spontaneous adoption of the numeral system came as an alarming surprise to Oliver when he discovered it in 1997. 
+## Occurrences 
+* Left by [[Syd Foxglove]] in his BSSA holding cell(s) at [[Saint Anselm's Center for Hope]] and [[Seventh Tabernacle Church of Life]]. 
+	* At Saint Anselm's Center for Hope, Syd has carved 3338 (in Ylynthii) into the wall by his bedframe. (This was the access code to the building at the time of his imprisonment, which is still written down as an old code at White Stag). 
+	* At Seventh Tabernacle, Syd has carved "5 6 7 [[Monkey Gone to Heaven (Song)|this monkey's gone to heaven]]" into the desk.
+* Observable in private research materials stored in Oliver Foxglove's safe with THEBES. 
+* Found throughout Winston Foxglove's materials in SDEC. 
+* Found in Giovanni Tedesco's transcriptions in Katherine's office. 
+
+## System
+Digit-representation: 
+![[Pasted image 20260512080533.png]]
+  
+-> S(5),S(6),S(7)
+	->S(5),S(1,0),S(1,1)
+	 (5,1,0) covered
+	 ![[Pasted image 20260512081707.png]]
+
+->S(3338)
+   -> S(2,3,2,4,2)
+   ![[Pasted image 20260512083023.png]] 
+    
+
+
 ## Significance
 * Direct link to the alien origin of [[The Foxglove Algorithm]] and [[Rhea]].
 * Required component for converting [[Andrea Foxglove]]'s Base-10 birthday into the correct format for [[Oliver Foxglove]]'s cipher as part of the [[Safe Puzzle]].
