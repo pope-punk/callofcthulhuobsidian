@@ -2,7 +2,7 @@
 **Tags:** #Location #SequoiaFalls
 
 ## Overview
-A large, secluded estate in the woods south of [[Sequoia Falls, WA]], a short distance from [[COTU (Center of the Universe)|COTU]] under the I-90 corridor. Formerly owned by [[Edmund White]] (deceased). Used by [[Alice Redmond (Agent Altissimo)]] as a safe house and operational base after leaving the FBI and joining [[BNJC (Blue Note Jazz Collective)|BNJC]]. Between July 17 and September 8, 1997, Alice operated from here in parallel with the COTU tunnels, moving between the two on foot or by bicycle.
+A large, secluded estate in the woods south of [[Sequoia Falls, WA]], a short distance from [[COTU (Center of the Universe)|COTU]] under the I-90 corridor. Formerly owned by [[Edmund White]] (deceased). Used by [[Alice Redmond (Agent Altissimo)]] as a safe house and operational base after leaving the FBI and joining [[BNJC (Blue Note Jazz Collective)|BNJC]]. Between July 17 and September 8, 1997 this was Alice's **primary base of operations**, with the COTU underpass serving as her resupply meet point and hunting-infrastructure access; she walked or biked between the two through the wooded corridor.
 
 ## Key Events
 * **Alice's Safehouse:** Used by Alice for several years. Likely contains remnants of her investigations into [[EUROPA (1986-1992)]] and [[BSSA (Boise Society for Sculptural Appreciation)]].
