@@ -12,10 +12,11 @@ A physical lockbox prepared by the late [[David Rubinsky]] in mid-1992, before h
 A medium-sized, fire-resistant metal lockbox, dark grey, with a standard combination lock. Practical, unornamented.
 
 ## Origin & History
-* **Origin:** Prepared and locked by [[David Rubinsky]] in mid-1992 as he realized BSSA was hunting him and that SDEC was his only safe contact.
+* **Origin:** Prepared and locked by [[David Rubinsky]] in mid-1992 as he realized BSSA was hunting him and that [[SDEC (San Diego Entomology Club)|SDEC]] was his only safe contact.
 * **Combination:** A four-digit code identical to the one Rubinsky used to permute his final "Axon and Dendrite" broadcast through the SDEC randomizer. He believed only SDEC personnel — or someone with the [[SDEC Randomizer Mapping Rules|mapping rules]] and his [[Rubinsky's Final Segment Sequence Log|final segment log]] — could derive it.
-* **Mailed to SDEC, returned undeliverable:** Rubinsky shipped the lockbox to SDEC's San Diego address. The 1992 incident had shuttered SDEC only weeks before; the package came back marked undeliverable. Rubinsky had been killed by BSSA in the interim, and the package sat on his porch for several days.
-* **Current Keeper:** [[Professor Vance]], Rubinsky's neighbor, retrieved the returned package and has held it (unopened, uninspected) ever since.
+* **Mailed to SDEC.** Rubinsky shipped the lockbox to SDEC's San Diego address. Unbeknownst to him, SDEC had just been destroyed by [[Rhea]] — punishment for using CICADA-class sonar to detect the [[Dead Horse Quarry]] [[Hive]]. The same CICADA work was what had let SDEC help Rubinsky disrupt [[EUROPA (1986-1992)|EUROPA]] in the first place; the techniques that saved him were the techniques that got SDEC killed.
+* **Returned undeliverable.** The package was sent back to Rubinsky's Ellensburg address. Rubinsky never received it: BSSA, panicking that SDEC's silence would expose [[Operation Colossus]], had already executed him at the [[Chapel of the Blessed Lamb]]. (BSSA does not know about Rhea. Their official position — pushed by [[Katherine Hill]] and accepted by [[Henry Caraway (Agent Hotel)|Caraway]] — is that EUROPA destroyed SDEC.)
+* **Current Keeper:** [[Professor Vance]], Rubinsky's neighbor, retrieved the returned package off the porch several days later and has held it (unopened, uninspected) ever since.
 
 ## Acquisition Method
 1. Locate Professor Vance via Rubinsky's last known address. Vance will hand the lockbox over without resistance — he has been waiting for someone, anyone, to take it.

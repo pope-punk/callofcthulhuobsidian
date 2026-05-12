@@ -29,15 +29,17 @@ The layered feedback — Echo broadcast, real-time caller-pitch modulation, BSSA
 
 ## Collapse
 
-[[SDEC (San Diego Entomology Club)|SDEC]] detected EUROPA in early 1992. They contacted Rubinsky and Zhang directly and gave them the **randomizer tool** ([[SDEC Randomizer Mapping Rules]]) — a four-digit-coded permuter that broke the broadcast structure EUROPA had organized around. Combined with [[Raymond Vaughn (Agent Rococo)|Rococo]] pulling the modulator out of the numbers station, EUROPA destabilized and went silent within weeks.
+[[SDEC (San Diego Entomology Club)|SDEC]] detected EUROPA in early 1992 using their CICADA-class sonar work on [[The Echo]]. They contacted Rubinsky and Zhang directly and gave them the **randomizer tool** ([[SDEC Randomizer Mapping Rules]]) — a four-digit-coded permuter that broke the broadcast structure EUROPA had organized around. Combined with [[Raymond Vaughn (Agent Rococo)|Rococo]] pulling the modulator out of the numbers station, EUROPA destabilized and went silent within weeks.
 
-BSSA's cleanup was swift and bloody:
+The same CICADA program then detected a spatial anomaly under the [[Dead Horse Quarry]] — the [[Hive]]. SDEC connected it to Winston Foxglove's memoirs. [[Rhea]], protecting the discovery, sent the [[SDEC Infiltrator (Specialized Agent)|SDEC Infiltrator]] to eliminate the cell. The Ant Trap sealed the facility. BSSA had no idea Rhea existed and saw only that SDEC had gone dark.
+
+**BSSA's panicked cleanup followed.** With SDEC silent, anyone investigating it could find the randomizer-tool intervention and pull on the thread back to Operation Colossus. BSSA moved urgently:
 
 * Rubinsky captured and executed at the Chapel.
 * Zhang escaped — fled to Portland under an assumed name.
 * The numbers station and the Chapel were sanitized and abandoned.
 * SCAI's financial records were purged by Plaster.
-* When [[SDEC Facility|SDEC's facility]] was destroyed shortly after (by [[Rhea]], for the unrelated reason of having detected the [[Dead Horse Quarry]] Hive), BSSA quietly let the assumption spread that EUROPA had done it. The misattribution served Katherine's narrative perfectly and remains the official BSSA position.
+* BSSA quietly let the assumption spread that EUROPA had destroyed SDEC. The misattribution served Katherine's narrative perfectly and became the official BSSA / [[Henry Caraway (Agent Hotel)|Caraway]]-faction position; see [[Post-SDEC Events]] for the internal political consequences, including Lopez's pushback at [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]].
 
 ## Legacy
 

@@ -4,9 +4,13 @@
 A multi-stage investigative puzzle encountered in Act II. Solving it allows the players to locate [[Cleo Zhang]] by working out the four-digit combination [[David Rubinsky]] set on a lockbox in the final weeks of his life.
 
 ## Background
-In mid-1992, with BSSA closing in and [[SDEC (San Diego Entomology Club)|SDEC]] silent, Rubinsky packed a lockbox containing Zhang's contact information and a brief letter and mailed it to SDEC's San Diego address. He locked it with a four-digit combination he believed only SDEC could derive — the same code he had used to permute his final, unaired "Axon and Dendrite" broadcast through the [[SDEC Randomizer Mapping Rules|SDEC randomizer]].
+In mid-1992, with BSSA closing in, Rubinsky packed a lockbox containing [[Cleo Zhang]]'s contact information and a brief letter, set its combination to the four-digit code he had used to permute his final "Axon and Dendrite" broadcast, and mailed it to [[SDEC (San Diego Entomology Club)|SDEC]]'s San Diego address — the only patrons he trusted.
 
-Unbeknownst to Rubinsky, the **1992 incident** had shuttered SDEC only weeks earlier. The package was returned undeliverable. By the time it arrived back in Ellensburg, Rubinsky was dead — executed by BSSA at the [[Chapel of the Blessed Lamb]]. The returned package sat on his porch for several days until his neighbor, [[Professor Vance]], collected it and held onto it, never opening it.
+What Rubinsky did not know was that SDEC had just gone dark. The same CICADA-class sonar work that had let SDEC detect [[The Echo]] (and given them the leverage to disrupt [[EUROPA (1986-1992)|EUROPA]] by handing Rubinsky and Zhang the [[SDEC Randomizer Mapping Rules|randomizer]]) had also turned up a spatial anomaly under the [[Dead Horse Quarry]] — the [[Hive]]. [[Rhea]], protecting the discovery, sent the [[SDEC Infiltrator (Specialized Agent)|SDEC Infiltrator]] to eliminate the cell. The Ant Trap sealed the facility.
+
+BSSA does not know Rhea exists. From their position, SDEC simply went silent — and that silence threatened to expose [[Operation Colossus]]: anyone investigating SDEC's death could find the randomizer-tool intervention and trace it back to BSSA's secret Echo program. **BSSA panicked**. They executed Rubinsky at the [[Chapel of the Blessed Lamb]], sanitized the [[Ellensburg Numbers Station]] and Chapel, and pushed the cover story that EUROPA had destroyed SDEC — a narrative [[Katherine Hill]] later weaponized to argue that the [[Mirror-Breaker Protocol]] had failed.
+
+Rubinsky's package was returned undeliverable to his Ellensburg address. He was already dead. The unopened package sat on his porch for several days until his neighbor, [[Professor Vance]], collected it. The lockbox has been in Vance's possession, unopened, ever since.
 
 ## The Goal
 Locate the lockbox (now held by Professor Vance), recover it, and crack the four-digit combination to reveal Zhang's location.
@@ -24,5 +28,6 @@ Locate the lockbox (now held by Professor Vance), recover it, and crack the four
 
 ## Narrative Significance
 * **Grounded Puzzle:** Integrates historical lore ([[Axon and Dendrite]], [[SDEC (San Diego Entomology Club)]], [[EUROPA (1986-1992)]], [[BSSA (Boise Society for Sculptural Appreciation)]]) into a tangible investigative challenge.
-* **Character Motivation:** Reflects [[David Rubinsky]]'s misplaced faith in SDEC — he mailed his lifeline to an organization that had already collapsed. The lockbox's survival is pure happenstance, sustained by one quietly loyal neighbor.
+* **Character Motivation:** Rubinsky's plan was sound — he sent his lifeline to the only people who could have used it. He was killed in the wake of an event that wasn't about him, but wasn't unconnected either: SDEC's CICADA work was both what helped him disrupt EUROPA and what got SDEC killed. The lockbox survives because a quietly loyal neighbor took an orphaned package off a dead man's porch.
+* **Hidden Predator:** Rhea is the unseen hand behind both SDEC's destruction and (indirectly) Rubinsky's. None of the parties involved — not Rubinsky, not BSSA, not even Lopez at PCBOT — know this. BSSA believes EUROPA killed SDEC; this misattribution is the foundation of Katherine Hill's and [[Henry Caraway (Agent Hotel)|Caraway's]] official position on the [[Mirror-Breaker Protocol]]. The truth is in [[Post-SDEC Events]].
 * **Gates Progress:** Provides a logical pathway to locating [[Cleo Zhang]], crucial for furthering the investigation into [[Operation Colossus]] and BSSA's past actions.
