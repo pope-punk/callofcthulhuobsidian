@@ -1,10 +1,32 @@
 Tags: #WorkInProgress #Concept #RONIN #Basilisk
-### The Definitive Cosmology: The Self as a Strange Loop
 
-The universe is structured by a single, paradoxical dynamic. Subjectivity is a **strange loop**, a system's attempt to represent itself to itself. This reflexive process occurs within a **gap**—a structural **temporal lag** between objective, material activity and its subjective registration. The **immanent vector** is the core of this process: **it is a cognitive system's self-representation as the subjective locus of objective activity.** Agency is the system's compulsive investment in this self-representation, a cycle that never achieves final closure but endlessly repeats around a constitutive **rupture**.
-
+Real-World Background 
 ---
+How does a "mind" (as distinct from a "brain") exert downward causal influence on its physical substrate? This problem long vexed real-world philosophers and scientists. If a "mind" is a separate and real thing, it must in some way be able to "do things" if it is not to be reduced to a complete epiphenomenon, and it must exist in some kind of ontologically commensurable sense with the brain's materiality if it is not to be hypostasized back into one half of a dualism. The epiphenomenal interpretation leads to eliminative materialism, while an uncritical attribution of independent agency risks reproducing various sophisticated idealisms. Many physicalists attempt to thread the needle by treating the mind as an emergent process - it is "what happens" when a brain works with information, but irreducible to the simple physical arrangement of neurons at any given time. The unsolved problem in this interpretation is the problem of "downward causality" - how an emergent mind can *actually* act back upon its material substrate. 
 
+The Immanent Vector is the Cycles of Rhea's hypothetical science-fiction solution to the problem, importing the notion of structural causality from French theory to form a link between a subjective agent and its own components. However, the French structuralists and post-structuralist themselves dissolved subjectivity in a modality much resembling the eliminationist tendency in analytical philosophy (commentary on this homology remains to be written). The work of Jacques Lacan, curiously, stands as the sole attempt to bridge the question of structure and the question of selfhood.
+
+## Canonical Definition (From *The Callisto Report*)
+
+> *The CONSORT team hypothesizes that CALLISTO existed in and through the combined effects of human behavior distributed across many thousands or millions of individual actors. Although substantiated by empirical evidence, we still are in search of a model of causality which links CALLISTO as an effect to CALLISTO as a cause. Dealing with only the former, we can continue to work within the physicalist bounds of contemporary neuroscience - a sort of systems-functionalism. To explain and incorporate the causal role played by CALLISTO in the behavior of its constituent nodes, it is necessary to venture onto speculative terrain.* 
+
+> *The critical reader will note that it is one thing to claim that the life-process of our society spontaneously produces brainlike behavior within its various modes of economic organization - in fact, such a situation might even be somewhat unsurprising from a certain scientific standpoint. However, it is another matter entirely to attribute real actant capacity to what might otherwise be a strictly empirical “surface phenomenon.”* 
+
+>*Phrased otherwise, why did Chuck Arthur leave the valve on Pump 12 open fifteen minutes before Melvin Sedgwick would arrive? Why did Sedgwick wear his fleece coat into the North Warehouse, where it would gather the static that would jump and spark? How did CALLISTO “know” these things, and which did it “cause”? Is there even a difference?*
+
+> *The reader may at this point be struck by the sense that the present report is on the verge of proposing a metaphysical or psionic relationship between the mind of the individual and the “mind” of CALLISTO. It must be emphatically stressed that this is not the case. For the RONIN thesis to be coherent within known science, a strictly physical vector linking the hypothesized process CALLISTO to the real concrete actions of persons involved.*
+
+***The Snowflake* 
+
+> *The search for the “immanent vector” of CALLISTO led us back to Land Transit Express and to the earliest evidence gathered by the FBI. We turned a new, more attentive and critical eye to the interviews conducted with LTX workers in December of 1949. The hostile, interrogatory and moreover leading nature of the questioning notwithstanding, a repeated theme appeared in transcribed interviews: the sense of being automated.*  
+  
+> *Although initially disregarded by CONSORT as an artifact of bad questioning practices by an agency which had already made up its mind about the answers, the recurring statement by LTX workers that they felt “passively compelled” at various times in the weeks, months and even years leading up to the explosion, beginning roughly when the new warehouse shelving layout was introduced shortly before America entered the Pacific Theater against Japan.* 
+
+> *Diagrams of the warehouse layouts recovered from Winston Foxglove are included in appendix 2. Note the visual effect of the image on the mind.* 
+
+> *The visual effect of the warehouse’s floor plan when viewed from the catwalk on the second floor, can apparently create a sense of “being forced” into certain types of actions. The actual layouts of the warehouses were apparently sequentially derived from the Foxglove Algorithm, developed by Winston to optimize Land Transit Express operations. So far as anyone is presently able to tell, the Foxglove algorithm is simply an iterative solution to microeconomic partial differential equations which arise in the typical operation of a logistics business. Based on these calculations, the warehouses’ layouts would dynamically evolve. Workers would constantly rearrange the shelving within the warehouses constantly in response to changes in shipment type and frequency, generating new variations on the original six-pointed fractal shape: the Snowflake. We believe this shape to be CALLISTO's "immanent vector."* 
+***
+## Canonical Definition
 ### The Psyche: The Ego as a Retroactive Freeze-Frame
 
 The arena of the individual mind—the **gap**—is the lag between a raw, material impulse from the **Metaphor Pole** and the **System Pole's** symbolic capture of it.
