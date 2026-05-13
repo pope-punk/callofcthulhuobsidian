@@ -17,4 +17,4 @@ Dan Calhoun is the owner or operator of Saul’s Supply Station, a hardware stor
 Presumed living and working at Saul's Supply Station as of October 1997. Acted as an early source of information for the player investigators.
 
 ---
-Tags: #character #NPC #contact #witness #storeOwner #SequoiaFalls #SeanFielding #AliceRedmond #clueSource
+Tags: #Character #NPC #Contact #witness #storeOwner #SequoiaFalls #SeanFielding #AliceRedmond #ClueSource

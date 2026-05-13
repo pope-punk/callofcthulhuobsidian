@@ -18,4 +18,4 @@ Sarah Prescott was an employee of [[LTX (Land Transit Express)|LTX]] living in [
 Deceased — died of dehydration in the trunk of her own car several days after capture on August 10, 1997. Her name appears crossed out in [[Alice's Journal (Satchel)|Alice's journal]].
 
 ---
-Tags: #character #NPC #victim #deceased #LTX #SequoiaFalls #AliceRedmond #F7 #Hexacle
+Tags: #Character #NPC #Victim #Deceased #LTX #SequoiaFalls #AliceRedmond #F7 #Hexacle

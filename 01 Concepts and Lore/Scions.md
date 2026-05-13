@@ -1,4 +1,4 @@
-**Tags:** #Concept #CognitiveConfiguration #RoyalJelly #FoxgloveAlgorithm #SystemPole #Rhea #TheFoxgloveFamily
+**Tags:** #Concept #CognitiveConfiguration #RoyalJelly #FoxgloveAlgorithm #SystemPole #Rhea #FoxgloveFamily
 
 ## Overview
 

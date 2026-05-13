@@ -17,4 +17,4 @@ Saul’s Supply Station is a hardware store located in [[Sequoia Falls, WA]]. It
 An active local business that served as an important source of early clues and witness testimony regarding Sean Fielding and Alice Redmond.
 
 ---
-Tags: #location #SequoiaFalls #hardwareStore #business #DanCalhoun #AliceRedmond #SeanFielding #witness #clueSource
+Tags: #Location #SequoiaFalls #hardwareStore #business #DanCalhoun #AliceRedmond #SeanFielding #witness #ClueSource

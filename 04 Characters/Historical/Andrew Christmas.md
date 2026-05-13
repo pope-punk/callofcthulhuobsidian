@@ -16,4 +16,4 @@ Andrew Christmas (1899-1949) was associated with the investigation into the [[CA
 Deceased. Killed on December 6th, 1949, when the initial [[CALLISTO (1949)|CALLISTO]] explosion in Tacoma struck the temporary dockside FBI field office he was in.
 
 ---
-Tags: #character #NPC #historical #deceased #FBI #CONSORT #CALLISTO #ChristmasFamily
+Tags: #Character #NPC #Historical #Deceased #FBI #CONSORT #CALLISTO #ChristmasFamily

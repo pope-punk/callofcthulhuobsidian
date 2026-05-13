@@ -16,4 +16,4 @@ Richard Harmon served as the "Transitional CEO" of [[LTX (Land Transit Express)|
 His status after the merger completed in January 1997 is not detailed. He successfully fulfilled his role as transitional CEO.
 
 ---
-Tags: #character #NPC #businessman #CEO #LTX #AmericanMeridian #merger #ErgoMaticRef #RheaRef #unaware
+Tags: #Character #NPC #businessman #CEO #LTX #AmericanMeridian #merger #ErgoMaticRef #RheaRef #unaware

@@ -1,3 +1,4 @@
+**Tags:** #Item #Chemical #BSSA #HammerskullCrew #OperationColossus #ProjectOzymandias #TheEcho
 
 ## Description
 

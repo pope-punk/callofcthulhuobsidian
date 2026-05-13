@@ -17,4 +17,4 @@ Michael Brewer had left the Center of the Universe before the F7 overdose incide
 
 
 ---
-Tags: #character #NPC #COTU #homeless #professor #astronomy #F7 #SaintAnselms #HexacleImmunity
+Tags: #Character #NPC #COTU #homeless #professor #astronomy #F7 #SaintAnselms #HexacleImmunity

@@ -18,4 +18,4 @@ Jacqui Lopez, known by the code name **Director Javelin**, was formerly associat
 Alive, and still in charge at VTFT.
 
 ---
-Tags: #character #NPC #historical #AgentJavelin #PCBOT #VTFT #MirrorBreaker #factionConflict
+Tags: #Character #NPC #Historical #AgentJavelin #PCBOT #VTFT #MirrorBreaker #factionConflict

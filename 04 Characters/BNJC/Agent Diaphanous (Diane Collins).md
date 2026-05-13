@@ -15,4 +15,4 @@ Agent Diaphanous was an operative belonging to the [[SDEC (San Diego Entomology 
 Presumed deceased. Killed during the destruction of the [[SDEC Facility|SDEC facility]] by a [[Writers|Rhea Writer]] in late 1992. [[Agent Chrysalis|Agent Chrysalis]] was the known survivor.
 
 ---
-Tags: #character #NPC #agent #SDEC #deceased #historical #discovery #Rhea #Hive #DeadHorseQuarry
+Tags: #Character #NPC #Agent #SDEC #Deceased #Historical #discovery #Rhea #Hive #DeadHorseQuarry

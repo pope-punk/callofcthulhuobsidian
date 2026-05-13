@@ -1,4 +1,4 @@
-	**Tags:** #Concept #Lore #Puzzle #Alien #YlynthOrigin #authorVoice
+**Tags:** #Concept #Lore #Puzzle #Alien #YlynthOrigin #authorVoice
 
 ## Overview
 The base-six numerical system used by the extinct [[Ylynth Civilization]], based on [[Hexagonal Patterns|hexagonal computational principles]]. Understanding this system is necessary to solve the [[Safe Puzzle]]. The Foxglove family has an unconscious knowledge of this numeral system, and find it unnaturally easy to quickly handle complex computations in base-six. 

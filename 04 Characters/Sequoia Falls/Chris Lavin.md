@@ -1,4 +1,4 @@
-**Tags:** #character #NPC #SequoiaFalls #stub
+**Tags:** #Character #NPC #SequoiaFalls #stub
 
 ## Original Notes
 Chris Lavin - Sean Fielding’s “best friend” 

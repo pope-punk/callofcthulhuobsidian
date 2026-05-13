@@ -16,4 +16,4 @@ The Schwartz family are key members of the [[Hammerskull Crew]] based in [[Sequo
 * **[[BSSA (Boise Society for Sculptural Appreciation)|BSSA]]**: The Hammerskulls, likely including the Schwartzes, provide muscle, security (e.g., for [[Seventh Tabernacle Church of Life]]), and a drug distribution network for BSSA operations.
 
 ---
-Tags: #group #family #NPC #HammerskullCrew #WhiteStagBar #criminal #meth #BSSARef #SequoiaFalls
+Tags: #group #Family #NPC #HammerskullCrew #WhiteStagBar #Criminal #meth #BSSARef #SequoiaFalls

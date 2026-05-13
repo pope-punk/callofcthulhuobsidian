@@ -1,3 +1,5 @@
+**Tags:** #Meta #Timeline #PostSDEC #EUROPA #SDEC #authorVoice
+
 - **Mid-1992: EUROPA Disrupted, SDEC Destroyed**
     
     - **Actual Events:** [[SDEC (San Diego Entomology Club)|SDEC]] disrupts the [[BSSA (Boise Society for Sculptural Appreciation)|BSSA]]-created [[EUROPA (1986-1992)|EUROPA]] RONIN by interfering with [[The Echo]] basilisk broadcasts. [[Agent Chrysalis]] reports BSSA Agent [[Raymond Vaughn (Agent Rococo)|Rococo's]] involvement to [[Jacqui Lopez (Director Javelin)|Lopez]] at [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]]. Shortly after, SDEC detects the [[Dead Horse Quarry]] anomaly and links it to [[Winston Foxglove|Winston's]] memoirs. A [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Rhea agent]] infiltrates, eliminates personnel, and triggers the "Ant Trap" containment protocol to silence this discovery.

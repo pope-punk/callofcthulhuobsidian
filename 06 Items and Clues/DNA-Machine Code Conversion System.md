@@ -18,4 +18,4 @@ The **DNA-Machine Code Conversion System** is a technology developed by [[Oliver
 * **[[GenAssist Universal Tissue Printer|GenAssist]] Connection**: Likely works in close concert with Syd Foxglove's GenAssist printer, which creates the synthetic Grubs whose DNA this system decodes.
 
 ---
-Tags: #technology #concept #DNA #machineCode #interface #SignalDummies #SpectatorGrubs #Rhea #econosphere #ErgoMatic #OliverFoxglove #FoxgloveAlgorithm
+Tags: #technology #Concept #DNA #machineCode #interface #SignalDummies #SpectatorGrubs #Rhea #econosphere #ErgoMatic #OliverFoxglove #FoxgloveAlgorithm

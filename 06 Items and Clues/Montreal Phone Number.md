@@ -1,4 +1,4 @@
-**Tags:** #item #clue #phone #Montreal #SydFoxglove #EricBlanc #COTU #discovery #intelligenceLeak #BSSA #compromised
+**Tags:** #Item #Clue #phone #Montreal #SydFoxglove #EricBlanc #COTU #discovery #intelligenceLeak #BSSA #Compromised
 
 ## Description
 A clue discovered by the investigators: phone number **514-874-2313**.

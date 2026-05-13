@@ -11,4 +11,4 @@ Portland, Oregon is a major city in the Pacific Northwest.
 * **[[Polybius]] Connection (Potential)**: The real-world urban legend of the Polybius arcade game is often associated with Portland in the early 1980s. This could be linked to [[Anselm Chambers (Deacon)|Andrew Chamberlain]]'s early work or other proto-infohazard events in the campaign's backstory.
 
 ---
-Tags: #location #city #Portland #Oregon #MariaChen #AxonAndDendriteRef #OperationColossusRef #PolybiusRef
+Tags: #Location #city #Portland #Oregon #MariaChen #AxonAndDendriteRef #OperationColossusRef #PolybiusRef

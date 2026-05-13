@@ -13,4 +13,4 @@ Several pages consisting of fractal hexagon patterns found at the end of one of 
 * **Revelation**: Successfully decoding these pages reveals the location and nature of Winston's encounter, confirming the link between the Foxgloves, the Algorithm, Rhea, and the primary Hive entrance. This is a key step towards the campaign's endgame.
 
 ---
-Tags: #item #clue #artifact #WinstonFoxglove #memoir #hexagon #encoded #SDEC #Rhea #Hive #DeadHorseQuarry #SydFoxglove #G6 #FoxgloveAlgorithm #infohazard #endgame
+Tags: #Item #Clue #artifact #WinstonFoxglove #memoir #hexagon #encoded #SDEC #Rhea #Hive #DeadHorseQuarry #SydFoxglove #G6 #FoxgloveAlgorithm #Infohazard #Endgame

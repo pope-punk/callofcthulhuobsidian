@@ -1,5 +1,5 @@
 
-**Tags:** #Location #SequoiaFalls #Hammerskull #AntagonistHQ
+**Tags:** #Location #SequoiaFalls #HammerskullCrew #AntagonistHQ
 
 ## Overview
 A bar located in the industrial district of [[Sequoia Falls, WA]]. Serves as the primary headquarters and hangout for the [[Hammerskull Crew]] neo-Nazi organization.
