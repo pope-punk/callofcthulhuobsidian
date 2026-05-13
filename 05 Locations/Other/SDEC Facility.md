@@ -1,12 +1,12 @@
 **Tags:** #Location #MirrorBreaker #Historical #SanDiego #SealedSite #Endgame
 
 ## Overview
-The former SDEC field office in San Diego, sealed since 1992 under the "Ant Trap" containment protocol. Holds [[Winston's Memoirs (SDEC)|Winston Foxglove's original memoirs]] — including the [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]] at their end — and most of SDEC's surviving archives.
+The former SDEC field office in San Diego, sealed since 1992 under the "Ant Trap" containment protocol. Holds [[Winston's Memoirs (SDEC)|Winston Foxglove's original memoirs]] — including the [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]] at their end — and the entirety of SDEC's surviving archives.
 
-The Hexagon Pages are the campaign's late-act revelation document. The team gets there in two stages:
+SDEC was an air-gapped facility by [[Mirror-Breaker Protocol|Mirror-Breaker doctrine]]: no networked records, no remote terminals, nothing extractable over a wire. Everything that matters at SDEC is paper, sample, or hardware, behind the Ant Trap. Reaching it takes two stages:
 
-1. **Remote session at [[PCBOT Headquarters]] (Act III, first leg).** Alice's decrypted bypass methodology opens a terminal into SDEC's internal network from the PCBOT secure archives cluster. Most of the digital archive comes out this way: case files, RONIN research, the SDEC randomizer-tool documentation, communications with BNJC and Lopez's PCBOT faction up to 1992.
-2. **In-person retrieval at SDEC itself (Act III, second leg).** Winston's actual physical memoirs — and specifically the original Hexagon Pages — are **not** on the network. They were transferred in from IHRU after 1979 as paper and were never digitized. The team has to walk in and get them.
+1. **Remote Ant Trap override at [[PCBOT Headquarters]] (Act III, first leg).** PCBOT's control center is the only place from which SDEC's seal can be disengaged remotely. Using the [[SDEC Ant Trap Protocol Documents]] Alice quietly stole from PCBOT pre-coup (and the procedure she and Blanc worked up against [[Agent Chrysalis]]'s sonar readings between 1994 and 1996), the team executes the override from PCBOT's console. *Nothing is extracted in this step.* The seal just opens.
+2. **In-person retrieval at SDEC itself (Act III, second leg).** With the Ant Trap disengaged, the team can physically enter the San Diego facility, deal with the residual interior hazards, and walk Winston's memoirs and the Hexagon Pages back out.
 
 ## SDEC in Brief
 
@@ -22,17 +22,18 @@ Rhea sent the [[SDEC Infiltrator (Specialized Agent)|SDEC Infiltrator]] — most
 
 ## The Ant Trap
 
-A facility-wide automated lockdown. Active defenses include the [[BRACHINUS Class Turrets]] (neurotoxic aerosol), infohazardous traps, and possibly lingering Infiltrator constructs. The trap was designed by SDEC as a contingency against external compromise; it's now what's keeping their own records away from anyone alive.
+A facility-wide automated lockdown. The primary seal disengages remotely from PCBOT; the deeper interior defenses do not. Active hazards include the [[BRACHINUS Class Turrets]] (neurotoxic aerosol), infohazardous traps, and possibly lingering Infiltrator constructs. The trap was designed by SDEC as a contingency against external compromise; PCBOT inherited the override authority during the post-1992 cleanup but, after Caraway's coup, has never used it.
 
 ## How the Team Gets Through
 
-* **The PCBOT bypass** doesn't break the Ant Trap — it just opens a read-only terminal session by piggybacking on a maintenance channel SDEC never closed. Useful for the digital archive, useless against the physical contents of the safe room.
-* **Chrysalis's biometrics** can, in principle, bypass the trap on-site. He is the fallback. If Alice never gets a chance to run the remote bypass, or if Caraway burns the secure archives before the team gets there, the campaign reroutes through finding Chrysalis (see [[Agent Chrysalis]]).
+* **The PCBOT remote override** disengages the Ant Trap's primary seal. This is the campaign's intended pathway — see [[PCBOT Headquarters]].
+* **Chrysalis's biometrics** can, in principle, bypass the Ant Trap on-site. He is the fallback. If the PCBOT operation collapsed and the override was never issued, or if the team can't reach PCBOT at all, the campaign reroutes through finding Chrysalis (see [[Agent Chrysalis]]).
 * **Brute force** isn't viable — the building is designed to kill anyone trying it.
 
 ## What's Inside (in person)
 
 * Winston's memoirs and the Hexagon Pages (top priority).
 * SDEC's randomizer tool itself (the rules and Rubinsky's log are recoverable elsewhere, but the actual hardware is here).
+* SDEC's paper case files, RONIN research, BNJC and Lopez-faction correspondence up to 1992 — none of it digitized, none of it accessible anywhere else.
 * Whatever the Infiltrator left behind.
 * Personnel effects, files Lopez's faction never got to retrieve.

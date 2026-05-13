@@ -7,4 +7,4 @@ Automated defensive turrets emplaced throughout the [[SDEC Facility]] in San Die
 Active under the "Ant Trap" containment protocol that sealed the facility in 1992. Triggered by motion or by failed access attempts at internal checkpoints; the toxin is fast-acting and indiscriminate, designed to ensure that anything moving through the sealed wings does not reach the central archives.
 
 ## Status
-Operational. A central hazard for any on-site visit to SDEC (now an optional follow-up after the remote-terminal extraction at PCBOT).
+Operational. A central hazard for the team's mandatory on-site visit to SDEC, after the Ant Trap's primary seal is remotely disengaged from PCBOT. The turrets are part of the deeper interior defenses, which the PCBOT override does not touch.

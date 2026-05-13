@@ -31,7 +31,7 @@ Players exited COTU around Oct 10, 1997, after finding the [[Montreal Phone Numb
 
 ### 3. Montreal arc
 
-* **[[Éric Blanc's Apartment]]** — ransacked; calendar with **October 20** circled; admission receipts; signs of struggle but no body; encrypted computer with PCBOT bypass methodology behind a passphrase only Alice knows.
+* **[[Éric Blanc's Apartment]]** — ransacked; calendar with **October 20** circled; admission receipts; signs of struggle but no body; encrypted computer holding PCBOT facility schematics and the [[SDEC Ant Trap Protocol Documents]] Alice stole pre-coup, all behind a passphrase only Alice knows.
 * **[[McCord Museum]] ambush** — **October 20, 1997**. Layout, BSSA tactical setup (lights cut, NVGs), Syd's approach route, UMSE coordination, [[Katherine Hill]] confrontation, multiple escape outcomes.
 * **Exfil with Syd, computer/drive, and possibly Blanc.** Blanc's death left deliberately flexible — kill him during the firefight, en route, or off-screen as needed at the table.
 
@@ -41,27 +41,26 @@ Players exited COTU around Oct 10, 1997, after finding the [[Montreal Phone Numb
 * **[[Safe Puzzle]]** — [[Andrea Foxglove]]'s birthday (March 1, 1925) + Ylynthii base-6 + Oliver's keypad cipher = safe code. Author a step-by-step worked example for the GM, plus the player-facing handout artifacts.
 * **[[Oliver Foxglove's Advanced Research Notes]]** — what the notes describe, plus the vacuum-sealed [[THEBES]] reagent as the literal prop.
 * **G6 synthesis** — at McGill or back in Sequoia Falls. Oral, one-and-done.
-* **Alice recovery in the [[Sewers and Maintenance Tunnels]]** — sewer map, Alice's F7 behavior, non-lethal capture options, oral G6 administration, lucidity moment, passphrase reveal, walk-through of the PCBOT methodology. **If Katherine survived Montreal, stage her interference here.**
+* **Alice recovery in the [[Sewers and Maintenance Tunnels]]** — sewer map, Alice's F7 behavior, non-lethal capture options, oral G6 administration, lucidity moment, passphrase reveal, walk-through of the Ant Trap override procedure. **If Katherine survived Montreal, stage her interference here.**
 
 ### 5. PCBOT excursion (DC)
 
 * **[[PCBOT Headquarters]]** — tourist cover layout, security protocols, guard rotations.
 * **[[VTFT (Virginia Track & Field Team)|VTFT]] coordination** — outside diversion.
-* **Interior encounters** — secure archives terminal cluster, [[G5 (Gallium-stabilized Amphetamine Complex)|G5]] cold storage, Katherine's office (potentially intact and lootable), Baggage Claim. Guest Suite is empty — Chrysalis was never here.
-* **Alice executes the bypass** — what she sees on screen, what the SDEC digital archive yields, the explicit fact that Winston's physical memoirs are **not** on the network.
+* **Interior encounters** — control center, [[G5 (Gallium-stabilized Amphetamine Complex)|G5]] cold storage, Katherine's office (potentially intact and lootable), Baggage Claim. Guest Suite is empty — Chrysalis was never here.
+* **Ant Trap remote override** — Alice and the team reach the control center and execute the override using the [[SDEC Ant Trap Protocol Documents]] from Blanc's drive. SDEC's seal disengages from a continent away. Nothing else is extracted — there is no SDEC archive to pull. Mechanism still TBD (likely some combination of Alice's Mirror-Breaker fluency, the stolen docs, and the live PCBOT console).
 * **[[Henry Caraway (Agent Hotel)|Caraway]] confrontation.** Caraway dies if the mission succeeds.
-* **"Departing Flight" countdown** — abort/jam mechanics.
-* **Alice's chemical decryption** — G5 vs G6 vs G6+F7 consequences; [[BNJC Radiometry Array]] jam.
+* **"Departing Flight" countdown** — abort/jam mechanics. Triggered by Caraway in response to the infiltration, *not* by the override itself.
+* **Alice's chemical decryption** — G5 vs G6 vs G6+F7 consequences; [[BNJC Radiometry Array]] jam. This is Alice's sacrifice — for the airstrike jam, not for the override (already done by this point).
 
 ### 6. SDEC in person (required — not optional)
 
-Winston's physical memoirs and the Hexagon Pages were never digitized. The PCBOT bypass extracts SDEC's digital archive only; physical retrieval is its own mission.
+The PCBOT override disengages the Ant Trap remotely. Physical retrieval at the San Diego facility is still required: Winston's memoirs and the Hexagon Pages are paper, on-site, and never networked — that's [[Mirror-Breaker Protocol|Mirror-Breaker doctrine]], not accident.
 
-* **Approach to [[SDEC Facility]]** — sealed building in San Diego, dormant since 1992.
-* **The Ant Trap** — automated facility-wide lockdown. The PCBOT bypass does not break it.
-* **Defenses** — [[BRACHINUS Class Turrets]] (neurotoxic aerosol), infohazard traps, possible lingering [[SDEC Infiltrator (Specialized Agent)]] hazard.
+* **Approach to [[SDEC Facility]]** — sealed building in San Diego, dormant since 1992. Ant Trap is now disengaged from the PCBOT side.
+* **Residual defenses** — [[BRACHINUS Class Turrets]] (neurotoxic aerosol), interior infohazard traps not tied to the Ant Trap, possible lingering [[SDEC Infiltrator (Specialized Agent)]] hazard.
 * **The retrieval objective** — Winston's paper memoirs and the Hexagon Pages from a back-office safe room.
-* **Fallback pathway:** if the PCBOT operation collapsed (Alice didn't make it, archives were burned), the team must find [[Agent Chrysalis]] in hiding and bring him along for biometric entry. He's the only living person with SDEC field credentials.
+* **Fallback pathway:** if the PCBOT operation collapsed (override never issued, Alice didn't make it), the team must find [[Agent Chrysalis]] in hiding and bring him along for biometric entry. He's the only living person with SDEC field credentials.
 
 ### 7. Endgame
 
