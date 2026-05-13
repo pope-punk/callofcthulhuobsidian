@@ -2,7 +2,9 @@
 
 ## Overview
 
-**Operation Parthenon** is BSSA's current flagship: a deliberate attempt to cultivate a stable, controllable RONIN ([[IO (Emerging 1997)]]) around a visual/spatial basilisk ([[Fauxflake]]). Initiated 1993, brought to operational state 1995, currently active under [[Katherine Hill]]'s direction. The cradle is the underground chamber beneath the [[Seventh Tabernacle Church of Life]].
+**Operation Parthenon** is BSSA's current flagship. Officially, to almost everyone knowledgeable about it, it is a secret and illegal Basilisk weaponization project, continuing the clandestine work of Colossus to create a deployable psychoeffective version of the Snowflake (the [[Fauxflake]]) for use by the CIA. Of course, creating a Basilisk requires a deliberate attempt to cultivate a stable, controllable RONIN ([[IO (Emerging 1997)]]) around it - RONIN are Basilisks in motion. To everyone but Katherine, IO is simply either a necessary risk or ontologically nonexistent, an artifact of the IHRU's discredited way of thinking. But to Katherine, IO is the real goal of Operation Parthenon. Ever since [[GANYMEDE (1979)]], she seeks a symbolic communion through RONIN which was always-already foreclosed to her by her [[Seer Configuration]].
+
+Initiated 1993, brought to operational state 1995, currently active under [[Katherine Hill]]'s direction. The cradle is the underground chamber beneath the [[Seventh Tabernacle Church of Life]]. [[Project Ozymandias]] is its chemical counterpart: where Parthenon aims to create the weaponized Basilisk for use against enemies, Ozymandias aims to create the protective measures needed to insulate the wielder against its effects. As of 1997, neither project is complete: the [[Fauxflake]] remains far too weak to be effective as a weapon when translated into a deployable 2d representation, while F7 continues to induce psychological impairments far too long-lasting and far too debilitating to be useful as a prophylactic for field agents.
 
 ## The thinking behind it
 
