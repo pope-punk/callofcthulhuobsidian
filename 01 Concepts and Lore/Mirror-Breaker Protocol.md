@@ -15,6 +15,7 @@ The name is literal. If a RONIN coheres by "seeing itself" in the mirror of a sy
 3. **Compartmentalize.** Strict need-to-know. *Your ignorance may be a zero through which the circuit cannot be completed.*
 4. **Process, not object.** The threat is not a thing to be located and destroyed. It is an emergent process your own actions can either feed or starve.
 5. **Improvise.** Be a rogue thought in the system. Predictable agents are recognizable agents.
+6. **Air-gap by default.** Sensitive records are paper, sample, or hardware. Networked archives are reflective surfaces; a RONIN that finds one finds everything connected to it. Cells maintain no remote-access pathways into their own holdings — by doctrine, not convenience. The clearest expression of this is the sealed [[SDEC Facility]], whose entire archive remains on paper and on-site; the practical consequence for the late campaign is that no amount of remote infiltration of any Mirror-Breaker site yields the contents of any other.
 
 ## The Network
 

@@ -20,7 +20,7 @@ His response — the contingency he is prepared to deploy if the situation escal
 
 ## Role in the campaign
 
-PCBOT HQ is the Act III primary objective. Not because of Chrysalis (he's not there) and not because Caraway is the campaign's final villain (he isn't) — because the secure terminal cluster on PCBOT's classified floor is the only doorway into [[SDEC Facility|SDEC]]'s digital archive. The team breaks in to run Alice's bypass and to jam the Departing Flight strike. If the operation succeeds, Caraway dies at PCBOT HQ.
+PCBOT HQ is the Act III primary objective. Not because of Chrysalis (he's not there) and not because Caraway is the campaign's final villain (he isn't) — because the control center on PCBOT's classified floor is the only place from which [[SDEC Facility|SDEC]]'s physical Ant Trap can be remotely disengaged. The team breaks in to execute that override using the [[SDEC Ant Trap Protocol Documents]] Alice stole pre-coup, and to jam the Departing Flight strike Caraway triggers in response. If the operation succeeds, Caraway dies at PCBOT HQ.
 
 PCBOT's own internal containment protocol — used if the secure floor is breached beyond recovery — is "**The Scenic Route**," triggered by a disabled hotel keycard.
 

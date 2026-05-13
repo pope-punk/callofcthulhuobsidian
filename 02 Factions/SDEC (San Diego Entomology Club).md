@@ -16,7 +16,7 @@ The physical facility is the [[SDEC Facility]] in San Diego, sealed since 1992.
 
 ## Operations
 
-* **CICADA-class sonar/radar.** SDEC's signature technology. Used to detect anomalous signal and spatial structures. Produced both the Dead Horse Quarry detection and (in 1994-96, post-destruction, through Chrysalis) the 3D tunnel mapping of PCBOT HQ that Alice and Blanc later turned into the encrypted bypass methodology.
+* **CICADA-class sonar/radar.** SDEC's signature technology. Used to detect anomalous signal and spatial structures. Produced both the Dead Horse Quarry detection and (in 1994-96, post-destruction, through Chrysalis) the 3D facility mapping of PCBOT HQ that Alice and Blanc folded together with the [[SDEC Ant Trap Protocol Documents]] she had stolen pre-coup, yielding the encrypted Ant Trap remote-override procedure.
 * **EUROPA disruption (mid-1992).** SDEC detected the emerging [[EUROPA (1986-1992)|EUROPA]] RONIN, identified its dependence on The Echo broadcasts, and gave the "Axon and Dendrite" hosts a **randomizer tool** plus its [[SDEC Randomizer Mapping Rules|mapping rules]]. A four-digit code dictated the permutation of the show's six broadcast segments, breaking the predictability EUROPA needed. The intervention worked.
 * **The Quarry detection.** While operating CICADA sonar in the region, Diaphanous picked up a spatial anomaly under [[Dead Horse Quarry]]. SDEC connected it to the Hexagon Pages in [[Winston's Memoirs (SDEC)|Winston Foxglove's memoirs]] (which SDEC had inherited from IHRU). The connection — that Winston had had a *physical* encounter with whatever was making the anomaly — was correct. It was also fatal.
 

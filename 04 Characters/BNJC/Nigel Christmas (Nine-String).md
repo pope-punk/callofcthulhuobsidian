@@ -36,7 +36,7 @@ Nine-String's picture of the actual situation is built almost entirely from Alic
 Nigel is the only BNJC officer who knows that **Blanc was Alice's longtime EUROPA-era contact** and that Alice sent Syd to him in July 1997. He does **not** know:
 
 * Blanc's apartment address. Alice never gave it to him. Their channel ran through Alice exclusively.
-* That Blanc and Alice assembled the encrypted PCBOT-bypass methodology and stored it on Blanc's drive.
+* That Alice stole the [[SDEC Ant Trap Protocol Documents]] from PCBOT pre-coup, that she and Blanc later assembled an Ant Trap remote-override package around them, or that the encrypted result is on Blanc's drive.
 * That Blanc has been captured (not killed, not merely silent).
 
 The burner number to Syd is dead. Chrysalis (his proxy to Alice) has not reported in since COTU. He has lost most of his operational visibility into Alice's situation simultaneously.
