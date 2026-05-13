@@ -1,3 +1,4 @@
+Tags: #WorkInProgress #Concept #RONIN #Basilisk
 ### The Definitive Cosmology: The Self as a Strange Loop
 
 The universe is structured by a single, paradoxical dynamic. Subjectivity is a **strange loop**, a system's attempt to represent itself to itself. This reflexive process occurs within a **gap**—a structural **temporal lag** between objective, material activity and its subjective registration. The **immanent vector** is the core of this process: **it is a cognitive system's self-representation as the subjective locus of objective activity.** Agency is the system's compulsive investment in this self-representation, a cycle that never achieves final closure but endlessly repeats around a constitutive **rupture**.
@@ -10,7 +11,7 @@ The arena of the individual mind—the **gap**—is the lag between a raw, mater
 
 - The **immanent vector** is the **ego, the "I-did-that," the subjective process freeze-framed into a personal identity.** It is the story the System Pole tells a moment too late, creating a stable "I" to which the chaotic energies of the material mind can be attributed. Agency is the performance of this identity, a strange loop where a self-representation is forever produced by the very actions it claims to have authored.
     
-- **The Rupture**: This freeze-frame can never contain the fluid process of the psyche. A basilisk shatters this symbolic frame, exposing the pre-subjective machinery beneath. The resulting amnesia is the violent collapse of the loop, the system forgetting it ever saw the void that its identity is meant to conceal.
+- **The Rupture**: Rhea's repression hole-punched the Metaphorical Pole in the central node of the human brain's computational architecture, structurally castrating the individual by preventing them from either having totally transparent self-access to their own underlying cognitive machinery. This internalized gap enables the loop which permits the existence of the individual subject itself, and is indeed the constitutive lack over which the ego is papered as the identity the subject must constantly perform but can never fully embody. 
     
 
 ---

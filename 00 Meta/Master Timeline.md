@@ -1,4 +1,4 @@
-**Tags:** #Timeline #Lore #History
+**Tags:** #Timeline #Lore #History #authorVoice
 
 ## Cosmic Origins
 
@@ -101,17 +101,17 @@
 * **1986 (Early)**: BSSA Establishes in Ellensburg
     * [[Chapel of the Blessed Lamb]] established as BSSA front, led by [[Anselm Chambers (Deacon)]].
     * Jacob Wise and Erin Cross serve as lieutenants (former [[Polybius]] addicts).
+    * Anselm Chambers' [[Polybius]] cult infrastructure leveraged for organizational control and initial membership.
     * [[Ellensburg Numbers Station]] repurposed from [[Operation POUTINE]] relay.
 * **1986 (Mid)**: [[Operation Colossus]] Begins
     * [[Katherine Hill]] launches operation.
-    * Early experiments use [[The Foxglove Algorithm]] fragments to create person-machine feedback loops with modulated tone sequences ([[The Echo]]).
+    * Early experiments use [[The Foxglove Algorithm]] fragments to create person-machine feedback loops with modulated tone sequences ([[The Echo]]), modeled on Chamberlain's game-user loops from his Polybius machines. 
     * Chapel launches "Seventh Hour" radio program using Numbers Station. Broadcasts church content with subliminal tones modulated by caller voice pitch. Callers report terrifying visions.
-* **1986 (Early)**: [[Operation Colossus]] Development
-    * **Key Addition**: BSSA discovers [[Methamphetamine]] users most affected by [[The Echo]]. Begins experimenting with stimulant-enhanced responses, using users supplied by [[Hammerskull Crew]]. Component terminated after test subject suicide (June 1986).
-    * Chemical research redirected toward developing basilisk prophylactic (proto-[[F7 (Fluoroxepram)]]/HFD), based on LSD-derivatives. Lab constructed beneath [[White Stag Bar]].
+    * BSSA discovers [[Methamphetamine]] users most affected by [[The Echo]]. Begins experimenting with stimulant-enhanced responses, using users supplied by [[Hammerskull Crew]]. Component terminated after test subject suicide (June 1986).
+	    * Chemical research redirected toward developing basilisk prophylactic (proto-[[F7 (Fluoroxepram)]]/HFD), based on LSD-derivatives. Lab constructed beneath [[White Stag Bar]].
 * **1987** (**Early**): Echo plateaus in strength - maximum listenership reached. Seventh Hour is terminated in favor of something with wider appeal and less risk of explosive backfiring (religious zealots being notoriously unpredictable.)
 * **1987 (Late)**: Axon and Dendrite Launched
-    * [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] (Caraway faction) establishes avant-garde radio show.
+    * [[PCBOT (Pacific Coast Board of Tourism)|PCBOT]] (Caraway faction) helps BSSA establish avant-garde radio show as successor to Seventh Hour.
     * [[David Rubinsky]] and [[Cleo Zhang]] recruited as unwitting hosts. Show incorporates [[The Echo]] tones.
     * [[Raymond Vaughn (Agent Rococo)|Agent Vaughn]] installs modulator at [[Ellensburg Numbers Station]] to alter tone during call-in segments. Secondary feedback loop forms around manual refinement.
     * [[EUROPA (1986-1992)]] RONIN emerges through this complex system. BSSA recognizes basilisk development unavoidably creates RONINs.
@@ -237,9 +237,9 @@
 * **1997 (September 8)**: [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Reaper]] attacks Alice at [[Edmund White Estate]], forcing her to relocate to [[COTU (Center of the Universe)|COTU]] tunnels.
 * **1997 (September 18)**: The F7 Theft
     * [[Calvin Pierce]] steals pure [[F7 (Fluoroxepram)]] from [[White Stag Bar]] basement. **Key Addition**: Theft enabled by [[Rhea]] to eliminate Alice and clear COTU. Calvin plans escape with [[Sean Fielding]].
-* **1997 (September 19-24)**: Calvin distributes F7 to [[COTU (Center of the Universe)|COTU]] homeless. Mass casualties result from paradoxical food worship.
+* **1997 (September 19-24)**: Calvin distributes F7 to [[COTU (Center of the Universe)|COTU]] homeless. Mass casualties result from paradoxical food worship. The impaired Alice ignores this occurrence, failing to register the death around her. 
 * **1997 (September 25)**: **Chrysalis Goes to Ground**
-    * Alice and [[Agent Chrysalis]] discover mass casualties at [[COTU (Center of the Universe)|COTU]]. Panicked by the scene and the [[Spectator Grubs]], fearing a repeat of [[SDEC (San Diego Entomology Club)|SDEC]], Chrysalis cuts contact with BNJC and disappears. He tells the F7-impaired Alice something about his destination; what she actually heard, and what he actually said, are not reliably the same thing. He is **not** at PCBOT. His present location is unknown to everyone.
+    * Alice leads [[Agent Chrysalis]] from I-90 down to the ravine to show him a Spectator Grub. He discovers the mass casualties at [[COTU (Center of the Universe)|COTU]]. Panicked by the scene and the [[Spectator Grubs]], fearing a repeat of [[SDEC (San Diego Entomology Club)|SDEC]], Chrysalis cuts contact with BNJC and disappears. He tells the F7-impaired Alice something about his destination; what she actually heard, and what he actually said, are not reliably the same thing. He is **not** at PCBOT. His present location is unknown to everyone.
 * **1997 (September 26)**: Multiple Crises
     * Morning: [[Calvin Pierce]] killed by [[Rhea's Agents (Editors, Reapers, Writers, Watchers)|Rhea Writer]] at [[COTU (Center of the Universe)|COTU]].
     * Evening: [[Sean Fielding]]'s party with [[Hammerskull Crew]].

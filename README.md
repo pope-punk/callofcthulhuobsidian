@@ -36,7 +36,7 @@ Obsidian vault for a *Call of Cthulhu* TTRPG campaign.
 
 ## A few conventions
 
-* Files tagged `#authorVoice` are the style anchors for the eventual human-rewrite pass — author's voice already in place. The rest of the vault should be brought in line with these.
+* Files tagged `#authorVoice` are the style anchors for the eventual human-rewrite pass — author's voice already in place. Don't change them, and make sure to always reference them when resolving canonical conflicts. The rest of the vault should be brought in line with these.
 * Files tagged `#stub` are minimal placeholder entries waiting for the author to expand.
 * Wikilinks resolve across the whole vault; the folder layout is for human navigation, not link routing.
 

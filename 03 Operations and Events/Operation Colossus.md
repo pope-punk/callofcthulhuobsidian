@@ -1,4 +1,4 @@
-**Tags:** #Operation #BSSA #HistoricalEvent #EUROPA #TheEcho #AuditoryBasilisk #EllensburgNumbersStation
+**Tags:** #Operation #BSSA #HistoricalEvent #EUROPA #TheEcho #AuditoryBasilisk #EllensburgNumbersStation 
 
 ## Overview
 
@@ -18,10 +18,17 @@ BSSA built Colossus out of three Ellensburg-area assets:
 * **[[Ellensburg Numbers Station]]** — a decommissioned [[Operation POUTINE|POUTINE]] CIA relay, repurposed as the broadcast point for The Echo.
 * **[[Special Committee for Artistic Innovation]]** — Washington State arts committee infiltrated by Agent Plaster ([[Phoebe Jones (Agent Plaster)]]); funded and laundered "Axon and Dendrite" through legitimate-looking state-grant paperwork.
 
+Personnel: 
+- Dylan Hill
+- Agent Rococo 
+- Katherine Hill
+- Agent Chisel 
+- Agent Plaster
+
 ## The two broadcasts
 
 * **"Seventh Hour"** (1986-87). Early religious-radio test program. Tones modulated against caller vocal pitch. Produced terrifying religious visions in callers. Terminated when the basilisk's effects plateaued and the religious-zealot audience became operationally unpredictable.
-* **"Axon and Dendrite"** (1987-92). Avant-garde late-night show hosted by [[David Rubinsky]] and [[Cleo Zhang]], both unwitting. [[Raymond Vaughn (Agent Rococo)|Agent Rococo]] installed a modulator at the numbers station that reshaped The Echo in real time against caller-pitch feedback. The Echo's content drifted as the feedback loop matured — religious visions in the early years, cryptid hallucinations by the end. Methamphetamine users were noticeably more susceptible, which became its own line of research and a major source of the BSSA / [[Hammerskull Crew]] alliance.
+* **"Axon and Dendrite"** (1987-92). Avant-garde late-night show hosted by [[David Rubinsky]] and [[Cleo Zhang]], both unwitting. [[Raymond Vaughn (Agent Rococo)|Agent Rococo]] installed a modulator at the numbers station that reshaped The Echo in real time against caller-pitch feedback. The Echo's content drifted as the medium shifted — religious visions in the early years, cryptid hallucinations by the end. Methamphetamine users were noticeably more susceptible, which became its own line of research and a major source of the BSSA / [[Hammerskull Crew]] alliance.
 
 ## How it produced EUROPA
 
@@ -29,7 +36,7 @@ The layered feedback — Echo broadcast, real-time caller-pitch modulation, BSSA
 
 ## Collapse
 
-[[SDEC (San Diego Entomology Club)|SDEC]] detected EUROPA in early 1992 using their CICADA-class sonar work on [[The Echo]]. They contacted Rubinsky and Zhang directly and gave them the **randomizer tool** ([[SDEC Randomizer Mapping Rules]]) — a four-digit-coded permuter that broke the broadcast structure EUROPA had organized around. Combined with [[Raymond Vaughn (Agent Rococo)|Rococo]] pulling the modulator out of the numbers station, EUROPA destabilized and went silent within weeks.
+[[SDEC (San Diego Entomology Club)|SDEC]] detected EUROPA in early 1992 using their CICADA-class sonar work on [[The Echo]]. They contacted Rubinsky and Zhang directly and gave them the **randomizer tool** ([[SDEC Randomizer Mapping Rules]]) — a four-digit-coded permuter that broke the broadcast structure EUROPA had organized around. Combined with [[Raymond Vaughn (Agent Rococo)|Rococo]] pulling the modulator out of the numbers station, EUROPA destabilized and dissipated within weeks. The Echo never became widely replicable as a statically-efficacious tone or melody, remaining confined to the algorithmically modulating dynamic feedback loop between recipient and actors.
 
 The same CICADA program then detected a spatial anomaly under the [[Dead Horse Quarry]] — the [[Hive]]. SDEC connected it to Winston Foxglove's memoirs. [[Rhea]], protecting the discovery, sent the [[SDEC Infiltrator (Specialized Agent)|SDEC Infiltrator]] to eliminate the cell. The Ant Trap sealed the facility. BSSA had no idea Rhea existed and saw only that SDEC had gone dark.
 
