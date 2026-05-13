@@ -38,4 +38,4 @@ Anything about the Hammerskulls
 Presumed active Supervisor at LTX as of October 1997. Could potentially be a source of internal information regarding the anomalous shipments if approached correctly.
 
 ---
-Tags: #character #NPC #LTX #supervisor #SequoiaFalls #contactRef #dirtShipments #SignalDummyRef
+Tags: #Character #NPC #LTX #supervisor #SequoiaFalls #contactRef #dirtShipments #SignalDummyRef #stub

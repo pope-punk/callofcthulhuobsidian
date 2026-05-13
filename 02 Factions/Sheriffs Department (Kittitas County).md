@@ -1,5 +1,5 @@
 
-**Tags:** #Faction #Government #Compromised
+**Tags:** #Faction #Government #Compromised #stub
 
 ## Overview
 The local law enforcement agency responsible for Kittitas County, Washington, which includes the city of [[Ellensburg Area, WA|Ellensburg]] and the location of the [[ErgoMatic Manufacturing]] facility.

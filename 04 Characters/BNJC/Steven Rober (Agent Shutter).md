@@ -18,4 +18,4 @@ Steven Rober, known by the code name **Agent Shutter**, is presented as a recent
 Active mole within BNJC as of October 1997. His betrayal directly led to Syd's recapture.
 
 ---
-Tags: #character #NPC #agent  #mole #spy #traitor #BNJC #BSSA #Montreal #SydFoxglove
+Tags: #Character #NPC #Agent  #mole #spy #traitor #BNJC #BSSA #Montreal #SydFoxglove

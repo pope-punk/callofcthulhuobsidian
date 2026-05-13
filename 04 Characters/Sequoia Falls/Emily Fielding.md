@@ -15,4 +15,4 @@ Emily Fielding (b. 1972) is the sister of [[Sean Fielding]].
 Presumed living as of October 1997, actively seeking information about her missing brother.
 
 ---
-Tags: #character #NPC #client #plotHook #SeanFielding #sister #SebastianInternational #SignalDummyRef
+Tags: #Character #NPC #client #plotHook #SeanFielding #sister #SebastianInternational #SignalDummyRef

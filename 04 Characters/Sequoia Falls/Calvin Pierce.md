@@ -1,5 +1,5 @@
 
-**Tags:** #Character #Hammerskull #Deceased
+**Tags:** #Character #HammerskullCrew #Deceased
 
 ## Overview
 (Deceased Late Sept 1997) Member of the [[Hammerskull Crew]] and friend/lover of [[Sean Fielding]]. Played a key role in the [[COTU (Center of the Universe)]] mass poisoning event.

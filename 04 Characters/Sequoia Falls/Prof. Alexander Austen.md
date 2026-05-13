@@ -18,4 +18,4 @@ Professor Alexander Austen is a chemistry professor at the local community colle
 Presumed active professor at the community college as of late 1997/early 1998 (based on timing of player interactions).
 
 ---
-Tags: #character #NPC #contact #professor #chemistry #analysis #expert #SequoiaFalls #SignalDummyRef #SpectatorGrubRef
+Tags: #Character #NPC #Contact #professor #chemistry #analysis #expert #SequoiaFalls #SignalDummyRef #SpectatorGrubRef

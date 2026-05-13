@@ -18,4 +18,4 @@ While Edmund White himself is historical, his property became entangled in the c
 * **Access**: The woods around the estate may require a low dose of [[F7 (Fluoroxepram)]] to navigate safely.
 
 ---
-Tags: #character #NPC #historical #antagonist #serialKiller #BalloonMaskKiller #BMK #EdmundWhiteEstate #AliceRedmondRef #locationRef #SequoiaFalls
+Tags: #Character #NPC #Historical #Antagonist #serialKiller #BalloonMaskKiller #BMK #EdmundWhiteEstate #AliceRedmondRef #locationRef #SequoiaFalls

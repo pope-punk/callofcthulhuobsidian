@@ -13,4 +13,4 @@ Thurston Foxglove (1865-1934) was the founder of the original Foxglove family bu
 *(Note: Thurston's role is primarily historical, establishing the family business that Winston later transformed into LTX. There is no indication in the documents that he had any awareness of or involvement with Rhea or the Algorithm.)*
 
 ---
-Tags: #character #NPC #historical #deceased #FoxgloveFamily #business #LTX #SequoiaFalls
+Tags: #Character #NPC #Historical #Deceased #FoxgloveFamily #business #LTX #SequoiaFalls

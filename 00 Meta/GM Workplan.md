@@ -1,5 +1,7 @@
 # GM Workplan — Cycles of Rhea
 
+**Tags:** #Meta #Workplan #ToDo #authorVoice
+
 A consolidated, current view of what's left to author at the handout / table-prep level. Supersedes the old "To-Do List" and "New To-Do List". The campaign's *narrative* outline lives in [[Story Trajectory]]; the *historical* timeline in [[Master Timeline]]; the *session play log* in [[Established Canon]]. This file is for production work still owed.
 
 ---

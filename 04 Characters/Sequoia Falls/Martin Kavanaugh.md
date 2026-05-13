@@ -16,4 +16,4 @@ Martin Kavanaugh was the CEO of [[LTX (Land Transit Express)|LTX]] from the earl
 His status after being replaced as CEO is not mentioned in the documents.
 
 ---
-Tags: #character #NPC #historical #businessman #CEO #LTX #AmericanMeridian #ErgoMatic #merger
+Tags: #Character #NPC #Historical #businessman #CEO #LTX #AmericanMeridian #ErgoMatic #merger

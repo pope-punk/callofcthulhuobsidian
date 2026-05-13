@@ -45,4 +45,4 @@ Active BNJC agent as of October 1997. Operating in a deniable adjacency to his o
 ![[TremoloNote.png|400]]
 
 ---
-Tags: #character #NPC #agent #AgentTremolo #BNJC #MirrorBreaker #SequoiaFalls
+Tags: #Character #NPC #Agent #AgentTremolo #BNJC #MirrorBreaker #SequoiaFalls

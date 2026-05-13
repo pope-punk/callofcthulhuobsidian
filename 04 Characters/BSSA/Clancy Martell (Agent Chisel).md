@@ -18,4 +18,4 @@ Clancy Martell, known by the code name **Agent Chisel**, is the primary chemical
 Active BSSA chemical researcher as of October 1997, based at Saint Anselm's.
 
 ---
-Tags: #character #NPC #agent #AgentChisel #BSSA #chemist #researcher #ProjectOzymandias #OperationColossus #F7 #G5 #SaintAnselms
+Tags: #Character #NPC #Agent #AgentChisel #BSSA #chemist #researcher #ProjectOzymandias #OperationColossus #F7 #G5 #SaintAnselms

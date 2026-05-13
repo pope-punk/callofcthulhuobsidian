@@ -23,4 +23,4 @@ Thomas Reeves was an employee of [[LTX (Land Transit Express)|LTX]] living in [[
 Deceased — died of dehydration in the trunk of his own car several days after capture on September 8th, 1997. His name appears crossed out in [[Alice's Journal (Satchel)|Alice's journal]].
 
 ---
-Tags: #character #NPC #victim #deceased #LTX #SequoiaFalls #ColinReeves #brother #AliceRedmond #F7 #Hexacle
+Tags: #Character #NPC #Victim #Deceased #LTX #SequoiaFalls #ColinReeves #brother #AliceRedmond #F7 #Hexacle

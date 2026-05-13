@@ -13,4 +13,4 @@ The Spigot is identified as a bar located on Route 90 (likely near [[Sequoia Fal
 *(Note: Beyond its name, general location on Route 90, and association with Sean Fielding/Mandy Archer, no further details about The Spigot's atmosphere, ownership, or clientele are provided in the documents.)*
 
 ---
-Tags: #location #bar #Route90 #SequoiaFallsRef #SeanFielding #MandyArcher #meetingSpot
+Tags: #Location #bar #Route90 #SequoiaFallsRef #SeanFielding #MandyArcher #meetingSpot

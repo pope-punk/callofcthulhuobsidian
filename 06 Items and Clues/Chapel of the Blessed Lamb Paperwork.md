@@ -14,4 +14,4 @@ Paperwork related to the "Chapel of the Blessed Lamb," the former BSSA front org
 *(Note: While the existence and location of the paperwork are mentioned as a clue, the specific documents or information contained within are not itemized in the provided materials.)*
 
 ---
-Tags: #item #clue #paperwork #ChapelOfTheBlessedLamb #BSSA #OperationColossus #Ellensburg #SeventhTabernacle #history
+Tags: #Item #Clue #paperwork #ChapelOfTheBlessedLamb #BSSA #OperationColossus #Ellensburg #SeventhTabernacle #History

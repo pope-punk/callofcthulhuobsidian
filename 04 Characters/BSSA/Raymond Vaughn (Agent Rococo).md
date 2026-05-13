@@ -18,4 +18,4 @@ Raymond Vaughn, known by the code name **Agent Rococo**, is a technical speciali
 His status after the conclusion of Operation Colossus in 1992 is not detailed in the provided documents. He successfully escaped Ellensburg.
 
 ---
-Tags: #character #NPC #agent #AgentRococo #BSSA #technician #OperationColossus #TheEcho #EUROPA #EllensburgNumbersStation #SDECRef
+Tags: #Character #NPC #Agent #AgentRococo #BSSA #technician #OperationColossus #TheEcho #EUROPA #EllensburgNumbersStation #SDECRef

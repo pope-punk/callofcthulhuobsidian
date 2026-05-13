@@ -17,4 +17,4 @@ Colin Reeves was a police detective in [[Sequoia Falls, WA]].
 Deceased. Killed by a [[Reapers|Reaper]] ("Elk-like" entity) at [[Alice Redmond's House]] on October 8th, 1997, while investigating alongside the players.
 
 ---
-Tags: #character #NPC #deceased #police #detective #ally #investigation #SequoiaFalls #Reaper #victim
+Tags: #Character #NPC #Deceased #police #detective #Ally #Investigation #SequoiaFalls #Reaper #Victim
