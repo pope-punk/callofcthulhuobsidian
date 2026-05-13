@@ -100,7 +100,7 @@ tags: #CampaignOutline #NarrativeFlow #Act1 #Act2 #Act3 #CyclesOfRhea #Establish
 * **[[Éric Blanc's Apartment]] (Counter-Intelligence Path):**
     * Find it **nearly ransacked**: drawers emptied, signs of struggle near the door, no body.
     * Wall calendar with circled days; **museum receipts**; photographs of Blanc and Alice; partial notebooks.
-    * **Blanc's computer**, intact, with an encrypted home volume containing the **PCBOT tunnel schematics and the SDEC remote-access bypass methodology** — locked behind a passphrase only Alice knows.
+    * **Blanc's computer**, intact, with an encrypted home volume containing the **PCBOT facility schematics and Alice's stolen [[SDEC Ant Trap Protocol Documents]]**, packaged with the override procedure she and Blanc worked up between 1994 and 1996 — locked behind a passphrase only Alice knows.
     * The combined evidence makes the trap clear: Blanc has been captured; BSSA holds his email and is steering correspondents to the McCord Museum on a specific date; Syd is unwittingly on his way there for a long-standing emergency rendezvous.
 * **Museum Ambush at the [[McCord Museum]]:**
     * Knowing the time and place, players coordinate with UMSE to approach cautiously near the rendezvous time. BSSA cuts lights, deploys NVG agents, attempts to capture Syd alive and neutralize the players.
@@ -117,26 +117,26 @@ tags: #CampaignOutline #NarrativeFlow #Act1 #Act2 #Act3 #CyclesOfRhea #Establish
 * **[[Oliver Foxglove]] House:** Access safe. Retrieve advanced research notes **and** the vacuum-sealed reagent.
 * **Synthesize G6:** Syd uses notes + reagent + McGill-or-equivalent lab access to synthesize [[G6 (Non-Gallium Antidote)|G6]].
 * **Subdue and Cure Alice:** Return to the [[Sewers and Maintenance Tunnels]], locate/subdue Alice, administer G6 orally. Potential interference from BSSA remnants and/or PCBOT scouts. **If [[Katherine Hill]] survived the McCord operation, she shows up here** — she has personal stakes in recovering Syd, in killing Alice before Alice can talk, and (if she's pieced it together) in stopping the cure from succeeding.
-* **Decrypt the Blanc Drive:** A cured, lucid Alice provides the passphrase. The drive yields the **PCBOT tunnel schematics** and the **SDEC remote-access bypass methodology**. Alice walks the team through the procedure and confirms it must be executed in person at PCBOT — she put the intelligence on the drive herself, she's been inside PCBOT HQ before (the 1993-94 EUROPA period), and she is the only one who can read the live network against the 1996 schematics. She also wants to go.
+* **Decrypt the Blanc Drive:** A cured, lucid Alice provides the passphrase. The drive yields the **PCBOT facility schematics** and the **[[SDEC Ant Trap Protocol Documents]]** — internal PCBOT paperwork Alice quietly stole during the EUROPA period, describing how the SDEC Ant Trap can be remotely disengaged from PCBOT's control center. Alice walks the team through the procedure: it has to be executed in person at PCBOT, she's been inside the building before (1993–94), and she is the only one fluent enough in the documents and the 1996 schematics to actually run it. She also wants to go.
 * **Alice's Debrief:** Cured Alice confirms Reaper/Writer reality. She notes that Chrysalis has gone off the grid (he is no longer at PCBOT in this canon — see [[Agent Chrysalis]]) and that he is the fallback if the PCBOT plan collapses. She commits to accompanying the players to DC.
 
-### 2. PCBOT Excursion (Bypass & Remote Extract)
+### 2. PCBOT Excursion (Ant Trap Override & Departing Flight)
 
-**Objective:** Get Alice to the PCBOT secure terminal cluster so she can run the bypass, pull SDEC's digital archive, jam Caraway's "[[PCBOT Headquarters|Departing Flight]]" strike, and survive.
+**Objective:** Get Alice to the PCBOT control center so she can remotely disable [[SDEC Facility|SDEC]]'s Ant Trap, then survive Caraway's "[[PCBOT Headquarters|Departing Flight]]" airstrike against Sequoia Falls. Nothing is extracted from SDEC at PCBOT — this is purely a remote unlock of SDEC's physical seal, after which the team will travel to San Diego in person.
 
 * **Infiltration:** Travel to DC; possibly use [[VTFT (Virginia Track & Field Team)|VTFT]] for an outside diversion. Explore the building (tourism cover, blacksite, "Guest Suite", "Baggage Claim", Katherine's office, secure archives). Find [[G5 (Gallium-stabilized Amphetamine Complex)|G5]] samples in cold storage.
-* **Alice Executes the Bypass:** Alice opens a remote session into SDEC and pulls the digital archive. Winston's physical memoirs are not on the network and remain in San Diego.
+* **The Ant Trap Override:** Alice (with the team) reaches the control center and executes the override procedure documented in the [[SDEC Ant Trap Protocol Documents]]. The Ant Trap at the San Diego facility disengages remotely. Nothing else is touched — SDEC has no networked archive; this is the *only* thing extractable from PCBOT-to-SDEC. (See [[Mirror-Breaker Protocol]].)
 * **No Chrysalis here.** The Guest Suite is empty of him; he never made it to PCBOT. (See [[Agent Chrysalis]].)
 * **Caraway Reacts:** The infiltration confirms his worst fear; he triggers "Departing Flight" against Sequoia Falls. Countdown begins.
-* **Decryption and Jamming:** Players figure out that enhanced pattern recognition (G5 or G6) is needed to decrypt the strike frequencies. Alice volunteers, decrypts, relays the frequencies to Nine-String, [[BNJC Radiometry Array]] jams the strike.
-* **Caraway's fate:** If the team succeeds in jamming the strike and extracting the archive, Caraway dies at PCBOT HQ. The specific mechanics — execution, suicide, killed by his own staff once the cover is blown, gunned down in a final confrontation — are GM-flexible at the table.
-* **Alice's fate:** dies later (G5 or G6+F7 pathways) or becomes automaton (G6 pathway). The team escapes with the digital extract.
+* **Decryption and Jamming:** Players figure out that enhanced pattern recognition (G5 or G6) is needed to decrypt the strike frequencies. Alice volunteers, decrypts, relays the frequencies to Nine-String, [[BNJC Radiometry Array]] jams the strike. This is Alice's sacrifice — separate from the override, which is already done.
+* **Caraway's fate:** If the team succeeds in disabling the Ant Trap and jamming the strike, Caraway dies at PCBOT HQ. The specific mechanics — execution, suicide, killed by his own staff once the cover is blown, gunned down in a final confrontation — are GM-flexible at the table.
+* **Alice's fate:** dies later (G5 or G6+F7 pathways) or becomes automaton (G6 pathway). The team escapes without her.
 
 ### 3. SDEC, In Person
 
-* Travel to [[San Diego, CA]] to retrieve **Winston's actual paper memoirs**, including the [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]], which were never digitized and cannot be remoted out.
-* Dungeon-crawl the sealed facility: [[BRACHINUS Class Turrets]], the Ant Trap proper, possible lingering [[SDEC Infiltrator (Specialized Agent)]] hazard.
-* **Fallback pathway:** if the PCBOT operation collapsed earlier, [[Agent Chrysalis]] is now the doorway — the team must first find him in hiding, get him to walk them through the Ant Trap, and only then attempt physical entry.
+* Travel to [[San Diego, CA]] to retrieve **Winston's paper memoirs**, including the [[Hexagon Pages (Winston's Memoirs)|Hexagon Pages]]. The Ant Trap is already disengaged from the PCBOT override; the team can physically enter the sealed facility.
+* Dungeon-crawl the facility: [[BRACHINUS Class Turrets]], residual hazards left over from the Ant Trap's deeper interior defenses, possible lingering [[SDEC Infiltrator (Specialized Agent)]] hazard.
+* **Fallback pathway:** if the PCBOT operation collapsed earlier and the override was never issued, [[Agent Chrysalis]] is now the doorway — the team must first find him in hiding, get him to walk them through the Ant Trap physically, and only then attempt entry.
 
 ### 4. Decoding the Memoirs
 

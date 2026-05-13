@@ -25,5 +25,5 @@ A theoretical, non-toxic antidote for [[F7 (Fluoroxepram)]], conceived by [[Syd 
 
 ## Campaign Significance
 * Central MacGuffin. Requires rescuing Syd *and* solving the [[Safe Puzzle]] to obtain both the notes *and* the reagent.
-* Only safe cure for [[Alice Redmond (Agent Altissimo)]] — and since Alice is the only person who can decrypt Blanc's PCBOT-bypass methodology, **curing her is the structural gate to the PCBOT and SDEC arcs**, not merely a humanitarian outcome.
+* Only safe cure for [[Alice Redmond (Agent Altissimo)]] — and since Alice is the only person who can decrypt Blanc's drive and execute the SDEC Ant Trap override procedure, **curing her is the structural gate to the PCBOT and SDEC arcs**, not merely a humanitarian outcome.
 * Possession presents the ultimate endgame choice: cure Alice vs. enabling Rhea's final victory.

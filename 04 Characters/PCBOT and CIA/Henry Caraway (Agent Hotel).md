@@ -28,6 +28,6 @@ When the players' PCBOT infiltration breaches the secure floors, Caraway will re
 
 ## Caraway's fate
 
-If the team succeeds — jams the strike, extracts the SDEC archive, walks out — Caraway dies at PCBOT HQ. The specific mechanics are GM-flexible: shot in the confrontation, killed by his own staff once the cover is blown, suicide, retribution by a survivor. The narrative requirement is that the man does not walk out of his own building.
+If the team succeeds — disengages the [[SDEC Facility|SDEC]] Ant Trap remotely, jams the strike, walks out — Caraway dies at PCBOT HQ. The specific mechanics are GM-flexible: shot in the confrontation, killed by his own staff once the cover is blown, suicide, retribution by a survivor. The narrative requirement is that the man does not walk out of his own building.
 
 If the mission fails, he survives, and the campaign collapses around him.

@@ -9,4 +9,4 @@ The Infiltrator systematically eliminated SDEC's personnel and triggered the fac
 Unknown. Possibly destroyed in the 1992 conflict; possibly still resident within the sealed facility as a lingering hazard for any on-site visit.
 
 ## Role in Campaign
-A potential late-arc threat if the players elect to physically enter SDEC after the remote-terminal extraction at PCBOT. Otherwise, the Infiltrator remains a historical menace that explains *why* SDEC is sealed.
+A potential late-arc threat when the players physically enter SDEC after the Ant Trap is remotely disengaged from PCBOT. The on-site retrieval of [[Winston's Memoirs (SDEC)|Winston's memoirs]] is mandatory — there is no remote alternative — so the Infiltrator (if still present) is a live hazard rather than an optional one.

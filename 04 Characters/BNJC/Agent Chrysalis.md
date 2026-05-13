@@ -39,9 +39,9 @@ He is **not** at PCBOT HQ. Whatever destination he hinted at to the F7-impaired 
 
 ## Role in the Campaign
 
-Chrysalis is a **contingency**, not a goal. The primary path to SDEC runs through Alice → Blanc's drive → PCBOT bypass → in-person retrieval at San Diego.
+Chrysalis is a **contingency**, not a goal. The primary path to SDEC runs through Alice → Blanc's drive → PCBOT Ant Trap remote override → in-person retrieval at San Diego.
 
-If that path is foreclosed at the table — Alice dies before decrypting; the PCBOT operation collapses; Caraway burns the secure archives — Chrysalis becomes the alternative entry: as the only surviving SDEC field agent, his biometrics and procedural knowledge can plausibly bypass the Ant Trap on-site. Players who go looking for him will need to follow old BNJC / SDEC threads (Lopez, his pre-1992 contacts, anywhere he might run that isn't Sequoia Falls or DC).
+If that path is foreclosed at the table — Alice dies before decrypting; the PCBOT operation collapses before the override is issued; Caraway captures or kills the team in the control center — Chrysalis becomes the alternative entry: as the only surviving SDEC field agent, his biometrics and procedural knowledge can plausibly bypass the Ant Trap on-site. Players who go looking for him will need to follow old BNJC / SDEC threads (Lopez, his pre-1992 contacts, anywhere he might run that isn't Sequoia Falls or DC).
 
 If he is never needed, he can resurface in the endgame as a damaged but living survivor — or he can stay in the wind, his fate left unresolved.
 
