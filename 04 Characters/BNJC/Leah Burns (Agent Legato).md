@@ -1,4 +1,4 @@
-Tags: #character #BNJC 
+Tags: #character #BNJC #AuthorVoice
 
 Leah Burns (Agent Legato) is a supporting agent at the Blue Note Jazz collective. She is known for her chipper demeanor, enthusiastic application of the Mirror-Breaker Protocol, and tendency to correct the harried and exhausted Agent Tremolo whenever he lapses in the metaphorical cipher. 
 
