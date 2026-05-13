@@ -1,4 +1,4 @@
-**Tags:** #Character #Hammerskull #Deceased #PlotCatalyst #Victim
+**Tags:** #Character #HammerskullCrew #Deceased #PlotCatalyst #Victim
 
 ## Overview
 

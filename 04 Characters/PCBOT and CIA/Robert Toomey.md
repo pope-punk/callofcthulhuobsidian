@@ -15,4 +15,4 @@ Robert Toomey was a government ally associated with [[Jacqui Lopez (Director Jav
 Deceased. Assassinated mid-1994.
 
 ---
-Tags: #character #NPC #historical #deceased #government #ally #JacquiLopez #PCBOT #CIA #assassination #stub
+Tags: #Character #NPC #Historical #Deceased #Government #Ally #JacquiLopez #PCBOT #CIA #assassination #stub

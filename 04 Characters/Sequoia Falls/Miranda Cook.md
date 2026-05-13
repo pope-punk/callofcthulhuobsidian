@@ -16,4 +16,4 @@ Miranda Cook works as the Receptionist at the [[LTX (Land Transit Express)|LTX]]
 Presumed active Receptionist at LTX as of October 1997.
 
 ---
-Tags: #character #NPC #LTX #receptionist #SequoiaFalls #contactRef #stub
+Tags: #Character #NPC #LTX #receptionist #SequoiaFalls #contactRef #stub

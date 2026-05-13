@@ -1,5 +1,5 @@
 ---
-tags: [Item, Document, Clue, OperationPOUTINE]
+tags: [Item, Document, Clue, OperationPOUTINE, stub]
 ---
 
 ## Overview

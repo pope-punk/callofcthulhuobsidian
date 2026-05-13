@@ -30,4 +30,4 @@ Doesn’t know anything about Rhea, Callisto, Europa, etc.
 Presumed active HR Manager at LTX as of October 1997.
 
 ---
-Tags: #character #NPC #LTX #HR #SequoiaFalls #contactRef
+Tags: #Character #NPC #LTX #HR #SequoiaFalls #contactRef #stub

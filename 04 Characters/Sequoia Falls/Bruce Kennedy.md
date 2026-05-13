@@ -16,4 +16,4 @@ Bruce Kennedy is identified as a Sheriff's Deputy in Kittitas County (where Elle
 Presumed active Kittitas County Sheriff's Deputy and Hammerskull member as of 1997.
 
 ---
-Tags: #character #NPC #antagonist #police #deputy #HammerskullCrew #KittitasCounty #SydFoxglove #OliverFoxglove #corruption #BSSARef
+Tags: #Character #NPC #Antagonist #police #deputy #HammerskullCrew #KittitasCounty #SydFoxglove #OliverFoxglove #corruption #BSSARef
