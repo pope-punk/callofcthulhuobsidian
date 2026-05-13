@@ -1,5 +1,7 @@
 # Open Questions & Organization Notes
 
+**Tags:** #Meta #Organization #OpenQuestions #authorVoice
+
 A standing document of unresolved canonical questions, recommended next-pass work, and structural observations about the vault. Written from the position of an editor handing the project back to you for the "human-rewrite" phase. Items below are not blockers — they are surfaced so you can answer or defer them deliberately rather than discovering them mid-prep.
 
 ---
