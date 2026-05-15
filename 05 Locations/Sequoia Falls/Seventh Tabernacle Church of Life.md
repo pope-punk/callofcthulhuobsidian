@@ -20,7 +20,7 @@ A [[BSSA (Boise Society for Sculptural Appreciation)]] front organization operat
 ## Planned Investigation Discoveries (Act II Revisit)
 - Infiltrate past [[Hammerskull Crew]] security.
 - Discover the Sub-Sanctuary Chamber ([[Operation Parthenon]] / [[IO (Emerging 1997)]]). Observe the 3D Fauxflake pew arrangement and the viewing apparatus.
-- Solve the Pew Puzzle.
+- Solve the [[Rotating Pews Puzzle]] — drive the modular pew system into a stable configuration to collapse the 3D Fauxflake.
 - Find **Syd's Empty Holding Cell**, containing the **[[Amanda Green Photograph]]**.
 - Locate the **[[Chapel of the Blessed Lamb Paperwork]]** in storage.
 
