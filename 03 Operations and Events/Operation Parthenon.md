@@ -29,7 +29,7 @@ This is why recovering Syd is BSSA's top current priority. Parthenon cannot adva
 
 ## Status (late October 1997)
 
-Active. IO is emerging — slowly, by all available BSSA telemetry — within the chamber. The 2D diagrams are at the limit of their current efficacy. Katherine needs Syd back at the pew controls to push past it. The Montreal operation is downstream of Parthenon's stall.
+Active. IO is emerging — slowly, by all available BSSA telemetry — within the chamber. The 2D diagrams are at the limit of their current efficacy. Katherine needs Syd back at the pew controls (the [[Rotating Pews Puzzle|pew console]]) to push past it. The Montreal operation is downstream of Parthenon's stall.
 
 ## Related
 

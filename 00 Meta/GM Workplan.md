@@ -16,7 +16,7 @@ Players exited COTU around Oct 10, 1997, after finding the [[Montreal Phone Numb
 
 * **[[White Stag Bar]]** — basement meth lab; email archive confirming Calvin's F7 theft and the access code (1489) for Saint Anselm's.
 * **[[Saint Anselm's Center for Hope]]** — layout, code 1489 mechanics, [[Clancy Martell (Agent Chisel)|Agent Chisel]] encounter, basilisk testing wing ([[Fauxflake]] / [[Black Coral]] / [[The Echo]] samples), Syd's July 15 transfer records, [[Ylynthii Numerals|Ylynthii]] cell-wall carvings (3338 — old access code prior to the Oct 1 1997 update to 1489).
-* **[[Seventh Tabernacle Church of Life]] revisit** — past [[Hammerskull Crew]] security, sub-sanctuary [[Fauxflake]] apparatus / [[Operation Parthenon]] / [[IO (Emerging 1997)]], pew puzzle, Syd's empty cell with [[Amanda Green Photograph]] and second set of Ylynthii markings, [[Chapel of the Blessed Lamb Paperwork]] pointing to [[Ellensburg Area, WA|Ellensburg]].
+* **[[Seventh Tabernacle Church of Life]] revisit** — past [[Hammerskull Crew]] security, sub-sanctuary [[Fauxflake]] apparatus / [[Operation Parthenon]] / [[IO (Emerging 1997)]], [[Rotating Pews Puzzle]], Syd's empty cell with [[Amanda Green Photograph]] and second set of Ylynthii markings, [[Chapel of the Blessed Lamb Paperwork]] pointing to [[Ellensburg Area, WA|Ellensburg]].
 
 ### 2. Ellensburg arc
 

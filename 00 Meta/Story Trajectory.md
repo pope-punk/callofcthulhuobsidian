@@ -65,7 +65,7 @@ tags: #CampaignOutline #NarrativeFlow #Act1 #Act2 #Act3 #CyclesOfRhea #Establish
 * **[[White Stag Bar]]:** Use Sean's key. Basement meth lab. Emails confirming Calvin's F7 theft and access code **1489** for Saint Anselm's.
 * **[[LTX Headquarters]] Infiltration:** Sean's keycard. Workstation clues for accessing Syd's account, [[The Snowflake]] research, pointer back to the Church.
 * **[[Saint Anselm's Center for Hope]]:** Use code 1489. Confirm F7 production, basilisk testing wing ([[Fauxflake]], [[Black Coral]], [[The Echo]]). Confront Agent Chisel. Syd's transfer records (July 15th to Church). Ylynthii numeral hints in former cell.
-* **[[Seventh Tabernacle Church of Life]] (Revisit):** Infiltrate past [[Hammerskull Crew]]. Sub-sanctuary Fauxflake apparatus. Solve pew puzzle. Syd's empty cell with [[Amanda Green Photograph]] and more Ylynthii markings. [[Chapel of the Blessed Lamb Paperwork]] pointing to Ellensburg.
+* **[[Seventh Tabernacle Church of Life]] (Revisit):** Infiltrate past [[Hammerskull Crew]]. Sub-sanctuary Fauxflake apparatus. Solve the [[Rotating Pews Puzzle]]. Syd's empty cell with [[Amanda Green Photograph]] and more Ylynthii markings. [[Chapel of the Blessed Lamb Paperwork]] pointing to Ellensburg.
 
 ### 2. The Ellensburg Connection & Oliver's Secret
 
